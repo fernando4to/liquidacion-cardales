@@ -171,6 +171,51 @@
           "IMG_4522 (general tapa abierta, alternativa)"
         ]
       }
+    },
+    {
+      "id": "LAV-002",
+      "nombre": "Secadora LG por condensación 9 kg (DF9WPN)",
+      "categoria": "electrodoméstico",
+      "ambiente": "lavadero",
+      "marca": "LG",
+      "modelo": "DF9WPN",
+      "antiguedad": "3 años",
+      "medidas": "60 cm ancho × 66 cm profundidad × 84.5 cm alto",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 849000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LAV-002-1.jpg",
+        "LAV-002-2.jpg"
+      ],
+      "link_specs": "https://www.lg.com/cl/secadora-de-ropa/df9wpn/",
+      "descripcion": "Secadora de 9 kg por condensación: no necesita salida al exterior —junta el agua en un depósito—, con Sensor Dry que ajusta el secado automáticamente y función anti-arrugas. Es apilable sobre un lavarropas para ahorrar espacio. Funciona perfecto, con el tambor impecable y panel operativo (probado en las fotos). En excelente estado, sin defectos, 3 años de uso; se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.lg.com/cl/secadora-de-ropa/df9wpn/",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Página oficial LG (modelo exacto). Secadora condensación 9kg, Sensor Dry, apilable"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/secarropas-lg-por-condensacion",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Mercado usado AR de secadoras condensación LG: alta demanda, baja oferta; listados no dan precio directo del DF9WPN"
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $849.000. INCERTIDUMBRE declarada: no se halló comp usado directo del DF9WPN en ML AR. Anclaje: las secadoras de condensación escasean y retienen valor en AR; la equivalente nueva actual (RC9041) ronda >$1,2M. $849.000 para una de 3 años en estado perfecto queda en un rango razonable (~55-65% de nuevo) y no supera el umbral de +30%. Nota: cuesta más que el lavarropas ($569k), lo cual es consistente con el mercado AR (secadoras más escasas). Validado.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4531 (general alt, casi igual a 4530)",
+          "IMG_4532/4533 (labels/depósito, no revisadas en detalle; Feña declaró sin defectos)"
+        ],
+        "cross_sell": "Combina con LAV-001 (lavarropas LG del lavadero): se pueden apilar. Considerar destacarlo en el sitio."
+      }
     }
   ],
   "config": {
