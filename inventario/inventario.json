@@ -216,6 +216,45 @@
         ],
         "cross_sell": "Combina con LAV-001 (lavarropas LG del lavadero): se pueden apilar. Considerar destacarlo en el sitio."
       }
+    },
+    {
+      "id": "GEN-001",
+      "nombre": "Ventilador de pared Airolite VR590R",
+      "categoria": "electrodoméstico",
+      "ambiente": "general",
+      "marca": "Airolite",
+      "modelo": "VR590R",
+      "antiguedad": "3 años",
+      "cantidad": 2,
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 29000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "GEN-001-1.jpg",
+        "GEN-001-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Ventilador de pared Airolite con 3 velocidades, oscilación, temporizador programable (de 0,5 a 4 horas) y modos Natural (brisa) y Sleep (nocturno). Se opera con los botones del propio equipo y funciona perfecto; no incluye control remoto. En muy buen estado, 3 años de uso y sin defectos. Hay 2 unidades iguales disponibles; se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/ventilador-de-pared",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Ventiladores de pared 16-18\" nuevos en AR ~$30-70k; Airolite es marca chilena, sin comp directo del VR590R"
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $29.000 c/u. Ventilador de pared usado 3 años, muy buen estado. Sin comp directo del VR590R (marca chilena). Rango de pared usados ~$25-40k; $29.000 es agresivo y coherente con liquidación. Validado.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4419 (grilla/aspas)",
+          "IMG_4421 (etiqueta VR590R 50W)"
+        ],
+        "nota_cantidad": "2 unidades idénticas; precio por unidad. Al vender una, bajar cantidad a 1; al vender ambas, estado_venta=vendido."
+      }
     }
   ],
   "config": {
