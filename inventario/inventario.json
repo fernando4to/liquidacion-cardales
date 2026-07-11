@@ -82,6 +82,50 @@
         ],
         "pendiente": "Feña sumará foto interior -> COC-002-2 en un update futuro"
       }
+    },
+    {
+      "id": "LIV-001",
+      "nombre": "Smart TV Samsung 65\" 4K UHD Curvo (UN65KU6500)",
+      "categoria": "electrodoméstico",
+      "ambiente": "living",
+      "marca": "Samsung",
+      "modelo": "UN65KU6500",
+      "antiguedad": "2016 (~10 años)",
+      "estado": "muy bueno",
+      "defectos": [
+        "El control remoto original se extravió; se entrega un control remoto universal ya configurado que cumple todas las funciones del original (listo para usar)."
+      ],
+      "precio_ars": 329000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-001-1.jpg",
+        "LIV-001-2.jpg"
+      ],
+      "link_specs": "https://www.samsung.com/co/support/model/UN65KU6500KXZL/",
+      "descripcion": "Smart TV de 65 pulgadas, 4K UHD y pantalla curva: imagen grande y nítida para el living. Funciona perfecto — pantalla impecable, sin líneas ni manchas, y smart operativo (probado en las fotos). Se entrega con un control remoto universal ya configurado que cumple todas las funciones del original (el original se extravió), listo para usar. En muy buen estado para su antigüedad (2016). Se vende por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/samsung-65-4k-curvo",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Rango de listados 65\" curvos Samsung 4K usados en ML AR: ~$250k-$400k+ segun estado; KU6500 2016 realista en la parte baja (~$250-330k)"
+          }
+        ],
+        "logica_tasacion": "Precio final: $329.000 (Feña bajo desde $389.000 a mi recomendacion). Alineado con la parte media-baja del rango de mercado (65\" curvo Samsung 4K usado ~$250-400k) y con la prioridad velocidad>precio. TV de ~10 anos, curvo; se entrega con soporte de pared y control universal 100% funcional.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4409, IMG_4410 (chapas modelo/serie, no publicadas)",
+          "IMG_4513/4515/4517 (frontales encendida, alternativas no publicadas)"
+        ],
+        "incluye": [
+          "soporte de pared",
+          "control remoto universal (todas las funciones del original)"
+        ]
+      },
+      "medidas": "pantalla 65\" (~146 cm de ancho)"
     }
   ],
   "config": {
