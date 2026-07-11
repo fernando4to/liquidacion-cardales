@@ -293,6 +293,50 @@
         "listo_para_publicar": false,
         "pendiente": "Feña: ESTADO + defectos. Luego lockear precio (provisional $199.000) y publicar."
       }
+    },
+    {
+      "id": "OFI-001",
+      "nombre": "Impresora láser Brother HL-L5100DN (mono, red y dúplex)",
+      "categoria": "electrodoméstico",
+      "ambiente": "oficina",
+      "marca": "Brother",
+      "modelo": "HL-L5100DN",
+      "antiguedad": "3 años",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 129000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-001-1.jpg",
+        "OFI-001-2.jpg"
+      ],
+      "link_specs": "https://www.brother.com.ar/products/hll5100dn",
+      "descripcion": "Impresora láser monocromática de alta velocidad (42 ppm), ideal para quien imprime documentos seguido: rápida, con bandeja de 250 hojas y bandeja multipropósito de 50. Conexión por red (Ethernet) y USB, con impresión dúplex automática (doble faz). Funciona impecable e imprime nítido; se entrega con el tóner instalado y funcionando. 3 años de uso, en excelente estado y sin defectos. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.brother.com.ar/products/hll5100dn",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Página oficial Brother AR (modelo exacto). 42 ppm, dúplex, red"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/impresora-brother-hl-l5100dn",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "ML AR: NUEVA ~$200-250k; usadas casi inexistentes (alta demanda)"
+          }
+        ],
+        "logica_tasacion": "Sin precio de Feña -> tasada. Nueva ~$200-250k, usadas escasas. 3 años, imprime impecable, tóner instalado nivel desconocido. Liquidación (P25-40, velocidad>precio) + margen por tóner -> $129.000 (~55% de nueva), agresivo y de venta rápida. Rango aceptable hasta ~$149.000 si Feña quiere.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4426 (panel)",
+          "IMG_4542 (cenital) — NO PUBLICAR: muestra un sobre con el apellido en el fondo (privacidad, regla 14.1)"
+        ],
+        "nota_toner": "Feña pidió no especificar nivel de tóner (no lo conoce). Copy honesto: 'se entrega con el tóner instalado y funcionando', sin afirmar nivel/lleno."
+      }
     }
   ],
   "config": {
