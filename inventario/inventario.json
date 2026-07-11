@@ -255,6 +255,44 @@
         ],
         "nota_cantidad": "2 unidades idénticas; precio por unidad. Al vender una, bajar cantidad a 1; al vender ambas, estado_venta=vendido."
       }
+    },
+    {
+      "id": "GEN-002",
+      "nombre": "Bicicleta spinning Ultimate Fitness Z650 pro",
+      "categoria": "electrodoméstico",
+      "ambiente": "general",
+      "marca": "Ultimate Fitness",
+      "modelo": "Z650 pro",
+      "antiguedad": "2023 (~2-3 años)",
+      "estado": "a confirmar",
+      "defectos": [],
+      "precio_ars": 199000,
+      "precio_firme": false,
+      "estado_venta": "disponible",
+      "fotos": [
+        "GEN-002-1.jpg",
+        "GEN-002-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "(BORRADOR — pendiente de estado) Bicicleta de spinning Ultimate Fitness Z650 pro con resistencia magnética, consola digital y pedales con calapiés. Del 2023. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.falabella.com/falabella-cl/product/115810497/BICICLETA-SPINNING-Z650-PRO/115810498",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Modelo exacto en Falabella Chile (nuevo); precio no accesible (403). Ultimate Fitness = marca chilena"
+          }
+        ],
+        "logica_tasacion": "Feña sin precio de referencia. Sin comp directo AR ni precio nuevo accesible. Rango de spin bikes magnéticas con consola usadas en AR ~$150-350k. Para una mid-range de 2023, con liquidación (P25-40, velocidad>precio), PROPUESTA PROVISIONAL $199.000 asumiendo buen estado. PENDIENTE: confirmar estado para lockear precio. No taso en firme sin estado (regla dura).",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4462, IMG_4463 (etiqueta Z650 pro 42kg)"
+        ],
+        "listo_para_publicar": false,
+        "pendiente": "Feña: ESTADO + defectos. Luego lockear precio (provisional $199.000) y publicar."
+      }
     }
   ],
   "config": {

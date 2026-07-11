@@ -18,7 +18,8 @@
       "Bash(git add *)",
       "Bash(git push *)",
       "Bash(awk '{print $9, $5\" bytes\"}')",
-      "Bash(sips -s format jpeg -Z 1400 /Users/fernando/liquidacion-cardales/fotos/originales/IMG_4407.HEIC --out /private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/previews/IMG_4407_hi.jpg)"
+      "Bash(sips -s format jpeg -Z 1400 /Users/fernando/liquidacion-cardales/fotos/originales/IMG_4407.HEIC --out /private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/previews/IMG_4407_hi.jpg)",
+      "WebFetch(domain:www.falabella.com)"
     ]
   }
 }
