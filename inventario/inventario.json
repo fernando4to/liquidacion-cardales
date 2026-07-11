@@ -45,6 +45,43 @@
           "IMG_4503 (etiqueta energía A+ / modelo, no publicada)"
         ]
       }
+    },
+    {
+      "id": "COC-002",
+      "nombre": "Frigobar Mabe 93L negro (RMF04HV0)",
+      "categoria": "electrodoméstico",
+      "ambiente": "cocina",
+      "marca": "Mabe",
+      "modelo": "RMF04HV0",
+      "antiguedad": "~6 años",
+      "medidas": "47 cm ancho × 85 cm alto × 44.5 cm profundidad",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 149000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COC-002-1.jpg"
+      ],
+      "link_specs": "https://mabeglobal.com/es_CL/Refrigeracion/Frigobares/Frigobar-de-93-L-Negro-Mabe---RMF04HV0/p/RMF04HV0",
+      "descripcion": "Frigobar de 93 litros con congelador superior y puerta reversible: práctico para bebidas, oficina, quincho o como heladera de apoyo. Muy bajo consumo (A+, 9,61 kWh/mes) y tamaño compacto (47×85×44,5 cm). En excelente estado, funciona perfecto y sin defectos a la vista. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://mabeglobal.com/es_CL/Refrigeracion/Frigobares/Frigobar-de-93-L-Negro-Mabe---RMF04HV0/p/RMF04HV0",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Página oficial Mabe (specs modelo exacto, sin precio AR)"
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $149.000. Frigobar 93L, ~6 años, estado perfecto sin defectos. No surgieron comps usados directos en ML AR ni precio nuevo AR; los frigobares nuevos de este tamaño rondan bastante por encima. $149.000 es un precio agresivo y dentro del rango razonable de usado (~$100-180k). Validado, no se ajusta.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4510 (etiqueta energía A+ / logo, no publicada)"
+        ],
+        "pendiente": "Feña sumará foto interior -> COC-002-2 en un update futuro"
+      }
     }
   ],
   "config": {
