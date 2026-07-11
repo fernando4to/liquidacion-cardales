@@ -1,0 +1,251 @@
+/* ==========================================================================
+   Liquidación Los Cardales — "etiqueta de inventario de mudanza"
+   ========================================================================== */
+
+:root{
+  --tiza:#FAF9F6;        /* fondo blanco tiza */
+  --tinta:#1C1B18;       /* texto casi negro */
+  --tinta-70:rgba(28,27,24,.70);
+  --tinta-45:rgba(28,27,24,.45);
+  --azul:#1D3A8F;        /* azul de sello — acento principal */
+  --azul-oscuro:#152C6E;
+  --kraft:#B99B6B;       /* kraft secundario */
+  --kraft-suave:#EDE4D3;
+  --rojo:#B3261E;        /* rojo tampón — VENDIDO */
+  --linea:rgba(28,27,24,.14);
+  --papel:#F3EFE7;       /* panel tipo cartón claro */
+  --sombra:0 1px 2px rgba(28,27,24,.06),0 8px 24px rgba(28,27,24,.07);
+  --radio:4px;
+  --ancho:1180px;
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;overflow-x:hidden}
+body{
+  margin:0;background:var(--tiza);color:var(--tinta);
+  font-family:"Inter","Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  font-size:16px;line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%;display:block}
+a{color:var(--azul);text-decoration:none}
+button{font-family:inherit}
+
+.wrap{max-width:var(--ancho);margin:0 auto;padding:0 20px}
+
+/* ---- Tipografías utilitarias ---- */
+.display{font-family:"Bricolage Grotesque","Archivo",system-ui,sans-serif;font-weight:800;line-height:1.02;letter-spacing:-.01em}
+.stencil{font-family:"Saira Stencil One",monospace;font-weight:400;letter-spacing:.06em}
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+.site-header{
+  border-bottom:2px solid var(--tinta);
+  background:
+    repeating-linear-gradient(45deg,transparent,transparent 11px,rgba(185,155,107,.06) 11px,rgba(185,155,107,.06) 12px),
+    var(--tiza);
+}
+.hdr{display:grid;grid-template-columns:1fr auto;gap:22px;align-items:end;padding:26px 20px 22px}
+.hdr-brand{min-width:0}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:12px;text-transform:uppercase;letter-spacing:.14em;color:var(--tinta-70);font-weight:600}
+.eyebrow::before{content:"";width:26px;height:2px;background:var(--kraft)}
+.site-title{font-size:clamp(30px,6vw,54px);margin:.18em 0 .12em}
+.site-sub{margin:0;color:var(--tinta-70);font-size:clamp(14px,2.2vw,17px);max-width:52ch}
+.hdr-side{display:flex;flex-direction:column;align-items:flex-end;gap:12px;text-align:right}
+
+.deadline{
+  border:1.5px solid var(--tinta);border-radius:var(--radio);
+  padding:8px 12px;background:var(--tiza);line-height:1.1;
+  transform:rotate(-1.2deg);box-shadow:var(--sombra)
+}
+.deadline .k{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:var(--rojo);font-weight:700}
+.deadline .v{font-size:15px;font-weight:700}
+.deadline .d{font-size:11px;color:var(--tinta-70)}
+
+/* Botón WhatsApp */
+.wa{
+  display:inline-flex;align-items:center;gap:9px;
+  background:var(--azul);color:#fff;font-weight:600;font-size:15px;
+  padding:11px 16px;border-radius:var(--radio);border:none;cursor:pointer;
+  transition:background .15s ease,transform .15s ease;white-space:nowrap
+}
+.wa:hover{background:var(--azul-oscuro)}
+.wa:active{transform:translateY(1px)}
+.wa svg{width:18px;height:18px;fill:currentColor;flex:none}
+.wa.ghost{background:transparent;color:var(--azul);border:1.5px solid var(--azul)}
+.wa.ghost:hover{background:rgba(29,58,143,.07)}
+.wa.block{width:100%;justify-content:center}
+
+/* ==========================================================================
+   Barra de filtros
+   ========================================================================== */
+.controls{position:sticky;top:0;z-index:20;background:var(--tiza);border-bottom:1px solid var(--linea);padding:12px 0}
+.controls-inner{display:flex;flex-wrap:wrap;gap:16px 26px;align-items:center}
+.fgroup{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.fgroup > .flabel{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--tinta-45);font-weight:700;margin-right:2px}
+.chip{
+  border:1.4px solid var(--linea);background:transparent;color:var(--tinta-70);
+  padding:6px 13px;border-radius:100px;font-size:13.5px;font-weight:600;cursor:pointer;
+  transition:all .14s ease
+}
+.chip:hover{border-color:var(--tinta-45);color:var(--tinta)}
+.chip[aria-pressed="true"]{background:var(--tinta);border-color:var(--tinta);color:var(--tiza)}
+.count{margin-left:auto;font-size:13px;color:var(--tinta-45)}
+
+/* ==========================================================================
+   Secciones por ambiente
+   ========================================================================== */
+main{padding:26px 0 60px}
+.ambiente{margin:38px 0 0}
+.ambiente-head{display:flex;align-items:baseline;gap:14px;border-bottom:2px solid var(--tinta);padding-bottom:8px;margin-bottom:22px}
+.ambiente-head h2{font-size:clamp(20px,3.4vw,28px);margin:0;text-transform:capitalize}
+.ambiente-head .n{font-size:13px;color:var(--tinta-45);font-weight:600}
+.ambiente-head .tag{margin-left:auto;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--kraft);font-weight:700}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(270px,100%),1fr));gap:22px}
+
+/* ---- Tarjeta ---- */
+.card{
+  background:var(--tiza);border:1.5px solid var(--tinta);border-radius:var(--radio);
+  overflow:hidden;display:flex;flex-direction:column;position:relative;min-width:0;
+  box-shadow:var(--sombra);transition:transform .16s ease,box-shadow .16s ease
+}
+.card:hover{transform:translateY(-3px);box-shadow:0 4px 10px rgba(28,27,24,.10),0 16px 34px rgba(28,27,24,.12)}
+
+.card-media{position:relative;aspect-ratio:4/3;background:var(--papel);cursor:pointer;overflow:hidden}
+.card-media img{width:100%;height:100%;object-fit:cover;transition:transform .3s ease}
+.card:hover .card-media img{transform:scale(1.03)}
+
+/* ID estampado tipo estarcido */
+.stamp-id{
+  position:absolute;left:10px;top:10px;
+  font-family:"Saira Stencil One",monospace;font-size:13px;letter-spacing:.08em;
+  color:var(--azul);background:rgba(250,249,246,.86);
+  border:1.5px solid var(--azul);border-radius:3px;padding:2px 8px;
+  transform:rotate(-3deg);backdrop-filter:blur(2px)
+}
+.badge-fotos{
+  position:absolute;right:10px;bottom:10px;font-size:11px;font-weight:700;
+  color:var(--tiza);background:rgba(28,27,24,.68);border-radius:100px;padding:3px 9px;
+  display:flex;align-items:center;gap:5px
+}
+
+.card-body{padding:14px 15px 16px;display:flex;flex-direction:column;gap:9px;flex:1}
+.card-name{font-size:16px;line-height:1.28;margin:0;font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:700;overflow-wrap:anywhere}
+.card-meta{font-size:12.5px;color:var(--tinta-45);display:flex;flex-wrap:wrap;gap:4px 10px;margin-top:-2px}
+
+.estado-badge{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+.estado-badge::before{content:"";width:8px;height:8px;border-radius:100px;background:var(--kraft)}
+.estado-badge[data-e="excelente"]::before{background:#2E7D46}
+.estado-badge[data-e="muy bueno"]::before{background:#5A9E3A}
+.estado-badge[data-e="bueno"]::before{background:var(--kraft)}
+
+.defectos{font-size:12.5px;color:var(--tinta-70);background:var(--kraft-suave);border-radius:3px;padding:6px 9px;line-height:1.35}
+.defectos b{color:var(--tinta);font-weight:700}
+
+.price-row{display:flex;align-items:baseline;gap:6px 8px;margin-top:auto;padding-top:4px;flex-wrap:wrap}
+.price{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:800;font-size:27px;color:var(--azul);letter-spacing:-.02em;line-height:1}
+.price-firme{font-size:10.5px;text-transform:uppercase;letter-spacing:.1em;color:var(--tinta-45);font-weight:700;border:1px solid var(--linea);border-radius:3px;padding:2px 5px}
+.price-unit{font-size:12px;color:var(--tinta-45);font-weight:600}
+
+.card-actions{display:flex;gap:8px;margin-top:2px}
+.card-actions .wa{flex:1;padding:10px 12px;font-size:14px}
+.btn-detalle{
+  border:1.5px solid var(--linea);background:transparent;color:var(--tinta-70);
+  border-radius:var(--radio);padding:10px 13px;font-size:14px;font-weight:600;cursor:pointer;transition:all .14s ease
+}
+.btn-detalle:hover{border-color:var(--tinta);color:var(--tinta)}
+
+/* ---- Vendido ---- */
+.card.vendido{opacity:.62;filter:grayscale(.35)}
+.card.vendido .price{color:var(--tinta-45)}
+.stamp-vendido{
+  position:absolute;top:50%;left:50%;z-index:3;
+  transform:translate(-50%,-50%) rotate(-13deg);
+  font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:800;
+  color:var(--rojo);border:4px solid var(--rojo);border-radius:6px;
+  font-size:34px;letter-spacing:.08em;padding:4px 18px;text-transform:uppercase;
+  background:rgba(250,249,246,.34);box-shadow:0 0 0 2px rgba(179,38,30,.15) inset;pointer-events:none
+}
+
+/* ==========================================================================
+   Mapa
+   ========================================================================== */
+.mapa-sec{margin:56px 0 0}
+.mapa-grid{display:grid;grid-template-columns:1.15fr 1fr;gap:26px;align-items:center;
+  border:1.5px solid var(--tinta);border-radius:var(--radio);overflow:hidden;background:var(--papel)}
+#mapa{height:340px;width:100%;background:#dfe6e8}
+.mapa-txt{padding:26px 28px}
+.mapa-txt h2{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:800;font-size:24px;margin:0 0 10px}
+.mapa-txt p{color:var(--tinta-70);font-size:15px;margin:0 0 10px}
+.mapa-note{font-size:13px;color:var(--tinta-45);border-left:3px solid var(--kraft);padding-left:12px}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+.site-footer{border-top:2px solid var(--tinta);margin-top:60px;padding:34px 0}
+.foot{display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between}
+.foot-brand .stencil{font-size:15px;color:var(--kraft)}
+.foot-brand p{margin:6px 0 0;color:var(--tinta-45);font-size:13px}
+
+/* ==========================================================================
+   Modal de detalle
+   ========================================================================== */
+.modal{position:fixed;inset:0;z-index:100;display:none;align-items:flex-start;justify-content:center;
+  padding:24px 16px;overflow-y:auto;background:rgba(28,27,24,.55)}
+.modal.open{display:flex}
+.modal-card{background:var(--tiza);border:1.5px solid var(--tinta);border-radius:var(--radio);
+  max-width:900px;width:100%;box-shadow:0 20px 60px rgba(0,0,0,.3);position:relative;margin:auto}
+.modal-close{position:absolute;right:12px;top:12px;z-index:5;width:38px;height:38px;border-radius:100px;
+  border:1.5px solid var(--tinta);background:var(--tiza);cursor:pointer;font-size:20px;line-height:1;color:var(--tinta)}
+.modal-close:hover{background:var(--tinta);color:var(--tiza)}
+.modal-body{display:grid;grid-template-columns:1.1fr 1fr;gap:0}
+.modal-gallery{background:var(--papel);padding:16px;display:flex;flex-direction:column;gap:10px}
+.modal-gallery .main{aspect-ratio:4/3;border:1px solid var(--linea);border-radius:3px;overflow:hidden;background:var(--tiza)}
+.modal-gallery .main img{width:100%;height:100%;object-fit:cover}
+.modal-thumbs{display:flex;gap:8px;flex-wrap:wrap}
+.modal-thumbs img{width:66px;height:50px;object-fit:cover;border:1.5px solid var(--linea);border-radius:3px;cursor:pointer}
+.modal-thumbs img.sel{border-color:var(--azul)}
+.modal-info{padding:24px 26px 26px}
+.modal-info .stamp-id{position:static;display:inline-block;margin-bottom:10px}
+.modal-info h3{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:800;font-size:22px;margin:0 0 6px;line-height:1.15}
+.modal-info .m-meta{font-size:13px;color:var(--tinta-45);margin-bottom:14px}
+.modal-info .m-price{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:800;font-size:32px;color:var(--azul);margin:0 0 4px}
+.modal-info .m-desc{font-size:15px;color:var(--tinta);line-height:1.55;margin:14px 0}
+.modal-specs{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;font-size:13.5px;margin:14px 0;border-top:1px solid var(--linea);padding-top:14px}
+.modal-specs dt{color:var(--tinta-45);font-weight:600}
+.modal-specs dd{margin:0}
+.modal-info .m-defectos{font-size:13.5px;background:var(--kraft-suave);border-radius:3px;padding:9px 11px;margin:6px 0 14px}
+.link-specs{font-size:13.5px}
+.link-specs a{border-bottom:1px solid var(--azul)}
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+@media (max-width:860px){
+  .modal-body{grid-template-columns:1fr}
+  .mapa-grid{grid-template-columns:1fr}
+  #mapa{height:280px}
+}
+@media (max-width:640px){
+  .hdr{grid-template-columns:1fr;gap:16px}
+  .hdr-side{align-items:flex-start;text-align:left}
+  .site-header .wa{order:-1}
+  .grid{grid-template-columns:repeat(auto-fill,minmax(min(158px,100%),1fr));gap:14px}
+  .card-name{font-size:14.5px}
+  .price{font-size:23px}
+  .card-actions{flex-direction:column}
+}
+@media (max-width:380px){
+  .wrap{padding:0 14px}
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}
+}
+
+/* Accesibilidad */
+:focus-visible{outline:3px solid var(--azul);outline-offset:2px;border-radius:2px}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+  .card:hover{transform:none}
+  .card:hover .card-media img{transform:none}
+}

@@ -19,7 +19,14 @@
       "Bash(git push *)",
       "Bash(awk '{print $9, $5\" bytes\"}')",
       "Bash(sips -s format jpeg -Z 1400 /Users/fernando/liquidacion-cardales/fotos/originales/IMG_4407.HEIC --out /private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/previews/IMG_4407_hi.jpg)",
-      "WebFetch(domain:www.falabella.com)"
+      "WebFetch(domain:www.falabella.com)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless=new --disable-gpu --hide-scrollbars --force-device-scale-factor=1 --window-size=1280,3000 --virtual-time-budget=9000 --screenshot=/private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/preview_desktop.png http://localhost:8777/)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless=new --disable-gpu --hide-scrollbars --force-device-scale-factor=1 --window-size=390,2600 --virtual-time-budget=9000 --screenshot=/private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/preview_mobile.png http://localhost:8777/)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless=new --disable-gpu --hide-scrollbars --force-device-scale-factor=1 --window-size=360,2200 --virtual-time-budget=9000 --screenshot=/private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/preview_360.png http://localhost:8777/)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless=new --disable-gpu --hide-scrollbars --force-device-scale-factor=1 --window-size=1280,4200 --virtual-time-budget=10000 --screenshot=/private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/preview_full.png http://localhost:8777/)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless --disable-gpu --hide-scrollbars --force-device-scale-factor=1 --window-size=360,1400 --virtual-time-budget=8000 --screenshot=/private/tmp/claude-501/-Users-fernando-liquidacion-cardales/3cc8577d-9129-487c-a637-570ea15dcaf0/scratchpad/old_360.png http://localhost:8777/)",
+      "Bash(cp docs/index.html /tmp/idx_bak2.html)",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless --disable-gpu --virtual-time-budget=6000 --window-size=360,1200 --dump-dom http://localhost:8777/)"
     ]
   }
 }
