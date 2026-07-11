@@ -126,6 +126,52 @@
         ]
       },
       "medidas": "pantalla 65\" (~146 cm de ancho)"
+    },
+    {
+      "id": "LAV-001",
+      "nombre": "Lavarropas LG carga superior 19 kg Inverter (WT19BSB)",
+      "categoria": "electrodoméstico",
+      "ambiente": "lavadero",
+      "marca": "LG",
+      "modelo": "WT19BSB",
+      "antiguedad": "a confirmar (Feña la pasa)",
+      "medidas": "63.5 cm ancho × 74 cm profundidad × 142 cm alto con tapa abierta (~102 cm cerrada)",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 569000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LAV-001-1.jpg",
+        "LAV-001-2.jpg"
+      ],
+      "link_specs": "https://www.lg.com/cl/lavadoras/lg-wt19bsb",
+      "descripcion": "Lavarropas de carga superior de gran capacidad, 19 kg, con motor Smart Inverter, Turbo Drum y tapa de vidrio templado: ideal para familias grandes. Funciona perfecto, con el tambor de acero impecable y panel operativo (probado en las fotos). En excelente estado y sin defectos. Es un modelo actual —nuevo cuesta casi el doble— y se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.lg.com/cl/lavadoras/lg-wt19bsb",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Página oficial LG (modelo exacto, actual en producción)"
+          },
+          {
+            "url": "https://narvaja.online/product/lavarropas-inverter-carga-superior-19-kg-wt19bsb-lg",
+            "precio": null,
+            "fecha": "2026-07-11",
+            "nota": "Retailer AR (modelo actual). Ref precio nuevo ~US$904 ≈ $1,08-1,17M ARS"
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $569.000. Modelo actual (todavía a la venta nuevo ~$1,08-1,17M ARS). $569.000 ≈ 50% de nuevo; para un 19kg en estado perfecto es agresivo y bien dentro de mercado. Validado, no se ajusta. Antigüedad a confirmar (Feña la pasa después) — no altera la validación porque el precio es firme y el estado es perfecto.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4521 (etiqueta energía D)",
+          "IMG_4525 (tapa 19kg, tiene reflejo del fotógrafo)",
+          "IMG_4522 (general tapa abierta, alternativa)"
+        ],
+        "pendiente": "Feña pasará la antigüedad"
+      }
     }
   ],
   "config": {
