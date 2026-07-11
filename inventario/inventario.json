@@ -1,5 +1,52 @@
 {
-  "items": [],
+  "items": [
+    {
+      "id": "COC-001",
+      "nombre": "Heladera LG Side by Side 611L con dispenser (GS66WPP)",
+      "categoria": "electrodoméstico",
+      "ambiente": "cocina",
+      "marca": "LG",
+      "modelo": "GS66WPP",
+      "antiguedad": "del 2023 (~3 años)",
+      "medidas": "91.5 cm ancho × 179 cm alto × 73.5 cm profundidad",
+      "estado": "muy bueno",
+      "defectos": [
+        "abolladuras cosméticas en las dos puertas inferiores (dimplado extendido, no afecta el funcionamiento)"
+      ],
+      "precio_ars": 1199000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COC-001-1.jpg",
+        "COC-001-2.jpg",
+        "COC-001-3.jpg"
+      ],
+      "link_specs": "https://www.lg.com/cl/refrigeradores/refrigeradores-side-by-side/gs66wpp/",
+      "descripcion": "Side by Side de 611 litros con dispenser de agua y hielo, No Frost y compresor Smart Inverter: capacidad para familia grande y consumo eficiente (A+). Del 2023, funciona perfecto — enfría y freezer sin detalles, dispenser operativo. Se vende muy por debajo de una nueva equivalente por mudanza a Chile. Estado general muy bueno; tiene abolladuras cosméticas en las dos puertas inferiores que no afectan el funcionamiento.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.tgwstore.com.ar/heladera-lg-side-by-side-gs66spp-637-l-inverter-color-silver/p/MLA25835114",
+            "precio": 2999990,
+            "fecha": "2026-07-11",
+            "nota": "GS66SPP (sucesor silver) NUEVA"
+          },
+          {
+            "url": "https://www.naldo.com.ar/637l-gs66spp-inox-inv-dispen-n-f-208235/p",
+            "precio": 2743999,
+            "fecha": "2026-07-11",
+            "nota": "GS66SPP NUEVA con descuento"
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $1.199.000. Equivale a ~40-44% del valor nuevo del modelo sucesor GS66SPP ($2,74-3,0M). No hay comps usados directos del WPP; a 3 años + abolladuras extendidas, cae en el percentil bajo (liquidación) del rango de depreciación de electro grande (40-60%). Validado dentro de rango, no se ajusta. Precio agresivo justificado por el estado cosmético.",
+        "fecha_tasacion": "2026-07-11",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4503 (etiqueta energía A+ / modelo, no publicada)"
+        ]
+      }
+    }
+  ],
   "config": {
     "whatsapp": "5491158983134",
     "fecha_limite": "2026-07-20",
@@ -8,9 +55,27 @@
     "titulo_sitio": "Liquidación Los Cardales",
     "linea_contexto": "Liquidación total por mudanza — Los Cardales",
     "calendario_rebajas": [
-      {"corte": "1er tercio", "fecha": "2026-07-14", "ajuste_pct": -15, "condicion": "ítems sin consulta seria", "aplicado": false},
-      {"corte": "2do tercio", "fecha": "2026-07-17", "ajuste_pct": -30, "condicion": "ítems que sigan sin moverse (acumulado)", "aplicado": false},
-      {"corte": "remate final", "fecha": "2026-07-18", "ajuste_pct": null, "condicion": "caso por caso sobre lo que quede", "aplicado": false}
+      {
+        "corte": "1er tercio",
+        "fecha": "2026-07-14",
+        "ajuste_pct": -15,
+        "condicion": "ítems sin consulta seria",
+        "aplicado": false
+      },
+      {
+        "corte": "2do tercio",
+        "fecha": "2026-07-17",
+        "ajuste_pct": -30,
+        "condicion": "ítems que sigan sin moverse (acumulado)",
+        "aplicado": false
+      },
+      {
+        "corte": "remate final",
+        "fecha": "2026-07-18",
+        "ajuste_pct": null,
+        "condicion": "caso por caso sobre lo que quede",
+        "aplicado": false
+      }
     ]
   }
 }
