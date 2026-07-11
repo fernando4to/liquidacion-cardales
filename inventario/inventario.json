@@ -7,6 +7,10 @@
     "url_sitio": null,
     "titulo_sitio": "Liquidación Los Cardales",
     "linea_contexto": "Liquidación total por mudanza — Los Cardales",
-    "calendario_rebajas": []
+    "calendario_rebajas": [
+      {"corte": "1er tercio", "fecha": "2026-07-14", "ajuste_pct": -15, "condicion": "ítems sin consulta seria", "aplicado": false},
+      {"corte": "2do tercio", "fecha": "2026-07-17", "ajuste_pct": -30, "condicion": "ítems que sigan sin moverse (acumulado)", "aplicado": false},
+      {"corte": "remate final", "fecha": "2026-07-18", "ajuste_pct": null, "condicion": "caso por caso sobre lo que quede", "aplicado": false}
+    ]
   }
 }
