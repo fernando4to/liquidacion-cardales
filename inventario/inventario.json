@@ -134,7 +134,7 @@
       "ambiente": "lavadero",
       "marca": "LG",
       "modelo": "WT19BSB",
-      "antiguedad": "a confirmar (Feña la pasa)",
+      "antiguedad": "3 años",
       "medidas": "63.5 cm ancho × 74 cm profundidad × 142 cm alto con tapa abierta (~102 cm cerrada)",
       "estado": "excelente",
       "defectos": [],
@@ -162,15 +162,14 @@
             "nota": "Retailer AR (modelo actual). Ref precio nuevo ~US$904 ≈ $1,08-1,17M ARS"
           }
         ],
-        "logica_tasacion": "Precio fijado por Feña: $569.000. Modelo actual (todavía a la venta nuevo ~$1,08-1,17M ARS). $569.000 ≈ 50% de nuevo; para un 19kg en estado perfecto es agresivo y bien dentro de mercado. Validado, no se ajusta. Antigüedad a confirmar (Feña la pasa después) — no altera la validación porque el precio es firme y el estado es perfecto.",
+        "logica_tasacion": "Precio fijado por Feña: $569.000. Modelo actual (todavía a la venta nuevo ~$1,08-1,17M ARS). $569.000 ≈ 50% de nuevo; para un 19kg en estado perfecto es agresivo y bien dentro de mercado. Validado, no se ajusta. Antigüedad: 3 años; a 3 años y estado perfecto, ~50% de nuevo es un precio muy competitivo.",
         "fecha_tasacion": "2026-07-11",
         "rebajas_aplicadas": [],
         "fotos_referencia": [
           "IMG_4521 (etiqueta energía D)",
           "IMG_4525 (tapa 19kg, tiene reflejo del fotógrafo)",
           "IMG_4522 (general tapa abierta, alternativa)"
-        ],
-        "pendiente": "Feña pasará la antigüedad"
+        ]
       }
     }
   ],
