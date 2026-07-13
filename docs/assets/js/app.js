@@ -253,7 +253,7 @@
   /* ---------- mapa ---------- */
   function initMapa() {
     if (typeof L === "undefined") return;
-    var lat = -34.3083, lng = -58.9661; // Los Cardales Country Club (barrio cerrado, NO la casa)
+    var lat = -34.3156, lng = -58.9642; // Los Cardales Country Club (barrio cerrado, NO la casa)
     var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 14);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 17, attribution: "© OpenStreetMap"
