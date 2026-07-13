@@ -218,6 +218,87 @@
       }
     },
     {
+      "id": "LAV-003",
+      "nombre": "Plancha a vapor Thorben Thor LED XL (suela cerámica)",
+      "categoria": "electrodoméstico",
+      "ambiente": "lavadero",
+      "marca": "Thorben",
+      "modelo": "Thor LED XL",
+      "antiguedad": "menos de 2 años",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 18000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LAV-003-1.jpg",
+        "LAV-003-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Plancha a vapor con suela cerámica y tamaño XL: vapor vertical (también plancha prendas colgadas), golpe de vapor, sistema antical, antigoteo y autolimpieza. Selector LED de temperatura por tipo de tela (algodón, lana, sintéticos). Calienta y hace vapor perfecto, con todos los controles funcionando. Menos de 2 años de uso y en excelente estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/plancha-vapor-usada",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "Planchas a vapor usadas ML AR ~$9.5k-30k+; XL con suela cerámica y vapor vertical en franja media-alta del usado"
+          }
+        ],
+        "logica_tasacion": "Estado excelente, <2 años, funciona perfecto (calienta + vapor + controles) confirmado por Feña. Comps ML AR usados $9.5-30k+. Modelo XL con suela cerámica/vapor vertical/antical/LED -> franja media-alta del usado. Liquidación (P25-40, velocidad>precio) -> firme $18.000, aprobado por Feña. Thorben = marca chilena; sin comp directo del modelo exacto en AR.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4562, IMG_4564 (tomas alternativas)",
+          "IMG_4565 (etiqueta SEC con nº de serie — NO publicar)"
+        ],
+        "listo_para_publicar": true
+      }
+    },
+    {
+      "id": "LAV-004",
+      "nombre": "Tabla de planchar reforzada con altura regulable y apoya-plancha",
+      "categoria": "otro",
+      "ambiente": "lavadero",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "menos de 2 años",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 22000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LAV-004-1.jpg",
+        "LAV-004-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Tabla de planchar reforzada y amplia, con altura regulable para planchar cómoda de pie o sentada. Incluye apoya-plancha rebatible y estante inferior tipo rejilla para colgar o apoyar la ropa. Estructura firme y sin óxido, con la funda en buen estado. Menos de 2 años de uso, en muy buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.peel.com.ar/MLA-1642525332-tabla-de-planchar-plegable-reforzada-con-manguero-regulable-_JM",
+            "precio": 59248,
+            "fecha": "2026-07-13",
+            "nota": "Tabla reforzada regulable plegable NUEVA ~$59k"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/tabla-de-planchar-regulable-altura",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "Reforzadas regulables nuevas AR ~$45-80k según calidad"
+          }
+        ],
+        "logica_tasacion": "Estado muy bueno, <2 años, estructura firme y sin óxido (confirmado por Feña). Nuevas reforzadas regulables AR ~$45-80k. Usada de calidad con apoya-plancha + estante -> liquidación (P25-40) -> firme $22.000, aprobado por Feña (~35-45% de una nueva equivalente).",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "fotos_referencia": [
+          "IMG_4566 (general), IMG_4560 (apoya-plancha)"
+        ],
+        "listo_para_publicar": true
+      }
+    },
+    {
       "id": "GEN-001",
       "nombre": "Ventilador de pared Airolite VR590R",
       "categoria": "electrodoméstico",
