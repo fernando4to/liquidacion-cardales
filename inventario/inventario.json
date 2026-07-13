@@ -15,7 +15,7 @@
       ],
       "precio_ars": 1199000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COC-001-1.jpg",
         "COC-001-2.jpg",
@@ -59,7 +59,7 @@
       "defectos": [],
       "precio_ars": 149000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COC-002-1.jpg"
       ],
@@ -97,7 +97,7 @@
       ],
       "precio_ars": 329000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LIV-001-1.jpg",
         "LIV-001-2.jpg"
@@ -140,7 +140,7 @@
       "defectos": [],
       "precio_ars": 569000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LAV-001-1.jpg",
         "LAV-001-2.jpg"
@@ -185,7 +185,7 @@
       "defectos": [],
       "precio_ars": 849000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LAV-002-1.jpg",
         "LAV-002-2.jpg"

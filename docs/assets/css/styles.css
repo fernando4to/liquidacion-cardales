@@ -91,7 +91,10 @@ button{font-family:inherit}
 }
 .chip:hover{border-color:var(--tinta-45);color:var(--tinta)}
 .chip[aria-pressed="true"]{background:var(--tinta);border-color:var(--tinta);color:var(--tiza)}
-.count{margin-left:auto;font-size:13px;color:var(--tinta-45)}
+.tally{margin-left:auto;font-size:13px;color:var(--tinta-70);white-space:nowrap}
+.tally .t-disp{color:var(--azul)}
+.tally .t-vend{color:var(--rojo)}
+.count{font-size:13px;color:var(--tinta-45)}
 
 /* ==========================================================================
    Secciones por ambiente

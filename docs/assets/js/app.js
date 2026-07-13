@@ -9,7 +9,7 @@
   var AMB_ORDEN = ["cocina", "living", "comedor", "dormitorio", "baño", "lavadero", "oficina", "exterior", "general"];
   var CAT_LABEL = { "electrodoméstico": "Electro", "mueble": "Muebles", "otro": "Otros" };
 
-  var filtro = { categoria: "todas", estado: "todos" };
+  var filtro = { categoria: "todas", estado: "todos", disp: "todas" };
 
   /* ---------- helpers ---------- */
   function money(n) {
@@ -100,12 +100,15 @@
 
     var cCat = document.getElementById("f-categoria");
     var cEst = document.getElementById("f-estado");
+    var cDisp = document.getElementById("f-disp");
     cCat.appendChild(chip("categoria", "todas", "Todas"));
     Object.keys(cats).forEach(function (k) { cCat.appendChild(chip("categoria", k, CAT_LABEL[k] || k)); });
     cEst.appendChild(chip("estado", "todos", "Todos"));
     ["excelente", "muy bueno", "bueno", "funcional con detalles"].forEach(function (k) {
       if (ests[k]) cEst.appendChild(chip("estado", k, k.charAt(0).toUpperCase() + k.slice(1)));
     });
+    cDisp.appendChild(chip("disp", "todas", "Todas"));
+    cDisp.appendChild(chip("disp", "disponibles", "Ocultar vendidos"));
     syncChips();
   }
   function chip(dim, val, label) {
@@ -127,11 +130,18 @@
     cont.innerHTML = "";
     var visibles = ITEMS.filter(function (it) {
       return (filtro.categoria === "todas" || it.categoria === filtro.categoria) &&
-             (filtro.estado === "todos" || it.estado === filtro.estado);
+             (filtro.estado === "todos" || it.estado === filtro.estado) &&
+             (filtro.disp === "todas" || it.estado_venta !== "vendido");
     });
 
     document.getElementById("count").textContent =
       visibles.length + (visibles.length === 1 ? " ítem" : " ítems");
+
+    var totalVend = ITEMS.filter(function (i) { return i.estado_venta === "vendido"; }).length;
+    var totalDisp = ITEMS.length - totalVend;
+    document.getElementById("tally").innerHTML =
+      '<b class="t-disp">' + totalDisp + " disponibles</b> · " +
+      '<b class="t-vend">' + totalVend + " vendidos</b>";
 
     var byAmb = {};
     visibles.forEach(function (it) { (byAmb[it.ambiente] = byAmb[it.ambiente] || []).push(it); });
