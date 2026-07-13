@@ -628,6 +628,113 @@
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "LIV-004",
+      "nombre": "Sillón individual gris tapizado con respaldo capitoné (2 disponibles)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "3 años",
+      "medidas": "93 cm ancho × 84 cm alto × 78 cm profundidad",
+      "estado": "bueno",
+      "defectos": [
+        "Algunas manchas de uso en el tapizado (estético)."
+      ],
+      "precio_ars": 109000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "cantidad": 2,
+      "fotos": [
+        "LIV-004-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Sillón individual moderno tapizado en gris, con respaldo tipo tub y capitoné, sobre patas de madera: cómodo y con buen diseño para el living o un rincón de lectura. Hay 2 iguales, se pueden llevar juntos o por separado. 3 años de uso. A tener en cuenta: el tapizado tiene algunas manchas de uso. Precio por unidad; llevando los 2, $189.000 el par. Se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/sillon-1-cuerpo-usados",
+            "precio": 150000,
+            "fecha": "2026-07-13",
+            "nota": "sillones individuales usados rango $67k-$490k; modernos gris capitoné buen estado ~$150-200k c/u"
+          }
+        ],
+        "logica_tasacion": "Modernos individuales usados ~$150-200k c/u; nuevos $250-400k. Fijado $109k c/u (par $189k) por manchas de uso + prioridad velocidad + 7 días. Combo del par incentiva mover 2 en una operación.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "LIV-005",
+      "nombre": "Sofá 3 cuerpos gris estilo chesterfield (219 cm)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "3 años",
+      "medidas": "219 cm ancho × 78 cm alto × 85 cm profundidad",
+      "estado": "bueno",
+      "defectos": [
+        "Algunas manchas de uso en el tapizado (estético). Relleno firme."
+      ],
+      "precio_ars": 329000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-005-1.jpg",
+        "LIV-005-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Sofá de 3 cuerpos amplio (219 cm) tapizado en gris claro, estilo chesterfield con capitoné en brazos y respaldo y base de madera: cómodo y con mucha presencia para el living. Incluye los almohadones decorativos que se ven en la foto. 3 años de uso, relleno firme. A tener en cuenta: el tapizado tiene algunas manchas de uso. Se libera bastante por debajo de un chesterfield nuevo por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/sofa-chesterfield-3-cuerpos",
+            "precio": 590000,
+            "fecha": "2026-07-13",
+            "nota": "chesterfield 3 cuerpos $590k-$850k nuevos/listados; usados ~$300-500k"
+          }
+        ],
+        "logica_tasacion": "Chesterfield 3 cuerpos nuevos $590-850k; usados $300-500k. Fijado $329k: pieza grande de calidad (219cm) descuenta por manchas + prioridad velocidad + 7 días. Bien por debajo de uno nuevo.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "LIV-006",
+      "nombre": "3 bibliotecas de melamina blanca (altas, 2021)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "de 2021 (~4-5 años)",
+      "medidas": "Grande 141 × 200 × 30 cm; grande 134,5 × 208 × 31 cm; mediana 93 × 192 × 42 cm (ancho × alto × profundidad)",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 169000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-006-1.jpg",
+        "LIV-006-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Tres bibliotecas de melamina blanca de gran altura (alrededor de 2 metros), de 2021 y en muy buen estado: firmes, con varios estantes cada una, ideales para armar una pared de biblioteca, un estudio o una oficina. Vienen en tres medidas (141×200, 134,5×208 y 93×192×42 cm). Se venden vacías (los libros no se incluyen). Precio por las 3; también se pueden llevar sueltas (las dos grandes a $65.000 c/u y la mediana a $55.000). Se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/bibliotecas-melamina-usada",
+            "precio": 65000,
+            "fecha": "2026-07-13",
+            "nota": "bibliotecas melamina usadas: chicas $40-70k; grandes (~2m) algo más. 59 result. usados"
+          }
+        ],
+        "logica_tasacion": "Melamina blanca usada: chicas $40-70k. Estas son grandes (~2m) y de 2021 en muy buen estado → ~$55-65k c/u. Set de 3 a $169k (sueltas suman $185k → combo). Agresivo por prioridad velocidad + 7 días. Libros NO incluidos (confirmado).",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Falta foto que muestre el mueble vacío/estructura (hoy solo hay fotos con libros)."
+      }
     }
   ],
   "config": {

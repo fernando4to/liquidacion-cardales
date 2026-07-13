@@ -1,0 +1,16 @@
+# Fotos pendientes — para subir y actualizar avisos
+
+Feña deposita las fotos nuevas en `fotos/originales/`. Cuando estén, se aprueban, renombran por ID y se actualiza el ítem.
+
+Actualizado: 2026-07-13
+
+| ID | Ítem | Foto que falta | Por qué |
+|---|---|---|---|
+| **COM-002** | Juego 8 sillas Luis XVI | (a) Detalle de las **manchas** del tapizado · (b) foto general con **luz pareja** | La 4430 tiene sol directo muy duro que tapa el tapizado; §8.5 pide foto de cada defecto declarado |
+| **LIV-003** | Juego 4 mesas de mármol | Foto del **conjunto completo** (las 4 juntas) | Hoy solo hay fotos sueltas; el aviso vende "el juego" |
+| **EXT-001** | Comedor hierro + piedra (8 sillas) | (a) Detalle del **óxido** de las sillas · (b) foto donde se vean **las 8 sillas** | §8.5 (defecto declarado) + mostrar el juego completo |
+| **LIV-004** | 2 sillones grises capitoné | (a) Los **2 sillones juntos** · (b) detalle de **manchas** | Hoy hay 1 solo sillón en foto; §8.5 |
+| **LIV-005** | Sofá 3 cuerpos chesterfield | Detalle de las **manchas** del tapizado | §8.5 (defecto declarado) |
+| **LIV-006** | 3 bibliotecas blancas | Foto del **mueble vacío** (o semivacío) mostrando la estructura | Hoy solo hay fotos llenas de libros; se venden vacías |
+
+> Se va completando a medida que avanzan los ítems 7-19.
