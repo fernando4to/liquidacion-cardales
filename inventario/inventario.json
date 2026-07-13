@@ -428,6 +428,206 @@
         ],
         "nota_toner": "Feña pidió no especificar nivel de tóner (no lo conoce). Copy honesto: 'se entrega con el tóner instalado y funcionando', sin afirmar nivel/lleno."
       }
+    },
+    {
+      "id": "LIV-002",
+      "nombre": "Piano vertical acústico Karl Schultz (compacto, afinado)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": "Karl Schultz",
+      "modelo": null,
+      "antiguedad": "se compró usado hace ~15 años; antigüedad real desconocida",
+      "estado": "bueno",
+      "defectos": [
+        "Desgaste estético en la laca negra (bordes y panel inferior) y teclas amarillentas por la edad. Es cosmético: el piano funciona y está afinado.",
+        "No incluye banqueta."
+      ],
+      "precio_ars": 349000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-002-1.jpg",
+        "LIV-002-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Piano vertical acústico de tamaño compacto, afinado recientemente y listo para tocar: buena opción para empezar a estudiar o para tener música en casa sin ocupar mucho lugar. Teclado y 3 pedales funcionando. Se vende muy por debajo de un vertical usado equivalente por mudanza a Chile. A tener en cuenta: es un piano con años (se compró usado hace ~15 años), con desgaste estético en la laca y teclas amarillentas por el uso; no incluye banqueta.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/piano-vertical-usado",
+            "precio": 500000,
+            "fecha": "2026-07-13",
+            "nota": "rango pianos verticales usados GBA/Capital ~$400k (baratos) a $1.5M+"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/piano-vertical-aleman-usado",
+            "precio": 1200000,
+            "fecha": "2026-07-13",
+            "nota": "premium (Yamaha/Kawai/alemán) desde ~$1.2M; NO comparable, marca económica"
+          }
+        ],
+        "logica_tasacion": "Comps ML verticales usados $400k–1.5M; premium desde $1.2M. Karl Schultz = marca económica, vertical compacto con desgaste de laca y teclas amarillentas → piso del rango. Fijado BAJO el piso de 'baratos' (~$400k) por: marca económica + desgaste estético + logística de flete (piano = lo más difícil de mover) + 7 días a fecha límite + pedido explícito de precio agresivo del dueño. Afinado y funcional sostiene el interés.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "COM-001",
+      "nombre": "Mesa de comedor de vidrio con base de madera maciza (220×120, para 8-10)",
+      "categoria": "mueble",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "5 años",
+      "medidas": "tapa 220 × 120 cm, vidrio de 2 cm de espesor; alto 74 cm",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 299000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-001-1.jpg",
+        "COM-001-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Mesa de comedor amplia (220 × 120 cm) con tapa de vidrio biselado de 2 cm de espesor sobre una base de madera maciza de diseño: cómoda para 8 a 10 personas y con mucha presencia en el ambiente. El vidrio grueso y la madera maciza le dan solidez y estabilidad, y combina con cualquier estilo de sillas. 5 años de uso, sin rayones en el vidrio ni defectos. Las sillas se venden por separado. Se libera muy por debajo de una equivalente nueva por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/mesa-de-comedor-con-vidrio-base-de-madera",
+            "precio": 550000,
+            "fecha": "2026-07-13",
+            "nota": "177 resultados; buckets hasta $550k / $550-750k / +$750k, mayormente nuevas"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/mesa-vidrio-usada-comedor",
+            "precio": 250000,
+            "fecha": "2026-07-13",
+            "nota": "usadas vidrio comedor, rango amplio y más bajo"
+          }
+        ],
+        "logica_tasacion": "Nuevas vidrio+madera $550-750k+. Pieza grande de calidad (220cm, madera maciza de diseño, vidrio biselado 2cm, sin defectos) pero mercado angosto (pocos tienen comedor para 2,2m) y vidrio grande = frágil y caro de mover. Fijado ~P25-30 y agresivo por fragilidad/flete + nicho + 7 días a fecha límite. $299k = claramente bajo el equivalente nuevo.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "COM-002",
+      "nombre": "Juego de 8 sillas de comedor Luis XVI medallón (respaldo cannage, asiento de lino)",
+      "categoria": "mueble",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "uso, antigüedad no especificada",
+      "medidas": "altura del asiento 52 cm, altura total del respaldo 90 cm",
+      "estado": "bueno",
+      "defectos": [
+        "Algunas sillas tienen manchas de uso en el tapizado de lino (estético). La estructura de todas es firme y sólida."
+      ],
+      "precio_ars": 280000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-002-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Juego de 8 sillas de comedor estilo Luis XVI: respaldo medallón ovalado con cannage de ratán y asiento tapizado en lino claro, sobre madera con terminación decapé. Un conjunto de 8 piezas iguales —difícil de conseguir junto— que arma un comedor completo de una sola vez. Estructuralmente firmes y sólidas. A tener en cuenta: el tapizado tiene algunas manchas de uso. Precio por las 8; se venden como juego, por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/sillas-luis-xvi-medallon",
+            "precio": 95000,
+            "fecha": "2026-07-13",
+            "nota": "silla medallón Luis XVI cannage: rango ML <$95k a +$200k POR SILLA, nuevas"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/sillas-luis-xvi-usadas",
+            "precio": 50000,
+            "fecha": "2026-07-13",
+            "nota": "usadas Luis XVI, por silla, más bajo"
+          }
+        ],
+        "logica_tasacion": "Nuevas ~$95-150k/silla; usadas con manchas mucho menos. Juego de 8 = $280k → ~$35k/silla, muy por debajo de nuevas. Descuento por manchas de tapizado + prioridad velocidad (mueve 8 unidades en una operación) + 7 días a fecha límite. Vender como lote acelera la liquidación.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "LIV-003",
+      "nombre": "Juego de 4 mesas de mármol blanco con base dorada (ratona + 3 auxiliares)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "uso, antigüedad no especificada",
+      "medidas": "Ratona Ø90,5 × alto 40 cm; auxiliares Ø45 × alto 51, Ø40,5 × alto 47 y Ø35 × alto 41 cm",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 319000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-003-1.jpg",
+        "LIV-003-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Juego de 4 mesas de mármol blanco (tipo Carrara) con base metálica dorada: una mesa ratona grande de 90,5 cm de diámetro más tres mesas auxiliares de distintas medidas (Ø45, Ø40,5 y Ø35 cm). El mármol natural y el dorado arman un conjunto elegante y muy actual para el living. En muy buen estado. Se vende el conjunto completo (las 4 mesas), por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.valtoria.com.ar/productos/mesa-ratona-redonda-de-marmol-carrara-base-circular-bronce-pintada-a-fuego/",
+            "precio": 260000,
+            "fecha": "2026-07-13",
+            "nota": "UNA mesa ratona redonda Carrara con base bronce, NUEVA = $260k"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/mesa-ratona-marmol-carrara",
+            "precio": 150000,
+            "fecha": "2026-07-13",
+            "nota": "348 result.; auxiliares de mármol nuevas ~$80-180k c/u"
+          }
+        ],
+        "logica_tasacion": "Valor nuevo aprox: ratona grande ~$260k + 3 auxiliares ~$100k c/u = ~$560k. Conjunto usado en muy buen estado a $319k = ~el precio de la ratona grande sola nueva. Agresivo por prioridad velocidad + lote de 4 en una operación + 7 días. Mármol real sostiene valor.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Foto del conjunto completo (las 4 juntas) la trae Feña el 2026-07-14 → reemplazar/sumar."
+      }
+    },
+    {
+      "id": "EXT-001",
+      "nombre": "Juego de comedor de hierro y piedra para 8 (mesa 183 cm + 8 sillas), interior/exterior",
+      "categoria": "mueble",
+      "ambiente": "exterior",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "uso, antigüedad no especificada",
+      "medidas": "mesa 183,5 × 95 cm, alto 77,5 cm; tapa de piedra de 2 cm de espesor. Incluye 8 sillas",
+      "estado": "muy bueno",
+      "defectos": [
+        "Las sillas de metal tienen algo de óxido superficial en partes: es estético y se resuelve fácil rociando o pintando con látex (arreglo económico). La mesa está en excelente estado."
+      ],
+      "precio_ars": 329000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "EXT-001-1.jpg",
+        "EXT-001-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Juego de comedor de hierro para 8 personas con tapa de piedra natural (pizarra en tonos grises y ocres): sólido y con mucho carácter, sirve igual en el comedor, la galería o el quincho —aguanta interior y exterior—. Mesa amplia de 183,5 × 95 cm con 8 sillas de metal. La mesa está en excelente estado. A tener en cuenta: las sillas tienen algo de óxido superficial en partes, estético y fácil de resolver rociando o pintando (arreglo económico). Se vende el juego completo, por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/juego-de-comedor-de-hierro-forjado-usado",
+            "precio": 500000,
+            "fecha": "2026-07-13",
+            "nota": "juegos comedor hierro para 8; nuevos ~$500-800k, usados menos. Sin comp exacto piedra+hierro."
+          }
+        ],
+        "logica_tasacion": "Sets hierro+piedra para 8 (mesa+8 sillas) nuevos ~$500-800k; usados bastante menos. Fijado $329k: mesa en excelente estado suma, óxido cosmético en sillas descuenta. Agresivo por prioridad velocidad, mueve 9 piezas en una operación, versatilidad interior/exterior (quincho de country) y 7 días a fecha límite. Comp inexacto → algo de incertidumbre.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
