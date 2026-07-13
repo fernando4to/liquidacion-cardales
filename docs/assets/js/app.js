@@ -19,7 +19,7 @@
     return "https://wa.me/" + CFG.whatsapp + "?text=" + encodeURIComponent(text);
   }
   function waItem(it) {
-    return waURL("Hola, me interesa " + it.id + " " + it.nombre + " (" + money(it.precio_ars) + ")");
+    return waURL("Hola, me interesa " + it.id + " " + it.nombre + " — " + money(it.precio_ars) + ". ¿Sigue disponible?");
   }
   function el(tag, cls, html) {
     var e = document.createElement(tag);
