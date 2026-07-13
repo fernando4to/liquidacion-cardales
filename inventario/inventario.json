@@ -264,11 +264,12 @@
       "marca": "Ultimate Fitness",
       "modelo": "Z650 pro",
       "antiguedad": "2023 (~2-3 años)",
-      "estado": "bueno",
+      "estado": "funcional con detalles",
       "defectos": [
-        "Gomaespumas del manubrio gastadas por el uso; uno de los grips tiene una reparación con cinta. Es estético y no afecta el pedaleo ni la resistencia."
+        "La consola digital no enciende (no muestra tiempo/velocidad/distancia). La parte mecánica no depende de ella.",
+        "Gomaespumas del manubrio gastadas por el uso; uno de los grips tiene una reparación con cinta. Estético, no afecta el pedaleo ni la resistencia."
       ],
-      "precio_ars": 179000,
+      "precio_ars": 149000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -277,7 +278,7 @@
         "GEN-002-3.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Bicicleta de spinning con resistencia magnética regulable por perilla, consola digital de entrenamiento y pedales con calapiés: pedaleo silencioso y estable para entrenar en casa. Equipo robusto (42 kg) del 2023, funciona bien y en buen estado general. Único detalle: las gomaespumas del manubrio están gastadas y una tiene una reparación con cinta —es estético, no afecta el pedaleo ni la resistencia—. Se libera por mudanza a Chile, a precio de liquidación.",
+      "descripcion": "Bicicleta de spinning con resistencia magnética regulable por perilla, asiento y manubrio ajustables y pedales con calapiés: la parte mecánica funciona perfecta, con pedaleo silencioso y firme para entrenar en casa. Equipo robusto (42 kg) del 2023. A tener en cuenta: la consola digital no enciende (se puede entrenar igual midiendo con el celular) y las gomaespumas del manubrio están gastadas, una con una reparación con cinta. Nada de esto afecta el pedaleo ni la resistencia. Precio de liquidación por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -293,7 +294,7 @@
             "nota": "Franjas ML AR usados (jul-2026): mayoría <$350k, tramos $350-450k y >$450k. Magnéticas con consola mid-range ~$250-320k típico"
           }
         ],
-        "logica_tasacion": "Estado confirmado por Feña: BUENO, con gomaespumas del manubrio gastadas (una reparada con cinta; estético, no afecta el uso). Comps ML AR (jul-2026): spin bikes magnéticas usadas con consola concentradas <$350k; usado típico mid-range 2023 ~$250-320k. Liquidación (P25-40, velocidad>precio) + descuento por el desgaste de los grips + a 1 semana del límite -> firme $179.000 (~28% bajo el piso de usados). Feña habilitó ser más agresivo por el detalle del manubrio. Precio firme que nace agresivo.",
+        "logica_tasacion": "Estado: FUNCIONAL CON DETALLES. Defectos declarados: (1) consola digital no enciende; (2) gomaespumas del manubrio gastadas (una con cinta). La parte mecánica (resistencia magnética, asiento y manubrio ajustables, pedaleo) funciona perfecta. Comps ML AR (jul-2026): spin magnéticas usadas con consola OK ~$250-320k. Con consola muerta + grips gastados + liquidación a 1 semana del límite -> firme $149.000 (~40-50% bajo el piso de usados sanos). Feña delegó el ajuste de precio por el defecto de consola. Precio firme que nace agresivo. Historial: $199k provisional -> $179k (grips) -> $149k (consola no enciende).",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
         "fotos_referencia": [
