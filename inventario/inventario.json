@@ -224,10 +224,10 @@
       "ambiente": "lavadero",
       "marca": "Thorben",
       "modelo": "Thor LED XL",
-      "antiguedad": "menos de 2 años",
+      "antiguedad": "menos de 1 año",
       "estado": "excelente",
       "defectos": [],
-      "precio_ars": 18000,
+      "precio_ars": 22000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -235,7 +235,7 @@
         "LAV-003-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Plancha a vapor con suela cerámica y tamaño XL: vapor vertical (también plancha prendas colgadas), golpe de vapor, sistema antical, antigoteo y autolimpieza. Selector LED de temperatura por tipo de tela (algodón, lana, sintéticos). Calienta y hace vapor perfecto, con todos los controles funcionando. Menos de 2 años de uso y en excelente estado. Se libera por mudanza a Chile.",
+      "descripcion": "Plancha a vapor con suela cerámica y tamaño XL: vapor vertical (también plancha prendas colgadas), golpe de vapor, sistema antical, antigoteo y autolimpieza. Selector LED de temperatura por tipo de tela (algodón, lana, sintéticos). Calienta y hace vapor perfecto, con todos los controles funcionando. Menos de 1 año de uso y en excelente estado, impecable. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -245,7 +245,7 @@
             "nota": "Planchas a vapor usadas ML AR ~$9.5k-30k+; XL con suela cerámica y vapor vertical en franja media-alta del usado"
           }
         ],
-        "logica_tasacion": "Estado excelente, <2 años, funciona perfecto (calienta + vapor + controles) confirmado por Feña. Comps ML AR usados $9.5-30k+. Modelo XL con suela cerámica/vapor vertical/antical/LED -> franja media-alta del usado. Liquidación (P25-40, velocidad>precio) -> firme $18.000, aprobado por Feña. Thorben = marca chilena; sin comp directo del modelo exacto en AR.",
+        "logica_tasacion": "Estado excelente, <1 año (confirmado por Feña), funciona perfecto (calienta + vapor + controles). Plancha 2200W, suela cerámica XL, digital. Retail Chile (marca chilena) ~CLP$30-40k; equivalente nueva en AR ~$40-50k. Usados ML AR $9.5-30k+. Casi nueva e impecable -> se sube de $18.000 a firme $22.000 (~45-55% de una nueva), sigue agresivo por liquidación. Ajuste por antigüedad <1 año.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
         "fotos_referencia": [
@@ -257,7 +257,7 @@
     },
     {
       "id": "LAV-004",
-      "nombre": "Tabla de planchar reforzada con altura regulable y apoya-plancha",
+      "nombre": "Tabla de planchar grande reforzada con altura regulable y apoya-plancha",
       "categoria": "otro",
       "ambiente": "lavadero",
       "marca": null,
@@ -265,7 +265,7 @@
       "antiguedad": "menos de 2 años",
       "estado": "muy bueno",
       "defectos": [],
-      "precio_ars": 22000,
+      "precio_ars": 29000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -273,7 +273,7 @@
         "LAV-004-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Tabla de planchar reforzada y amplia, con altura regulable para planchar cómoda de pie o sentada. Incluye apoya-plancha rebatible y estante inferior tipo rejilla para colgar o apoyar la ropa. Estructura firme y sin óxido, con la funda en buen estado. Menos de 2 años de uso, en muy buen estado. Se libera por mudanza a Chile.",
+      "descripcion": "Tabla de planchar grande y reforzada, con altura regulable para planchar cómoda de pie o sentada; su superficie amplia agiliza el planchado. Incluye apoya-plancha rebatible y estante inferior tipo rejilla para colgar o apoyar la ropa. Estructura firme y sin óxido, con la funda en buen estado. Menos de 2 años de uso, en muy buen estado. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -289,7 +289,7 @@
             "nota": "Reforzadas regulables nuevas AR ~$45-80k según calidad"
           }
         ],
-        "logica_tasacion": "Estado muy bueno, <2 años, estructura firme y sin óxido (confirmado por Feña). Nuevas reforzadas regulables AR ~$45-80k. Usada de calidad con apoya-plancha + estante -> liquidación (P25-40) -> firme $22.000, aprobado por Feña (~35-45% de una nueva equivalente).",
+        "logica_tasacion": "Estado muy bueno, <2 años, estructura firme y sin óxido, TAMAÑO GRANDE (confirmado por Feña). Tablas grandes/XL reforzadas nuevas ML AR ~$50-85k (premium 145cm ~$80k). Al ser grande y casi sin uso -> se sube de $22.000 a firme $29.000 (~40-50% de una nueva equivalente), aún agresivo por liquidación. Ajuste por tamaño grande.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
         "fotos_referencia": [
