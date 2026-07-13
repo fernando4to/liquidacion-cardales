@@ -11,6 +11,6 @@ Actualizado: 2026-07-13
 | **EXT-001** | Comedor hierro + piedra (8 sillas) | (a) Detalle del **óxido** de las sillas · (b) foto donde se vean **las 8 sillas** | §8.5 (defecto declarado) + mostrar el juego completo |
 | **LIV-004** | 2 sillones grises capitoné | (a) Los **2 sillones juntos** · (b) detalle de **manchas** | Hoy hay 1 solo sillón en foto; §8.5 |
 | **LIV-005** | Sofá 3 cuerpos chesterfield | Detalle de las **manchas** del tapizado | §8.5 (defecto declarado) |
-| **LIV-006** | 3 bibliotecas blancas | Foto del **mueble vacío** (o semivacío) mostrando la estructura | Hoy solo hay fotos llenas de libros; se venden vacías |
+| **LIV-006 / LIV-007** | Bibliotecas blancas (2 grandes + 1 con ruedas) | Foto de alguna **vacía** (o semivacía) mostrando la estructura | Hoy tienen libros; se venden vacías |
 
 > Se va completando a medida que avanzan los ítems 7-19.

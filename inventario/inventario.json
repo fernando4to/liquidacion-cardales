@@ -703,37 +703,72 @@
     },
     {
       "id": "LIV-006",
-      "nombre": "3 bibliotecas de melamina blanca (altas, 2021)",
+      "nombre": "Biblioteca de melamina blanca grande (~2 m, 2021) — 2 disponibles",
       "categoria": "mueble",
       "ambiente": "living",
       "marca": null,
       "modelo": null,
       "antiguedad": "de 2021 (~4-5 años)",
-      "medidas": "Grande 141 × 200 × 30 cm; grande 134,5 × 208 × 31 cm; mediana 93 × 192 × 42 cm (ancho × alto × profundidad)",
+      "medidas": "Dos grandes de medidas similares: 141 × 200 × 30 cm y 134,5 × 208 × 31 cm (ancho × alto × profundidad)",
       "estado": "muy bueno",
       "defectos": [],
-      "precio_ars": 169000,
+      "precio_ars": 65000,
       "precio_firme": true,
       "estado_venta": "disponible",
+      "cantidad": 2,
       "fotos": [
         "LIV-006-1.jpg",
         "LIV-006-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Tres bibliotecas de melamina blanca de gran altura (alrededor de 2 metros), de 2021 y en muy buen estado: firmes, con varios estantes cada una, ideales para armar una pared de biblioteca, un estudio o una oficina. Vienen en tres medidas (141×200, 134,5×208 y 93×192×42 cm). Se venden vacías (los libros no se incluyen). Precio por las 3; también se pueden llevar sueltas (las dos grandes a $65.000 c/u y la mediana a $55.000). Se liberan por mudanza a Chile.",
+      "descripcion": "Biblioteca de melamina blanca de gran altura (alrededor de 2 metros), de 2021 y en muy buen estado, con varios estantes firmes: ideal para armar una pared de biblioteca, un estudio o una oficina. Hay 2 grandes de medidas similares (141×200×30 y 134,5×208×31 cm). Se venden vacías (los libros no se incluyen). Precio por unidad; llevando las 3 bibliotecas juntas (estas 2 + la mediana con ruedas), $169.000. Se liberan por mudanza a Chile.",
       "interno": {
         "comps": [
           {
             "url": "https://listado.mercadolibre.com.ar/bibliotecas-melamina-usada",
             "precio": 65000,
             "fecha": "2026-07-13",
-            "nota": "bibliotecas melamina usadas: chicas $40-70k; grandes (~2m) algo más. 59 result. usados"
+            "nota": "melamina blanca usada; grandes ~2m en buen estado ~$55-70k c/u"
           }
         ],
-        "logica_tasacion": "Melamina blanca usada: chicas $40-70k. Estas son grandes (~2m) y de 2021 en muy buen estado → ~$55-65k c/u. Set de 3 a $169k (sueltas suman $185k → combo). Agresivo por prioridad velocidad + 7 días. Libros NO incluidos (confirmado).",
+        "logica_tasacion": "Grandes (~2m) 2021 muy buen estado → $65k c/u. Split en 2 avisos para que el precio unitario sea visible en la tarjeta (usa campo cantidad). Combo por las 3 a $169k. Agresivo por velocidad + 7 días. Libros NO incluidos.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
-        "pendiente": "Falta foto que muestre el mueble vacío/estructura (hoy solo hay fotos con libros)."
+        "pendiente": "Foto de una grande vacía (hoy con libros)."
+      }
+    },
+    {
+      "id": "LIV-007",
+      "nombre": "Biblioteca de melamina blanca con ruedas (93×192, 2021)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "de 2021 (~4-5 años)",
+      "medidas": "93 × 192 × 42 cm (ancho × alto × profundidad), un poco más profunda; con ruedas",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 55000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-007-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Biblioteca de melamina blanca de 2021 en muy buen estado, con ruedas para moverla fácil y varios estantes firmes (93 × 192 × 42 cm, un poco más profunda que las otras). Ideal para estudio, oficina o dormitorio. Se vende vacía (los libros no se incluyen). Llevando las 3 bibliotecas juntas, $169.000. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/bibliotecas-melamina-usada",
+            "precio": 55000,
+            "fecha": "2026-07-13",
+            "nota": "melamina blanca usada; esta mediana con ruedas"
+          }
+        ],
+        "logica_tasacion": "Mediana con ruedas, 2021 muy buen estado → $55k. Precio visible en su propia tarjeta. Combo por las 3 a $169k. Libros NO incluidos.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Foto vacía si se puede."
       }
     }
   ],
