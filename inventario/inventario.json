@@ -473,7 +473,7 @@
     },
     {
       "id": "COM-001",
-      "nombre": "Mesa de comedor de vidrio con base de madera maciza (220×120, para 8-10)",
+      "nombre": "Mesa de comedor de vidrio con base de roble macizo (220×120, para 8-10)",
       "categoria": "mueble",
       "ambiente": "comedor",
       "marca": null,
@@ -482,7 +482,7 @@
       "medidas": "tapa 220 × 120 cm, vidrio de 2 cm de espesor; alto 74 cm",
       "estado": "muy bueno",
       "defectos": [],
-      "precio_ars": 299000,
+      "precio_ars": 499000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -490,7 +490,7 @@
         "COM-001-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Mesa de comedor amplia (220 × 120 cm) con tapa de vidrio biselado de 2 cm de espesor sobre una base de madera maciza de diseño: cómoda para 8 a 10 personas y con mucha presencia en el ambiente. El vidrio grueso y la madera maciza le dan solidez y estabilidad, y combina con cualquier estilo de sillas. 5 años de uso, sin rayones en el vidrio ni defectos. Las sillas se venden por separado. Se libera muy por debajo de una equivalente nueva por mudanza a Chile.",
+      "descripcion": "Mesa de comedor amplia (220 × 120 cm) con tapa de vidrio biselado de 2 cm de espesor sobre una base de roble macizo de diseño: cómoda para 8 a 10 personas y con mucha presencia en el ambiente. El vidrio grueso y el roble macizo le dan solidez y estabilidad, y combina con cualquier estilo de sillas. 5 años de uso, sin rayones en el vidrio ni defectos. Las sillas se venden por separado. Se libera muy por debajo de una equivalente nueva por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -504,9 +504,15 @@
             "precio": 250000,
             "fecha": "2026-07-13",
             "nota": "usadas vidrio comedor, rango amplio y más bajo"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/mesa-comedor-roble-macizo-estilo",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "ROBLE MACIZO: usadas ~$190k-2,2M+ según tamaño/estado; nuevas roble+vidrio ~$700k-1M+. Sostiene el reajuste a $499k."
           }
         ],
-        "logica_tasacion": "Nuevas vidrio+madera $550-750k+. Pieza grande de calidad (220cm, madera maciza de diseño, vidrio biselado 2cm, sin defectos) pero mercado angosto (pocos tienen comedor para 2,2m) y vidrio grande = frágil y caro de mover. Fijado ~P25-30 y agresivo por fragilidad/flete + nicho + 7 días a fecha límite. $299k = claramente bajo el equivalente nuevo.",
+        "logica_tasacion": "ACTUALIZADO 2026-07-13: la base es de ROBLE MACIZO (dato nuevo de Feña), no madera genérica. Comps ML AR roble macizo: usadas ~$190k-2,2M+ según tamaño; nuevas vidrio+roble ~$700k-1M+. Pieza grande de calidad (220cm, roble macizo de diseño, vidrio biselado 2cm, sin defectos). Feña subió el precio de $299k a $499k por el roble. $499k = ~50-70% de una nueva equivalente y bien dentro del rango de usado de roble; no supera el umbral +30% sobre mercado -> validado. Contrapesos que lo mantienen razonable: mercado angosto (comedor de 2,2m), vidrio grande frágil/caro de mover, 7 días a fecha límite.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": []
       }
