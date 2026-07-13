@@ -264,17 +264,20 @@
       "marca": "Ultimate Fitness",
       "modelo": "Z650 pro",
       "antiguedad": "2023 (~2-3 años)",
-      "estado": "a confirmar",
-      "defectos": [],
-      "precio_ars": 199000,
-      "precio_firme": false,
+      "estado": "bueno",
+      "defectos": [
+        "Gomaespumas del manubrio gastadas por el uso; uno de los grips tiene una reparación con cinta. Es estético y no afecta el pedaleo ni la resistencia."
+      ],
+      "precio_ars": 179000,
+      "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
         "GEN-002-1.jpg",
-        "GEN-002-2.jpg"
+        "GEN-002-2.jpg",
+        "GEN-002-3.jpg"
       ],
       "link_specs": null,
-      "descripcion": "(BORRADOR — pendiente de estado) Bicicleta de spinning Ultimate Fitness Z650 pro con resistencia magnética, consola digital y pedales con calapiés. Del 2023. Se libera por mudanza a Chile.",
+      "descripcion": "Bicicleta de spinning con resistencia magnética regulable por perilla, consola digital de entrenamiento y pedales con calapiés: pedaleo silencioso y estable para entrenar en casa. Equipo robusto (42 kg) del 2023, funciona bien y en buen estado general. Único detalle: las gomaespumas del manubrio están gastadas y una tiene una reparación con cinta —es estético, no afecta el pedaleo ni la resistencia—. Se libera por mudanza a Chile, a precio de liquidación.",
       "interno": {
         "comps": [
           {
@@ -282,16 +285,22 @@
             "precio": null,
             "fecha": "2026-07-11",
             "nota": "Modelo exacto en Falabella Chile (nuevo); precio no accesible (403). Ultimate Fitness = marca chilena"
+          },
+          {
+            "url": "https://listado.mercadolibre.com.ar/bicicleta-spinning-usadas",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "Franjas ML AR usados (jul-2026): mayoría <$350k, tramos $350-450k y >$450k. Magnéticas con consola mid-range ~$250-320k típico"
           }
         ],
-        "logica_tasacion": "Feña sin precio de referencia. Sin comp directo AR ni precio nuevo accesible. Rango de spin bikes magnéticas con consola usadas en AR ~$150-350k. Para una mid-range de 2023, con liquidación (P25-40, velocidad>precio), PROPUESTA PROVISIONAL $199.000 asumiendo buen estado. PENDIENTE: confirmar estado para lockear precio. No taso en firme sin estado (regla dura).",
-        "fecha_tasacion": "2026-07-11",
+        "logica_tasacion": "Estado confirmado por Feña: BUENO, con gomaespumas del manubrio gastadas (una reparada con cinta; estético, no afecta el uso). Comps ML AR (jul-2026): spin bikes magnéticas usadas con consola concentradas <$350k; usado típico mid-range 2023 ~$250-320k. Liquidación (P25-40, velocidad>precio) + descuento por el desgaste de los grips + a 1 semana del límite -> firme $179.000 (~28% bajo el piso de usados). Feña habilitó ser más agresivo por el detalle del manubrio. Precio firme que nace agresivo.",
+        "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
         "fotos_referencia": [
-          "IMG_4462, IMG_4463 (etiqueta Z650 pro 42kg)"
+          "IMG_4462, IMG_4463 (etiqueta Z650 pro 42kg, no publicadas)",
+          "IMG_4567 -> GEN-002-3 (detalle del manubrio/grips, publicada como foto del defecto)"
         ],
-        "listo_para_publicar": false,
-        "pendiente": "Feña: ESTADO + defectos. Luego lockear precio (provisional $199.000) y publicar."
+        "listo_para_publicar": true
       }
     },
     {
