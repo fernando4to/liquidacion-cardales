@@ -253,14 +253,14 @@
   /* ---------- mapa ---------- */
   function initMapa() {
     if (typeof L === "undefined") return;
-    var lat = -34.3270, lng = -58.9190; // zona aproximada de Los Cardales (NO dirección exacta)
-    var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 13);
+    var lat = -34.3083, lng = -58.9661; // Los Cardales Country Club (barrio cerrado, NO la casa)
+    var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 14);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 17, attribution: "© OpenStreetMap"
     }).addTo(map);
     L.circle([lat, lng], {
-      radius: 1500, color: "#1D3A8F", weight: 2, fillColor: "#1D3A8F", fillOpacity: 0.12
-    }).addTo(map);
+      radius: 1100, color: "#1D3A8F", weight: 2, fillColor: "#1D3A8F", fillOpacity: 0.12
+    }).addTo(map).bindTooltip("Los Cardales Country Club", { permanent: true, direction: "center", className: "mapa-tip" });
   }
 
   /* ---------- init ---------- */

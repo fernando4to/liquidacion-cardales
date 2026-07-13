@@ -183,6 +183,10 @@ main{padding:26px 0 60px}
 .mapa-txt h2{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:800;font-size:24px;margin:0 0 10px}
 .mapa-txt p{color:var(--tinta-70);font-size:15px;margin:0 0 10px}
 .mapa-note{font-size:13px;color:var(--tinta-45);border-left:3px solid var(--kraft);padding-left:12px}
+.leaflet-tooltip.mapa-tip{background:var(--azul);color:#fff;border:none;border-radius:3px;
+  font-family:"Inter",system-ui,sans-serif;font-weight:700;font-size:12px;letter-spacing:.01em;
+  padding:4px 9px;box-shadow:0 1px 4px rgba(28,27,24,.35);white-space:nowrap}
+.leaflet-tooltip.mapa-tip::before{display:none}
 
 /* ==========================================================================
    Footer
