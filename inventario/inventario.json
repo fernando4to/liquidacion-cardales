@@ -530,7 +530,7 @@
       "defectos": [
         "Algunas sillas tienen manchas de uso en el tapizado de lino (estético). La estructura de todas es firme y sólida."
       ],
-      "precio_ars": 280000,
+      "precio_ars": 279000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -553,7 +553,7 @@
             "nota": "usadas Luis XVI, por silla, más bajo"
           }
         ],
-        "logica_tasacion": "Nuevas ~$95-150k/silla; usadas con manchas mucho menos. Juego de 8 = $280k → ~$35k/silla, muy por debajo de nuevas. Descuento por manchas de tapizado + prioridad velocidad (mueve 8 unidades en una operación) + 7 días a fecha límite. Vender como lote acelera la liquidación.",
+        "logica_tasacion": "Nuevas ~$95-150k/silla; usadas con manchas mucho menos. Juego de 8 = $279k (Feña bajó desde $280k) → ~$35k/silla, muy por debajo de nuevas. Descuento por manchas de tapizado + prioridad velocidad (mueve 8 unidades en una operación) + 7 días a fecha límite. Vender como lote acelera la liquidación.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": []
       }
