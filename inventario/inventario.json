@@ -437,12 +437,13 @@
       "marca": "Karl Schultz",
       "modelo": null,
       "antiguedad": "se compró usado hace ~15 años; antigüedad real desconocida",
-      "estado": "bueno",
+      "estado": "funcional con detalles",
       "defectos": [
-        "Desgaste estético en la laca negra (bordes y panel inferior) y teclas amarillentas por la edad. Es cosmético: el piano funciona y está afinado.",
+        "Dos teclas tienen una avería y hay que repararlas: la segunda nota Si y la quinta tecla (el resto del teclado responde bien).",
+        "Desgaste estético en la laca negra (bordes y panel inferior) y teclas amarillentas por la edad (cosmético).",
         "No incluye banqueta."
       ],
-      "precio_ars": 349000,
+      "precio_ars": 249000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -450,7 +451,7 @@
         "LIV-002-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Piano vertical acústico de tamaño compacto, afinado recientemente y listo para tocar: buena opción para empezar a estudiar o para tener música en casa sin ocupar mucho lugar. Teclado y 3 pedales funcionando. Se vende muy por debajo de un vertical usado equivalente por mudanza a Chile. A tener en cuenta: es un piano con años (se compró usado hace ~15 años), con desgaste estético en la laca y teclas amarillentas por el uso; no incluye banqueta.",
+      "descripcion": "Piano vertical acústico de tamaño compacto, afinado: buena opción para empezar a estudiar o para tener música en casa sin ocupar mucho lugar. Los 3 pedales funcionan y la mayor parte del teclado responde bien. A tener en cuenta: 2 teclas tienen una avería y hay que repararlas (la segunda nota Si y la quinta tecla); además es un piano con años (se compró usado hace ~15 años), con desgaste estético en la laca y teclas amarillentas; no incluye banqueta. Se vende muy por debajo de un vertical usado por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -466,7 +467,7 @@
             "nota": "premium (Yamaha/Kawai/alemán) desde ~$1.2M; NO comparable, marca económica"
           }
         ],
-        "logica_tasacion": "Comps ML verticales usados $400k–1.5M; premium desde $1.2M. Karl Schultz = marca económica, vertical compacto con desgaste de laca y teclas amarillentas → piso del rango. Fijado BAJO el piso de 'baratos' (~$400k) por: marca económica + desgaste estético + logística de flete (piano = lo más difícil de mover) + 7 días a fecha límite + pedido explícito de precio agresivo del dueño. Afinado y funcional sostiene el interés.",
+        "logica_tasacion": "Comps ML verticales usados $400k–1.5M; premium desde $1.2M. Karl Schultz = marca económica, vertical compacto con desgaste de laca y teclas amarillentas → piso del rango. Fijado BAJO el piso de 'baratos' (~$400k) por: marca económica + desgaste estético + logística de flete (piano = lo más difícil de mover) + 7 días a fecha límite + pedido explícito de precio agresivo del dueño. Afinado y funcional sostenía el interés. ACTUALIZADO 2026-07-14: Feña reportó 2 averías de teclas (2ª nota Si + 5ª tecla; 2 videos adjuntos). Ya no es totalmente funcional -> estado 'funcional con detalles' y copy corregido (antes decía 'listo para tocar / teclado funcionando'). Bajado de $349.000 a $249.000 (~-29%) por defecto real de teclas (asusta al comprador, requiere técnico) + sigue siendo el ítem más difícil de mover (flete). Si no hay interés serio para el sábado, candidato a bajar más (~$199k).",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": []
       }
