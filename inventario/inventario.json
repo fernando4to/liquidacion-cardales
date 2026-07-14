@@ -991,6 +991,42 @@
         "rebajas_aplicadas": [],
         "pendiente": "Faltan MEDIDAS exactas (sofá/sillones/mesa) para sumar al aviso."
       }
+    },
+    {
+      "id": "EXT-005",
+      "nombre": "Mesa plegable símil madera (~1,8 m) + 8 sillas plegables surtidas",
+      "categoria": "mueble",
+      "ambiente": "exterior",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "bueno",
+      "defectos": [
+        "Las 8 sillas son surtidas (no todas iguales: mezcla de plegables negras y de ratán marrón) y tienen uso. La mesa plegable funciona bien."
+      ],
+      "precio_ars": 99000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "EXT-005-1.jpg",
+        "EXT-005-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Mesa plegable rectangular tipo símil madera (alrededor de 1,8 m) con 8 sillas plegables: práctica para sumar lugares en un asado, un cumpleaños o el quincho, y se guarda plegada ocupando poco. La mesa se pliega al medio. Las 8 sillas son surtidas (mezcla de plegables negras y de ratán marrón). Todo funcional, con uso normal. Se vende el conjunto completo (mesa + 8 sillas), por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/mesa-plegable-con-sillas",
+            "precio": 88600,
+            "fecha": "2026-07-13",
+            "nota": "mesa plegable 180cm símil madera nueva ~$88k+; sets mesa+sillas nuevos $200-380k. Usado + sillas surtidas -> lote agresivo."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó; confirmó 8 sillas). Mesa plegable símil madera ~1,8m (se pliega al medio) + 8 sillas plegables SURTIDAS (negras metálicas + ratán marrón), usadas y funcionales. Comps ML AR: mesa plegable 180cm nueva ~$88k+; sets mesa+sillas $200-380k. Usado + sillas surtidas (menos deseable que un juego) + prioridad velocidad -> $99.000 el lote (mesa + 8 sillas). Agresivo. Utilitario para eventos/quincho.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Mejor foto del conjunto (mesa + las 8 sillas ordenadas). Publicado con 4483/4484."
+      }
     }
   ],
   "config": {

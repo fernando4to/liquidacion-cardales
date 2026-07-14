@@ -13,6 +13,7 @@ Actualizado: 2026-07-13
 | **LIV-006 / LIV-007** | Bibliotecas blancas (2 grandes + 1 con ruedas) | Nueva foto de los **estantes vacía y más ordenada/prolija** mostrando la estructura | Hoy tienen libros/desorden; se venden vacías |
 | **GEN-001** | Ventilador de pared Airolite | **Cambiar la foto** por una mejor | Pedido de Feña |
 | **EXT-003** | 2 reposeras de ratán | Foto de **las 2 reposeras juntas** | Confirmado: son **2**. Las fotos actuales (4480-4482) muestran 1. Aún sin publicar |
+| **EXT-005** | Mesa plegable + 8 sillas | **Mejor foto** del conjunto (mesa + las 8 sillas ordenadas) | Publicado con 4483/4484; pedido de Feña |
 | **LIV-008** | 2 sillones blancos + puffs | Los **2 sillones con sus 2 puffs** juntos · detalle de **manchas** | Vender el juego completo + §8.5 |
 | **OFI-002** | Escritorio melamina 160×70 | (opcional) Mejor **foto frontal recta** | Ya publicado con la foto actual; Feña la mejora el 14/7 si puede |
 | **OFI-003** | 2 sillas Ergohuman Gen 2 | **Fotos reales de las 2 sillas** (general + detalle) | Publicado con placeholder "Foto real — mañana"; Feña las saca el 14/7. Confirmar estado/defectos al subirlas |
