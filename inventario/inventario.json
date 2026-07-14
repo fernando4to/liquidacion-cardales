@@ -811,6 +811,41 @@
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "OFI-002",
+      "nombre": "Escritorio de melamina símil roble 160×70 (patas metálicas blancas)",
+      "categoria": "mueble",
+      "ambiente": "oficina",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "160 × 70 cm (largo × ancho), alto 72,5 cm; tapa de 2,5 cm de espesor",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 75000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-002-1.jpg",
+        "OFI-002-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Escritorio amplio de 160 × 70 cm en melamina símil roble claro, sobre patas metálicas blancas tipo puente: superficie grande y despejada para trabajar, estudiar o para home office. Línea sobria y actual que combina con cualquier ambiente. En excelente estado, sin marcas de uso. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/escritorio-melamina-usado",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "melamina usados desde ~$33k (chicos); 160cm buen tamaño juega más arriba; nuevos 160x70 ~$90-140k"
+          }
+        ],
+        "logica_tasacion": "Sin marca (Feña no la recuerda), melamina símil roble 160×70, patas metálicas blancas, sin defectos, estado excelente (como nuevo, confirmado por Feña). Comps ML AR: usados desde ~$33k (chicos), 160cm en buen estado más arriba; nuevos 160×70 ~$90-140k. Tasado por mí (Feña delegó) con pedido explícito de NO ser tan agresivo -> $75.000 firme (~50-60% de nuevo, franja media-alta del usado).",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Feña puede traer una mejor foto frontal el 2026-07-14 -> reemplazar OFI-002-1. Publicado con IMG_4436 (general) + IMG_4435 (superficie)."
+      }
     }
   ],
   "config": {
