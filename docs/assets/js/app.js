@@ -262,8 +262,8 @@
   function initMapa() {
     if (typeof L === "undefined") return;
     // ENTRADA del Los Cardales Country Club (portón de acceso, NO la casa).
-    // OJO: coordenada a verificar por Feña sobre el mapa vivo; ajustar si el pin no cae en el portón.
-    var lat = -34.3156, lng = -58.9642;
+    // Coordenada del portón confirmada por Feña (2026-07-13).
+    var lat = -34.3156049, lng = -58.9641648;
     var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 16);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18, attribution: "© OpenStreetMap"
