@@ -1039,7 +1039,7 @@
       "marca": null,
       "modelo": null,
       "antiguedad": "no especificada",
-      "estado": "muy bueno",
+      "estado": "bueno",
       "defectos": [
         "La tapa (superficie superior) tiene marcas y leve desgaste en la pintura blanca (estético). Los cajones abren y cierran bien; interior forrado y limpio."
       ],
@@ -1051,7 +1051,7 @@
         "DOR-001-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Cómoda ancha de 6 cajones en madera pintada de blanco, con tiradores metálicos y patitas torneadas: mucho espacio de guardado para el dormitorio, de estilo clásico que combina fácil. Los 6 cajones abren y cierran bien, con el interior forrado y limpio. En muy buen estado; a tener en cuenta: la tapa tiene marcas y leve desgaste en la pintura (estético). Se libera por mudanza a Chile.",
+      "descripcion": "Cómoda ancha de 6 cajones en madera pintada de blanco, con tiradores metálicos y patitas torneadas: mucho espacio de guardado para el dormitorio, de estilo clásico que combina fácil. Los 6 cajones abren y cierran bien, con el interior forrado y limpio. En buen estado; a tener en cuenta: la tapa tiene marcas y leve desgaste en la pintura (estético). Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1105,7 +1105,7 @@
     },
     {
       "id": "DOR-003",
-      "nombre": "Cómoda de madera maciza estilo campo, 9 cajones (blanca con tapa de madera)",
+      "nombre": "Juego de dormitorio de madera maciza estilo campo: cómoda de 9 cajones + 2 mesas de luz",
       "categoria": "mueble",
       "ambiente": "dormitorio",
       "marca": null,
@@ -1113,15 +1113,16 @@
       "antiguedad": "no especificada",
       "estado": "muy bueno",
       "defectos": [],
-      "precio_ars": 199000,
+      "precio_ars": 249000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
         "DOR-003-1.jpg",
-        "DOR-003-2.jpg"
+        "DOR-003-2.jpg",
+        "DOR-003-3.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Cómoda amplia de 9 cajones en madera maciza, estilo campo: cuerpo pintado de blanco con terminación rústica y tapa de madera teñida en tono oscuro que le da mucho carácter. Gran capacidad de guardado y una pieza sólida que se luce en el dormitorio. Los cajones abren bien (el central superior tiene cerradura). En muy buen estado. Se libera por mudanza a Chile.",
+      "descripcion": "Juego de dormitorio en madera maciza, estilo campo: cómoda amplia de 9 cajones más 2 mesas de luz a juego, todo con cuerpo blanco de terminación rústica y tapa de madera teñida en tono oscuro que le da mucho carácter. Cada mesa de luz tiene 3 cajones; la cómoda suma gran capacidad de guardado (el cajón central superior con cerradura). Piezas sólidas y en muy buen estado. Se vende el juego completo (cómoda + 2 mesas de luz), por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1131,10 +1132,10 @@
             "nota": "cómodas madera maciza campo: nuevas/artesanales ~$350-700k; usadas ~$180-350k. Búsqueda sin precio exacto (INCERTIDUMBRE)."
           }
         ],
-        "logica_tasacion": "Tasada por mí (Feña delegó; sin precio suyo). Cómoda de madera MACIZA estilo campo, 9 cajones (3+2+2+2), cuerpo blanco rústico + tapa de madera teñida oscura, con cerradura. Pieza sólida y de calidad, muy buen estado. Comps sin precio exacto (INCERTIDUMBRE); ref nuevas artesanales $350-700k, usadas $180-350k. Madera maciza sostiene valor. Liquidación + velocidad -> $199.000 firme, agresivo (muy por debajo de una nueva). Parece artesanal/custom: si Feña sabe qué pagó, revisar. Faltan medidas.",
+        "logica_tasacion": "JUEGO (armado con Feña 2026-07-14): cómoda 9 cajones + 2 mesas de luz a juego (3 cajones c/u), madera MACIZA estilo campo, blanco rústico + tapa teñida oscura. Precio FIJADO POR FEÑA: $249.000 el juego. Buen deal: la cómoda sola valía ~$199k (usadas $180-350k) + 2 mesas de luz macizas (~$25-50k c/u usadas) -> el juego a $249k queda por debajo de la suma de partes y mueve 3 piezas juntas (velocidad). Validado. Faltan medidas.",
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": [],
-        "pendiente": "Medidas exactas (ancho/alto/profundidad). Confirmar precio de compra si Feña lo sabe (pieza artesanal). Distinta de DOR-001."
+        "pendiente": "Medidas exactas (cómoda + mesas de luz). Fotos: DOR-003-1/2 cómoda (IMG_4576/4575), DOR-003-3 las 2 mesas de luz (IMG_4580). Distinta de DOR-001."
       }
     }
   ],
