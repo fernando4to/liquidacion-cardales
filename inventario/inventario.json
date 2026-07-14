@@ -917,6 +917,43 @@
         "rebajas_aplicadas": [],
         "nota_cantidad": "2 unidades; precio por unidad. Al vender una, cantidad->1; al vender ambas, estado_venta=vendido."
       }
+    },
+    {
+      "id": "LIV-009",
+      "nombre": "Espejo grande de piso veneciano biselado 181×71 (glam, 3 disponibles)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "Cada espejo 181 × 71 cm (alto × ancho), 3 cm de profundidad",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 99000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "cantidad": 3,
+      "fotos": [
+        "LIV-009-1.jpg",
+        "LIV-009-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Espejo de cuerpo entero, grande (181 × 71 cm), estilo veneciano: cristal en paneles biselados y marco espejado con borde de cuentas, muy decorativo. Un espejo así agranda visualmente el ambiente —le suma amplitud y profundidad— y aporta luz; luce muy bien en living, comedor, dormitorio o entrada. Hay 3 unidades iguales: se pueden llevar de a uno o las 3 juntas. En muy buen estado, cristal sano. Precio por unidad; llevando los 3, $249.000. Se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/espejo-veneciano",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "venecianos/biselados grandes ~180cm; la búsqueda no dio precio exacto (INCERTIDUMBRE). Ref: nuevos ~$200-450k; usados por unidad ~$90-150k."
+          }
+        ],
+        "logica_tasacion": "Tasada por mí (Feña delegó ambiente y modalidad; sin precio suyo). Espejo veneciano biselado de piso 181×71, glam, muy decorativo, 3 idénticos, muy buen estado sin defectos. INCERTIDUMBRE: no se halló comp con precio exacto. Ref nuevos ~$200-450k, usados por unidad ~$90-150k. Liquidación + velocidad + 3 a mover + estilo de nicho (glam no gusta a todos) -> $99.000 c/u firme, combo 3 = $249.000. Ambiente living (sección más vista, arriba) para MAXIMIZAR exposición; copy aclara que sirven en comedor/dormitorio/entrada.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "nota_cantidad": "3 idénticos; precio por unidad, combo por los 3 = $249.000. Al vender uno, cantidad--; al vender los 3, estado_venta=vendido.",
+        "pendiente": "Opcional: foto más limpia (en 4473/4474 el reflejo muestra algo de desorden de fondo: pañuelos/spray). No bloquea, los espejos se ven bien."
+      }
     }
   ],
   "config": {

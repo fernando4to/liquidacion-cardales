@@ -14,5 +14,6 @@ Actualizado: 2026-07-13
 | **LIV-008** | 2 sillones blancos + puffs | Los **2 sillones con sus 2 puffs** juntos · detalle de **manchas** | Vender el juego completo + §8.5 |
 | **OFI-002** | Escritorio melamina 160×70 | (opcional) Mejor **foto frontal recta** | Ya publicado con la foto actual; Feña la mejora el 14/7 si puede |
 | **OFI-003** | 2 sillas Ergohuman Gen 2 | **Fotos reales de las 2 sillas** (general + detalle) | Publicado con placeholder "Foto real — mañana"; Feña las saca el 14/7. Confirmar estado/defectos al subirlas |
+| **LIV-009** | 3 espejos venecianos | (opcional) Foto con **reflejo más limpio** | Publicado con 4473/4474; el reflejo muestra algo de desorden de fondo. No bloquea |
 
 > Se va completando a medida que avanzan los ítems 7-19.
