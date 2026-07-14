@@ -146,8 +146,16 @@
     var byAmb = {};
     visibles.forEach(function (it) { (byAmb[it.ambiente] = byAmb[it.ambiente] || []).push(it); });
 
+    // monto disponible por ambiente (excluye vendidos; cuenta cantidades)
+    var ambTotal = {};
+    Object.keys(byAmb).forEach(function (amb) {
+      ambTotal[amb] = byAmb[amb].reduce(function (s, it) {
+        return s + (it.estado_venta === "vendido" ? 0 : it.precio_ars * (it.cantidad || 1));
+      }, 0);
+    });
     var ambientes = Object.keys(byAmb).sort(function (a, b) {
-      var ia = AMB_ORDEN.indexOf(a), ib = AMB_ORDEN.indexOf(b);
+      if (ambTotal[b] !== ambTotal[a]) return ambTotal[b] - ambTotal[a]; // mayor monto a vender primero
+      var ia = AMB_ORDEN.indexOf(a), ib = AMB_ORDEN.indexOf(b);        // desempate: orden por defecto
       return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
     });
 
@@ -253,14 +261,16 @@
   /* ---------- mapa ---------- */
   function initMapa() {
     if (typeof L === "undefined") return;
-    var lat = -34.3156, lng = -58.9642; // Los Cardales Country Club (barrio cerrado, NO la casa)
-    var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 14);
+    // ENTRADA del Los Cardales Country Club (portón de acceso, NO la casa).
+    // OJO: coordenada a verificar por Feña sobre el mapa vivo; ajustar si el pin no cae en el portón.
+    var lat = -34.3156, lng = -58.9642;
+    var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 16);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 17, attribution: "© OpenStreetMap"
+      maxZoom: 18, attribution: "© OpenStreetMap"
     }).addTo(map);
-    L.circle([lat, lng], {
-      radius: 1100, color: "#1D3A8F", weight: 2, fillColor: "#1D3A8F", fillOpacity: 0.12
-    }).addTo(map).bindTooltip("Los Cardales Country Club", { permanent: true, direction: "center", className: "mapa-tip" });
+    L.circleMarker([lat, lng], {
+      radius: 9, color: "#fff", weight: 3, fillColor: "#1D3A8F", fillOpacity: 1
+    }).addTo(map).bindTooltip("Entrada · Los Cardales Country Club", { permanent: true, direction: "top", offset: [0, -8], className: "mapa-tip" });
   }
 
   /* ---------- init ---------- */
