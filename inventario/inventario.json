@@ -728,7 +728,7 @@
         "LIV-006-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Biblioteca de melamina blanca de gran altura (alrededor de 2 metros), de 2021 y en muy buen estado, con varios estantes firmes: ideal para armar una pared de biblioteca, un estudio o una oficina. Hay 2 grandes de medidas similares (141×200×30 y 134,5×208×31 cm). Se venden vacías (los libros no se incluyen). Precio por unidad; llevando las 3 bibliotecas juntas (estas 2 + la mediana con ruedas), $169.000. Se liberan por mudanza a Chile.",
+      "descripcion": "Biblioteca de melamina blanca de gran altura (alrededor de 2 metros), de 2021 y en muy buen estado, con varios estantes firmes: ideal para armar una pared de biblioteca, un estudio o una oficina. Hay 2 grandes de medidas similares (141×200×30 y 134,5×208×31 cm). Se venden vacías (los libros no se incluyen). Precio por unidad; llevando las 3 bibliotecas juntas (estas 2 + la mediana), $169.000. Se liberan por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -746,14 +746,14 @@
     },
     {
       "id": "LIV-007",
-      "nombre": "Biblioteca de melamina blanca con ruedas (93×192, 2021)",
+      "nombre": "Biblioteca de melamina blanca (93×192, 2021)",
       "categoria": "mueble",
       "ambiente": "living",
       "marca": null,
       "modelo": null,
       "antiguedad": "de 2021 (~4-5 años)",
-      "medidas": "93 × 192 × 42 cm (ancho × alto × profundidad), un poco más profunda; con ruedas",
-      "estado": "muy bueno",
+      "medidas": "93 × 192 × 42 cm (ancho × alto × profundidad), un poco más profunda",
+      "estado": "bueno",
       "defectos": [],
       "precio_ars": 55000,
       "precio_firme": true,
@@ -762,7 +762,7 @@
         "LIV-007-1.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Biblioteca de melamina blanca de 2021 en muy buen estado, con ruedas para moverla fácil y varios estantes firmes (93 × 192 × 42 cm, un poco más profunda que las otras). Ideal para estudio, oficina o dormitorio. Se vende vacía (los libros no se incluyen). Llevando las 3 bibliotecas juntas, $169.000. Se libera por mudanza a Chile.",
+      "descripcion": "Biblioteca de melamina blanca de 2021 en buen estado, con varios estantes firmes (93 × 192 × 42 cm, un poco más profunda que las otras). Ideal para estudio, oficina o dormitorio. Se vende vacía (los libros no se incluyen). Llevando las 3 bibliotecas juntas, $169.000. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1193,8 +1193,8 @@
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
-        "DOR-005-1.jpg",
         "DOR-005-2.jpg",
+        "DOR-005-1.jpg",
         "DOR-005-3.jpg"
       ],
       "link_specs": null,
