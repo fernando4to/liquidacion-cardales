@@ -1027,6 +1027,42 @@
         "rebajas_aplicadas": [],
         "pendiente": "Mejor foto del conjunto (mesa + las 8 sillas ordenadas). Publicado con 4483/4484."
       }
+    },
+    {
+      "id": "DOR-001",
+      "nombre": "Cómoda blanca de 6 cajones (madera pintada, tiradores metálicos)",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [
+        "La tapa (superficie superior) tiene marcas y leve desgaste en la pintura blanca (estético). Los cajones abren y cierran bien; interior forrado y limpio."
+      ],
+      "precio_ars": 99000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-001-1.jpg",
+        "DOR-001-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Cómoda ancha de 6 cajones en madera pintada de blanco, con tiradores metálicos y patitas torneadas: mucho espacio de guardado para el dormitorio, de estilo clásico que combina fácil. Los 6 cajones abren y cierran bien, con el interior forrado y limpio. En muy buen estado; a tener en cuenta: la tapa tiene marcas y leve desgaste en la pintura (estético). Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/comoda-6-cajones-usada",
+            "precio": 49000,
+            "fecha": "2026-07-13",
+            "nota": "cómodas 6 cajones usadas ML AR $30-850k según tamaño/material/estado; desde ~$49k. Esta madera pintada, ancha, buen estado -> media."
+          }
+        ],
+        "logica_tasacion": "Tasada por mí (Feña delegó; sin precio suyo). Cómoda ancha 6 cajones, madera pintada blanca, tiradores metálicos, patitas torneadas, estilo clásico. Cajones funcionan bien, interior forrado y limpio; tapa con marcas/leve desgaste de pintura. Comps ML AR usados $30-850k (desde ~$49k). Media para una ancha en buen estado. Liquidación + prioridad velocidad + desgaste de tapa -> $99.000 firme, agresivo (las cómodas se venden rápido a buen precio). Faltan medidas exactas.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Medidas exactas (ancho/alto/profundidad) para sumar al aviso."
+      }
     }
   ],
   "config": {
