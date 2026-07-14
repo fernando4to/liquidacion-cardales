@@ -1103,6 +1103,40 @@
         "rebajas_aplicadas": [],
         "pendiente": "Confirmar con Feña que el almohadón va incluido (está atado al marco en la foto). Opcional: foto de detalle de la pintura saltada."
       }
+    },
+    {
+      "id": "DOR-003",
+      "nombre": "Cómoda de madera maciza estilo campo, 9 cajones (blanca con tapa de madera)",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 199000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-003-1.jpg",
+        "DOR-003-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Cómoda amplia de 9 cajones en madera maciza, estilo campo: cuerpo pintado de blanco con terminación rústica y tapa de madera teñida en tono oscuro que le da mucho carácter. Gran capacidad de guardado y una pieza sólida que se luce en el dormitorio. Los cajones abren bien (el central superior tiene cerradura). En muy buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/muebles-de-madera-estilo-campo",
+            "precio": null,
+            "fecha": "2026-07-14",
+            "nota": "cómodas madera maciza campo: nuevas/artesanales ~$350-700k; usadas ~$180-350k. Búsqueda sin precio exacto (INCERTIDUMBRE)."
+          }
+        ],
+        "logica_tasacion": "Tasada por mí (Feña delegó; sin precio suyo). Cómoda de madera MACIZA estilo campo, 9 cajones (3+2+2+2), cuerpo blanco rústico + tapa de madera teñida oscura, con cerradura. Pieza sólida y de calidad, muy buen estado. Comps sin precio exacto (INCERTIDUMBRE); ref nuevas artesanales $350-700k, usadas $180-350k. Madera maciza sostiene valor. Liquidación + velocidad -> $199.000 firme, agresivo (muy por debajo de una nueva). Parece artesanal/custom: si Feña sabe qué pagó, revisar. Faltan medidas.",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": [],
+        "pendiente": "Medidas exactas (ancho/alto/profundidad). Confirmar precio de compra si Feña lo sabe (pieza artesanal). Distinta de DOR-001."
+      }
     }
   ],
   "config": {
