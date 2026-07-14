@@ -1213,6 +1213,39 @@
         "rebajas_aplicadas": [],
         "pendiente": "Opcional: foto con el baúl abierto (mostrar el guardado). Fotos: 4585 general, 4669 con cojines, 4587 detalle."
       }
+    },
+    {
+      "id": "GEN-003",
+      "nombre": "Ventilador de pie Admiral AD-VP18M 18\" (3 en 1)",
+      "categoria": "electrodoméstico",
+      "ambiente": "general",
+      "marca": "Admiral",
+      "modelo": "AD-VP18M",
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 25000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "GEN-003-1.jpg",
+        "GEN-003-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Ventilador de pie Admiral de 18\", modelo 3 en 1: cabezal grande con oscilación, altura regulable (caño telescópico) y 3 velocidades, con aspas metálicas. Funciona bien y está en muy buen estado. Nuevo cuesta alrededor de $41.000; se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.mercadolibre.com.ar/ventilador-de-pie-admiral-advp18m-3-en-1/up/MLAU3183492242",
+            "precio": 41321,
+            "fecha": "2026-07-14",
+            "nota": "Admiral AD-VP18M nuevo ~$41.321 (Fravega/ML, link aportado por Feña). MARKETPLACE -> solo comp interno, NO publicar (regla 11)."
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $25.000. Ventilador de pie Admiral AD-VP18M 18\" 3-en-1, muy buen estado. Nuevo ~$41k. $25k = ~60% de nuevo -> razonable para usado en buen estado (algo firme para pura velocidad, pero válido). Validado. Si quiere acelerar: ~$19-22k más agresivo.",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
