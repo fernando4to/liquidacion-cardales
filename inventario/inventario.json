@@ -965,7 +965,7 @@
       "antiguedad": "no especificada",
       "estado": "muy bueno",
       "defectos": [
-        "Los cojines (tapizado gris claro) tienen marcas de uso e intemperie; son lavables o recambiables. La estructura de ratán y la mesa de vidrio están en muy buen estado."
+        "Los cojines están manchados por el uso, especialmente uno; son lavables o recambiables. La estructura de ratán y la tapa de vidrio están impecables."
       ],
       "precio_ars": 399000,
       "precio_firme": true,
@@ -976,7 +976,7 @@
         "EXT-002-3.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Juego de jardín de ratán sintético gris para exterior: sofá amplio de 3 cuerpos, 2 sillones individuales y mesa ratona con tapa de vidrio. Tejido de buena calidad sobre estructura de aluminio (no se oxida, aguanta la intemperie), con cojines mullidos gris claro. Un set completo para armar un living de galería, quincho o jardín de una sola vez. La estructura y la mesa están en muy buen estado. A tener en cuenta: los cojines tienen marcas de uso e intemperie (son lavables o recambiables). Se vende el juego completo, por mudanza a Chile.",
+      "descripcion": "Juego de jardín de ratán sintético gris para exterior, de gama media-alta: sofá amplio de 3 cuerpos, 2 sillones individuales y mesa ratona con tapa de vidrio. Tejido de buena calidad sobre estructura de aluminio (no se oxida, aguanta la intemperie). Un set completo para armar un living de galería, quincho o jardín de una sola vez. La estructura de ratán y la tapa de vidrio están impecables. A tener en cuenta: los cojines están manchados por el uso (especialmente uno); son lavables o recambiables. Se vende el juego completo, por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -986,10 +986,10 @@
             "nota": "sets simil-ratán 3 piezas nuevos desde ~$290k (gama baja); buena calidad con aluminio $700k-1M+. Este se ve gama media-buena."
           }
         ],
-        "logica_tasacion": "Tasada por mí (Feña no dio precio). Juego jardín ratán sintético: sofá 3 cuerpos + 2 sillones + mesa ratona con vidrio. Buena calidad (aluminio, tejido redondo); estructura y mesa muy buenas; cojines con marcas de uso/intemperie. Comps ML AR: nuevos desde ~$290k (gama baja) a $700k-1M+ (buena calidad). INCERTIDUMBRE sobre gama exacta. Fijado $399.000 el juego completo: agresivo si es gama buena, razonable si media; descuenta cojines gastados + bulto/nicho (necesita jardín/quincho) + prioridad velocidad. Revisar con Feña qué pagó/gama para ajustar si hace falta.",
+        "logica_tasacion": "Tasada por mí (Feña no dio precio). Juego jardín ratán sintético: sofá 3 cuerpos + 2 sillones + mesa ratona con vidrio. Feña CONFIRMÓ gama media-alta (equiv. nuevo ~$800k-1,2M+). Estructura de ratán y tapa de vidrio impecables; cojines MANCHADOS por uso (uno más notorio). Comps ML AR: sets nuevos $290k (gama baja) a $700k-1M+ (buena calidad). Fijado $399.000 el juego completo: buen deal por la gama, con descuento por manchas de cojines + bulto/nicho (necesita jardín/quincho) + prioridad velocidad. Precio validado (gama media-alta sostiene el valor; las manchas justifican el descuento).",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
-        "pendiente": "Faltan MEDIDAS exactas (sofá/sillones/mesa). Confirmar con Feña gama/precio de compra para validar el precio."
+        "pendiente": "Faltan MEDIDAS exactas (sofá/sillones/mesa) para sumar al aviso."
       }
     }
   ],
