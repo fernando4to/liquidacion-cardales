@@ -1111,6 +1111,7 @@
       "marca": null,
       "modelo": null,
       "antiguedad": "no especificada",
+      "medidas": "Cómoda 100 × 40,5 × 90 cm (ancho × prof × alto); cada mesa de luz 45 × 40,5 × 69 cm",
       "estado": "muy bueno",
       "defectos": [],
       "precio_ars": 249000,
@@ -1137,7 +1138,7 @@
         "logica_tasacion": "JUEGO (armado con Feña 2026-07-14): cómoda 9 cajones + 2 mesas de luz a juego (3 cajones c/u), madera MACIZA estilo campo, blanco rústico + tapa teñida oscura. Precio FIJADO POR FEÑA: $249.000 el juego. Buen deal: la cómoda sola valía ~$199k (usadas $180-350k) + 2 mesas de luz macizas (~$25-50k c/u usadas) -> el juego a $249k queda por debajo de la suma de partes y mueve 3 piezas juntas (velocidad). Validado. Faltan medidas.",
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": [],
-        "pendiente": "Medidas exactas (cómoda + mesas de luz). Fotos: -1=COMPUESTA (cómoda arriba + 2 mesas abajo, generada con Pillow para la tarjeta), -2=4578 cómoda frente, -3=4579 cómoda ángulo, -4=4581 las 2 mesas de luz, -5=4580 mesas con cajón abierto. Distinta de DOR-001."
+        "pendiente": "Medidas cargadas (cómoda 100×40,5×90; mesas 45×40,5×69). Fotos: -1=COMPUESTA (cómoda arriba + 2 mesas abajo, generada con Pillow para la tarjeta), -2=4578 cómoda frente, -3=4579 cómoda ángulo, -4=4581 las 2 mesas de luz, -5=4580 mesas con cajón abierto. Distinta de DOR-001."
       }
     }
   ],
