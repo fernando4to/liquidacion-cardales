@@ -879,6 +879,44 @@
         "rebajas_aplicadas": [],
         "pendiente": "FOTOS REALES de las 2 Ergohuman -> Feña las saca el 14/7. Publicado con placeholder 'Foto real — mañana'. Al subir fotos: confirmar estado real y declarar defectos si los hubiera."
       }
+    },
+    {
+      "id": "OFI-004",
+      "nombre": "Sillas de oficina ergonómicas con respaldo de malla (2 unidades)",
+      "categoria": "mueble",
+      "ambiente": "oficina",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "bueno",
+      "defectos": [
+        "El asiento de una de las dos sillas tiene una mancha de uso (visible en la foto).",
+        "Marca leve en la malla del respaldo."
+      ],
+      "precio_ars": 39000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "cantidad": 2,
+      "fotos": [
+        "OFI-004-1.jpg",
+        "OFI-004-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Silla de oficina ergonómica con respaldo de malla ventilada, asiento tapizado, apoyabrazos y ruedas: práctica para escritorio o estudio. Hay 2 unidades iguales. A tener en cuenta: el asiento de una tiene una mancha de uso (se ve en la foto) y hay una marca leve en la malla del respaldo. Precio por unidad; llevando las 2, $69.000. Se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/silla-oficina-ergonomica-usada",
+            "precio": null,
+            "fecha": "2026-07-13",
+            "nota": "sillas ergonómicas de malla usadas ML AR $25k-190k; básicas ~$40-45k. Esta gama media con mancha -> franja baja."
+          }
+        ],
+        "logica_tasacion": "Tasada por mí a pedido de Feña, según fotos 4458/4459 (él delegó la tasación visual). Silla ergonómica genérica gama media: respaldo de malla, asiento tapizado, apoyabrazos, base de plástico blanco, ruedas. Sin marca visible. Defectos visibles: mancha en el asiento de una unidad + marca leve en la malla. Comps ML AR usados $25-190k (básicas ~$40-45k). Con mancha + prioridad velocidad + liquidación -> $39.000 c/u firme, combo 2 = $69.000. Agresivo para venta rápida. NO son las Ergohuman (esas = OFI-003).",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "nota_cantidad": "2 unidades; precio por unidad. Al vender una, cantidad->1; al vender ambas, estado_venta=vendido."
+      }
     }
   ],
   "config": {
