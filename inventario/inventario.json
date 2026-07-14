@@ -1063,6 +1063,42 @@
         "rebajas_aplicadas": [],
         "pendiente": "Medidas exactas (ancho/alto/profundidad) para sumar al aviso."
       }
+    },
+    {
+      "id": "DOR-002",
+      "nombre": "Mecedora de madera pintada de blanco con almohadón",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "bueno",
+      "defectos": [
+        "La pintura blanca está saltada en apoyabrazos, asiento y patas (estético; se puede repintar).",
+        "Los almohadones (respaldo y asiento) tienen marcas leves de uso."
+      ],
+      "precio_ars": 39000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-002-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Mecedora de madera pintada de blanco, de estilo clásico, con almohadón de respaldo y asiento en tela clara: ideal para un rincón de lectura, el dormitorio o el cuarto del bebé. A tener en cuenta: la pintura blanca está saltada en apoyabrazos, asiento y patas (estético, se puede repintar) y los almohadones tienen marcas leves de uso. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/silla-mecedora-de-madera-usada",
+            "precio": 79800,
+            "fecha": "2026-07-13",
+            "nota": "mecedoras de madera usadas ML AR: mayoría $25-100k+ (buckets parejos $30/65/+); ejemplos $79,8k-82,5k. Esta pintada con pintura saltada -> franja baja."
+          }
+        ],
+        "logica_tasacion": "Tasada por mí (Feña delegó; sin precio suyo). Mecedora de madera pintada de blanco, clásica, con almohadón (respaldo+asiento) de tela clara. Pintura SALTADA en apoyabrazos/asiento/patas (visible) + almohadones con marcas leves. Comps ML AR usados $25-100k+ (buckets parejos). Con pintura saltada (detractor principal) + liquidación + velocidad -> $39.000 firme, franja baja, agresivo.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "Confirmar con Feña que el almohadón va incluido (está atado al marco en la foto). Opcional: foto de detalle de la pintura saltada."
+      }
     }
   ],
   "config": {
