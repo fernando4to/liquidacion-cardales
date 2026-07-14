@@ -63,7 +63,7 @@
 
     var meta = [];
     if (it.marca) meta.push(esc(it.marca));
-    if (it.antiguedad) meta.push(esc(it.antiguedad));
+    if (it.antiguedad && !/no especifica/i.test(it.antiguedad)) meta.push(esc(it.antiguedad));
     if (it.medidas) meta.push(esc(it.medidas));
     body.appendChild(el("div", "card-meta",
       '<span class="estado-badge" data-e="' + esc(it.estado) + '">' + esc(it.estado) + "</span>" +
@@ -198,7 +198,7 @@
     var specs = [];
     if (it.marca) specs.push(["Marca", it.marca]);
     if (it.modelo) specs.push(["Modelo", it.modelo]);
-    if (it.antiguedad) specs.push(["Antigüedad", it.antiguedad]);
+    if (it.antiguedad && !/no especifica/i.test(it.antiguedad)) specs.push(["Antigüedad", it.antiguedad]);
     if (it.medidas) specs.push(["Medidas", it.medidas]);
     specs.push(["Estado", it.estado]);
     if (it.cantidad && it.cantidad > 1) specs.push(["Disponibles", it.cantidad + " unidades"]);
