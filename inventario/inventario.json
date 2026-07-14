@@ -568,7 +568,9 @@
       "antiguedad": "uso, antigüedad no especificada",
       "medidas": "Ratona Ø90,5 × alto 40 cm; auxiliares Ø45 × alto 51, Ø40,5 × alto 47 y Ø35 × alto 41 cm",
       "estado": "muy bueno",
-      "defectos": [],
+      "defectos": [
+        "Una de las mesas auxiliares tiene una mancha amarillenta en el mármol (es natural de la piedra; las otras están impecables)."
+      ],
       "precio_ars": 319000,
       "precio_firme": true,
       "estado_venta": "disponible",
@@ -577,7 +579,7 @@
         "LIV-003-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Juego de 4 mesas de mármol blanco (tipo Carrara) con base metálica dorada: una mesa ratona grande de 90,5 cm de diámetro más tres mesas auxiliares de distintas medidas (Ø45, Ø40,5 y Ø35 cm). El mármol natural y el dorado arman un conjunto elegante y muy actual para el living. En muy buen estado. Se vende el conjunto completo (las 4 mesas), por mudanza a Chile.",
+      "descripcion": "Juego de 4 mesas de mármol blanco (tipo Carrara) con base metálica dorada: una mesa ratona grande de 90,5 cm de diámetro más tres mesas auxiliares de distintas medidas (Ø45, Ø40,5 y Ø35 cm). El mármol natural y el dorado arman un conjunto elegante y muy actual para el living. En muy buen estado; a tener en cuenta: una de las mesas auxiliares tiene una mancha amarillenta en el mármol (natural de la piedra). Se vende el conjunto completo (las 4 mesas), por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -596,7 +598,7 @@
         "logica_tasacion": "Valor nuevo aprox: ratona grande ~$260k + 3 auxiliares ~$100k c/u = ~$560k. Conjunto usado en muy buen estado a $319k = ~el precio de la ratona grande sola nueva. Agresivo por prioridad velocidad + lote de 4 en una operación + 7 días. Mármol real sostiene valor.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
-        "pendiente": "Foto del conjunto completo (las 4 juntas) la trae Feña el 2026-07-14 → reemplazar/sumar."
+        "pendiente": "LISTO 2026-07-14: LIV-003-1=conjunto las 4 (IMG_4644), LIV-003-2=tapas/mancha (IMG_4648). Mancha de una auxiliar declarada."
       }
     },
     {
@@ -861,10 +863,12 @@
       "precio_firme": true,
       "estado_venta": "disponible",
       "cantidad": 2,
-      "fotos": [],
-      "foto_pendiente": "Foto real — mañana",
+      "fotos": [
+        "OFI-003-1.jpg",
+        "OFI-003-2.jpg"
+      ],
       "link_specs": null,
-      "descripcion": "Sillas de oficina ergonómicas Ergohuman Gen 2, un modelo premium (respaldo de malla con soporte lumbar, apoyabrazos y regulaciones múltiples) pensado para muchas horas de trabajo cómodo. Hay 2 unidades iguales. Nuevas rondan bastante más de $1.000.000 cada una; se liberan muy por debajo por mudanza a Chile. Las fotos reales de las 2 sillas y el detalle de estado se suben mañana.",
+      "descripcion": "Sillas de oficina ergonómicas Ergohuman Gen 2, un modelo premium (respaldo y asiento de malla, cabezal, soporte lumbar, apoyabrazos ajustables y regulaciones múltiples) pensado para muchas horas de trabajo cómodo. Hay 2 unidades iguales, en muy buen estado. Nuevas rondan bastante más de $1.000.000 cada una; se liberan muy por debajo por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -874,10 +878,10 @@
             "nota": "Zentra AR: Ergohuman Ultra $1,47M nueva; Elite $2,32M. ML AR llega a ~$5,6-5,9M. Nuevas siempre >$1M."
           }
         ],
-        "logica_tasacion": "Precio fijado por Feña: $490.000 c/u por 2 Ergohuman Gen 2 (silla premium). Comps AR: nuevas desde $1,47M (Ultra) a $2,3M (Elite) y hasta ~$5,9M (ML); usadas escasas. $490k c/u = ~20-35% de nueva -> MUY dentro de mercado (buen deal para el comprador), no roza el umbral +30%. Validado. OJO: ESTADO y DEFECTOS a confirmar con las fotos reales del 14/7 (aún no fotografiadas; las fotos 4458/4459 eran otra silla genérica, NO estas). estado 'muy bueno' es provisional.",
+        "logica_tasacion": "Precio fijado por Feña: $490.000 c/u por 2 Ergohuman Gen 2 (silla premium). Comps AR: nuevas desde $1,47M (Ultra) a $2,3M (Elite) y hasta ~$5,9M (ML); usadas escasas. $490k c/u = ~20-35% de nueva -> MUY dentro de mercado (buen deal para el comprador), no roza el umbral +30%. Validado. Fotos reales subidas 2026-07-14 (IMG_4623/4625): CONFIRMADAS Ergohuman Gen 2 genuinas (cabezal, malla respaldo+asiento, base de aluminio, apoyabrazos ajustables), muy buen estado, sin defectos a la vista -> estado 'muy bueno' confirmado.",
         "fecha_tasacion": "2026-07-13",
         "rebajas_aplicadas": [],
-        "pendiente": "FOTOS REALES de las 2 Ergohuman -> Feña las saca el 14/7. Publicado con placeholder 'Foto real — mañana'. Al subir fotos: confirmar estado real y declarar defectos si los hubiera."
+        "pendiente": "LISTO: fotos reales subidas 2026-07-14 (OFI-003-1=IMG_4623 las 2, OFI-003-2=IMG_4625 close-up). Placeholder removido."
       }
     },
     {
