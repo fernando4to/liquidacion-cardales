@@ -40,14 +40,20 @@
     c.setAttribute("data-cat", it.categoria);
     c.setAttribute("data-estado", it.estado);
 
-    var foto = (it.fotos && it.fotos[0]) ? "assets/fotos/" + it.fotos[0] : "";
     var media = el("div", "card-media");
-    media.innerHTML =
-      '<img loading="lazy" src="' + esc(foto) + '" alt="' + esc(it.nombre) + '">' +
-      '<span class="stamp-id stencil">' + esc(it.id) + "</span>" +
-      (it.fotos && it.fotos.length > 1
-        ? '<span class="badge-fotos">▦ ' + it.fotos.length + " fotos</span>"
-        : "");
+    if (it.fotos && it.fotos[0]) {
+      media.innerHTML =
+        '<img loading="lazy" src="assets/fotos/' + esc(it.fotos[0]) + '" alt="' + esc(it.nombre) + '">' +
+        '<span class="stamp-id stencil">' + esc(it.id) + "</span>" +
+        (it.fotos.length > 1
+          ? '<span class="badge-fotos">▦ ' + it.fotos.length + " fotos</span>"
+          : "");
+    } else {
+      media.innerHTML =
+        '<div class="foto-pendiente"><span class="fp-ico">▦</span><span>' +
+          esc(it.foto_pendiente || "Foto próximamente") + "</span></div>" +
+        '<span class="stamp-id stencil">' + esc(it.id) + "</span>";
+    }
     if (vendido) media.appendChild(el("span", "stamp-vendido", "Vendido"));
     media.addEventListener("click", function () { openModal(it); });
     c.appendChild(media);
@@ -201,7 +207,7 @@
       '<button class="modal-close" aria-label="Cerrar">×</button>' +
       '<div class="modal-body">' +
         '<div class="modal-gallery">' +
-          '<div class="main">' + (fotos.length ? '<img src="' + esc(fotos[0]) + '" alt="' + esc(it.nombre) + '">' : "") + "</div>" +
+          '<div class="main">' + (fotos.length ? '<img src="' + esc(fotos[0]) + '" alt="' + esc(it.nombre) + '">' : '<div class="foto-pendiente"><span class="fp-ico">▦</span><span>' + esc(it.foto_pendiente || "Foto próximamente") + "</span></div>") + "</div>" +
           (fotos.length > 1 ? '<div class="modal-thumbs">' + fotos.map(function (f, i) {
             return '<img data-src="' + esc(f) + '" class="' + (i === 0 ? "sel" : "") + '" src="' + esc(f) + '" alt="">';
           }).join("") + "</div>" : "") +

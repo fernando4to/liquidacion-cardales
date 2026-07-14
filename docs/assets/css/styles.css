@@ -119,6 +119,11 @@ main{padding:26px 0 60px}
 .card-media{position:relative;aspect-ratio:4/3;background:var(--papel);cursor:pointer;overflow:hidden}
 .card-media img{width:100%;height:100%;object-fit:cover;transition:transform .3s ease}
 .card:hover .card-media img{transform:scale(1.03)}
+.foto-pendiente{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;
+  background:repeating-linear-gradient(45deg,var(--papel),var(--papel) 12px,#f1eee7 12px,#f1eee7 24px);
+  color:var(--azul);text-align:center;padding:16px}
+.foto-pendiente .fp-ico{font-size:30px;opacity:.5}
+.foto-pendiente span:last-child{font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase}
 
 /* ID estampado tipo estarcido */
 .stamp-id{

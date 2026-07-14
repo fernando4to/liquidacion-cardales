@@ -846,6 +846,39 @@
         "rebajas_aplicadas": [],
         "pendiente": "Feña puede traer una mejor foto frontal el 2026-07-14 -> reemplazar OFI-002-1. Publicado con IMG_4436 (general) + IMG_4435 (superficie)."
       }
+    },
+    {
+      "id": "OFI-003",
+      "nombre": "Sillas de oficina ergonómicas Ergohuman Gen 2 (2 unidades)",
+      "categoria": "mueble",
+      "ambiente": "oficina",
+      "marca": "Ergohuman",
+      "modelo": "Gen 2",
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 490000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "cantidad": 2,
+      "fotos": [],
+      "foto_pendiente": "Foto real — mañana",
+      "link_specs": null,
+      "descripcion": "Sillas de oficina ergonómicas Ergohuman Gen 2, un modelo premium (respaldo de malla con soporte lumbar, apoyabrazos y regulaciones múltiples) pensado para muchas horas de trabajo cómodo. Hay 2 unidades iguales. Nuevas rondan bastante más de $1.000.000 cada una; se liberan muy por debajo por mudanza a Chile. Las fotos reales de las 2 sillas y el detalle de estado se suben mañana.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://zentra.com.ar/sillas/ergohuman/",
+            "precio": 1472000,
+            "fecha": "2026-07-13",
+            "nota": "Zentra AR: Ergohuman Ultra $1,47M nueva; Elite $2,32M. ML AR llega a ~$5,6-5,9M. Nuevas siempre >$1M."
+          }
+        ],
+        "logica_tasacion": "Precio fijado por Feña: $490.000 c/u por 2 Ergohuman Gen 2 (silla premium). Comps AR: nuevas desde $1,47M (Ultra) a $2,3M (Elite) y hasta ~$5,9M (ML); usadas escasas. $490k c/u = ~20-35% de nueva -> MUY dentro de mercado (buen deal para el comprador), no roza el umbral +30%. Validado. OJO: ESTADO y DEFECTOS a confirmar con las fotos reales del 14/7 (aún no fotografiadas; las fotos 4458/4459 eran otra silla genérica, NO estas). estado 'muy bueno' es provisional.",
+        "fecha_tasacion": "2026-07-13",
+        "rebajas_aplicadas": [],
+        "pendiente": "FOTOS REALES de las 2 Ergohuman -> Feña las saca el 14/7. Publicado con placeholder 'Foto real — mañana'. Al subir fotos: confirmar estado real y declarar defectos si los hubiera."
+      }
     }
   ],
   "config": {
