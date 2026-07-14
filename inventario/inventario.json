@@ -1156,8 +1156,8 @@
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
-        "DOR-004-1.jpg",
         "DOR-004-2.jpg",
+        "DOR-004-1.jpg",
         "DOR-004-3.jpg"
       ],
       "link_specs": null,
@@ -1175,6 +1175,42 @@
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": [],
         "pendiente": "Confirmar precio de compra si Feña lo sabe (big-ticket con incertidumbre)."
+      }
+    },
+    {
+      "id": "DOR-005",
+      "nombre": "Baúl / banqueta de pie de cama tapizado en gris (con guardado, incluye 3 cojines)",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "124 × 47 × 61,5 cm (ancho × profundidad × alto)",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 89000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-005-1.jpg",
+        "DOR-005-2.jpg",
+        "DOR-005-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Baúl de pie de cama tapizado en gris oscuro (lino), con brazos y asiento capitoné que se abre: suma un lugar para sentarse y guardado interno (frazadas, ropa de cama) al pie de la cama, sobre patas de madera. Incluye 3 cojines decorativos. En muy buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/pie-de-cama-baul-tapizado",
+            "precio": 145000,
+            "fecha": "2026-07-14",
+            "nota": "baúles/banquetas pie de cama con brazos + guardado nuevos ~$145-152k; básicos $45k. Usado buen estado + incluye 3 cojines."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó). Baúl pie de cama tapizado gris con brazos + guardado interno + patas de madera; incluye 3 cojines decorativos. Muy buen estado. Comps ML AR: con brazos+baulera nuevos ~$145-152k, básicos $45k. Liquidación + prioridad velocidad + incluye cojines -> $89.000 firme, agresivo.",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": [],
+        "pendiente": "Opcional: foto con el baúl abierto (mostrar el guardado). Fotos: 4585 general, 4669 con cojines, 4587 detalle."
       }
     }
   ],
