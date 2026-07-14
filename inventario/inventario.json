@@ -1140,6 +1140,42 @@
         "rebajas_aplicadas": [],
         "pendiente": "Medidas cargadas (cómoda 100×40,5×90; mesas 45×40,5×69). Fotos: -1=COMPUESTA (cómoda arriba + 2 mesas abajo, generada con Pillow para la tarjeta), -2=4578 cómoda frente, -3=4579 cómoda ángulo, -4=4581 las 2 mesas de luz, -5=4580 mesas con cajón abierto. Distinta de DOR-001."
       }
+    },
+    {
+      "id": "DOR-004",
+      "nombre": "Cama Super King Rosen Neo 200×200: sommier + colchón pillow-top + cobertor",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": "Rosen",
+      "modelo": "Neo King (Super King)",
+      "antiguedad": "no especificada",
+      "medidas": "200 × 200 cm (Super King), 70 cm de alto total (sommier + colchón)",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 449000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-004-1.jpg",
+        "DOR-004-2.jpg",
+        "DOR-004-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Cama grande Super King (200 × 200 cm) marca Rosen, modelo Neo: colchón con pillow-top sobre sommier de 2 cuerpos con patas de madera, e incluye el cobertor/cubre-colchón acolchado. Rosen es una marca premium: el conjunto nuevo cuesta bastante más de $1.000.000. Colchón limpio y en muy buen estado (usado, sin manchas a la vista). Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.rosen.com.ar/dormitorio/colchones",
+            "precio": null,
+            "fecha": "2026-07-14",
+            "nota": "sets King/Super King 200x200 nuevos AR $1,4-3,8M; Rosen premium. Rosen Neo mid-high. Búsqueda sin precio exacto del Neo (INCERTIDUMBRE)."
+          }
+        ],
+        "logica_tasacion": "Tasada por mí (Feña delegó; sin precio suyo). Cama Super King 200×200×70 Rosen Neo: sommier 2 cuerpos + colchón pillow-top + cobertor acolchado. Marca PREMIUM, colchón limpio/muy buen estado, incluye todo. Comps AR: sets King 200x200 nuevos $1,4-3,8M; Neo sin precio exacto (INCERTIDUMBRE). Colchón usado deprecia fuerte (higiene) -> $449.000 el conjunto: agresivo pero real por marca + estado + incluye sommier y cobertor. Revisar con Feña si sabe qué pagó.",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": [],
+        "pendiente": "Confirmar precio de compra si Feña lo sabe (big-ticket con incertidumbre)."
+      }
     }
   ],
   "config": {
