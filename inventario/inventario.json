@@ -1601,10 +1601,9 @@
             "nota": "consolas tapa mármol real/diseño desde ~$350k nuevas (Las Piedras); símil-mármol melamina $50-142k. Esta se ve con veteado natural (mármol real)."
           }
         ],
-        "logica_tasacion": "Tasado por mí (Feña delegó; dio medidas 90×35×92). Consola tapa de mármol gris (veteado natural en foto -> parece mármol REAL, no símil) + base metálica geométrica, muy buen estado. Comps: consolas mármol real/diseño desde ~$350k nuevas; símil-mármol $50-142k. Asumiendo mármol real -> $149.000 (~40-50% de una de diseño), agresivo. SI FUERA símil-mármol, bajar (~$79-99k). Confirmar con Feña.",
+        "logica_tasacion": "Tasado por mí (Feña delegó; dio medidas 90×35×92). Consola tapa de mármol gris (veteado natural en foto -> parece mármol REAL, no símil) + base metálica geométrica, muy buen estado. Comps: consolas mármol real/diseño desde ~$350k nuevas; símil-mármol $50-142k. Feña CONFIRMÓ que es mármol REAL (2026-07-15) -> $149.000 validado (~40-50% de una de diseño nueva $350k+), agresivo.",
         "fecha_tasacion": "2026-07-15",
-        "rebajas_aplicadas": [],
-        "pendiente": "Confirmar si la tapa es mármol REAL o símil-mármol (cambia el precio)."
+        "rebajas_aplicadas": []
       }
     },
     {
