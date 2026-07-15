@@ -1515,6 +1515,63 @@
         "fecha_tasacion": "2026-07-15",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "LAV-005",
+      "nombre": "Plancha de vapor Oster suela grande de cerámica (GCSTEP2501) — NUEVA en caja",
+      "categoria": "electrodoméstico",
+      "ambiente": "lavadero",
+      "marca": "Oster",
+      "modelo": "GCSTEP2501",
+      "antiguedad": "nueva, sin uso (sellada en caja)",
+      "estado": "excelente",
+      "defectos": [],
+      "precio_ars": 35000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LAV-005-1.jpg"
+      ],
+      "link_specs": "https://www.osterlatinamerica.com/plancha-con-suela-grande-de-ceramica-oster%C2%AE-gcstep2501/p",
+      "descripcion": "Plancha de vapor Oster con suela grande de cerámica (modelo GCSTEP2501), NUEVA, sin uso y sellada en su caja: suela cerámica anti-rayones con más cobertura y deslizamiento, golpe de vapor de 90 g/min y tecnología anti-calcificación. 220V. Se libera por debajo del precio de una nueva por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.osterlatinamerica.com/plancha-con-suela-grande-de-ceramica-oster%C2%AE-gcstep2501/p",
+            "precio": null,
+            "fecha": "2026-07-15",
+            "nota": "Oster GCSTEP2501 suela cerámica. Sin precio AR exacto (se vende en CL/CR; caja Newell Brands de Chile). Planchas Oster nuevas AR ~$40-55k."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí. Plancha Oster GCSTEP2501 suela grande de cerámica, NUEVA sellada en caja (comprada en Chile). Comps sin precio AR exacto (INCERTIDUMBRE); planchas Oster nuevas AR ~$40-55k. Nueva sellada -> más valor que usada. Fijado $35.000, por debajo de retail, agresivo. Etiqueta con código de barras (IMG_4737) NO publicada; uso el frente de caja (4739). link_specs = página oficial Oster (regla 11).",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "COM-005",
+      "nombre": "Juego de copas y vasos de vidrio: vino, champagne y cóctel/pisco sour",
+      "categoria": "otro",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 22000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-005-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Juego de copas y vasos de vidrio para entretener: copas de vino (blanco y tinto), copas de champagne y vasos de cóctel/pisco sour. En muy buen estado. (Los 4 vasitos de plástico que aparecen a la izquierda de la foto NO se incluyen.) Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [],
+        "logica_tasacion": "Tasado por mí. Juego surtido de ~18 piezas de vidrio (copas de vino blanco/tinto, champagne y vasos de cóctel/pisco sour), muy buen estado. Bajo ticket; vidrio común (no cristal). Fijado $22.000 el lote, agresivo. Los 4 vasos de plástico NO se incluyen (decisión de Feña, para no bajar la calidad del set).",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
