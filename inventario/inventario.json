@@ -1572,6 +1572,40 @@
         "fecha_tasacion": "2026-07-15",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "LIV-010",
+      "nombre": "Mesa consola / arrimo con tapa de mármol gris y base metálica (90×35)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "90 × 35 cm (ancho × profundidad), alto 92 cm; tapa de mármol",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 149000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-010-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Mesa consola (arrimo) con tapa de mármol gris natural y base metálica de líneas geométricas: elegante y actual, ideal para la entrada, detrás del sofá en el living o como arrimo en el comedor. Mide 90 cm de ancho × 35 de profundidad × 92 de alto. En muy buen estado. Se libera muy por debajo de una de diseño nueva por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.laspiedrasoficial.com.ar/muebles/mesas-de-arrime/",
+            "precio": 350000,
+            "fecha": "2026-07-15",
+            "nota": "consolas tapa mármol real/diseño desde ~$350k nuevas (Las Piedras); símil-mármol melamina $50-142k. Esta se ve con veteado natural (mármol real)."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó; dio medidas 90×35×92). Consola tapa de mármol gris (veteado natural en foto -> parece mármol REAL, no símil) + base metálica geométrica, muy buen estado. Comps: consolas mármol real/diseño desde ~$350k nuevas; símil-mármol $50-142k. Asumiendo mármol real -> $149.000 (~40-50% de una de diseño), agresivo. SI FUERA símil-mármol, bajar (~$79-99k). Confirmar con Feña.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": [],
+        "pendiente": "Confirmar si la tapa es mármol REAL o símil-mármol (cambia el precio)."
+      }
     }
   ],
   "config": {
