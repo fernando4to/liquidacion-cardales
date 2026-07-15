@@ -18,4 +18,33 @@ Actualizado: 2026-07-14
 | **EXT-004** — pouf de ratán negro | Definir si se publica (hay foto: IMG_4485) |
 | **Vitrina / vajillero blanco** provenzal | Confirmar **si se vende** + **foto propia** |
 
+## Por fotografiar — ítems futuros (aún sin datos; Feña saca las fotos)
+
+_Niños / dormitorios:_
+- Camas de los niños
+- Casa de muñecas
+- Casa de LOLs
+- Coche doble (cochecito)
+- Mesa redonda de los niños con sillas
+- Jugueteros de los niños (uno de madera + uno de melamina; la parte de arriba está en el cuarto de las niñas)
+- Cajas para ordenar (del closet)
+
+_Exterior:_
+- Parrilla
+- Malla de la piscina
+- Reposeras (= **EXT-003**, foto de las 2 juntas)
+
+_Cocina / electro:_
+- Batidora
+- Microondas
+- Plancha (cerrada en caja, en un closet)
+
+_Vajilla:_
+- Juego de platos completo
+- Juego de copas
+
+_Otros:_
+- Tablet (de dibujo / pintura)
+- Sillón blanco (confirmar si es distinto del LIV-008)
+
 > Se va completando a medida que avanzan los ítems.
