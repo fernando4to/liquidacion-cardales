@@ -1279,6 +1279,39 @@
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "GEN-004",
+      "nombre": "Estufa / calefactor infrarrojo Thörben THOR 1500 (1500W, WiFi)",
+      "categoria": "electrodoméstico",
+      "ambiente": "general",
+      "marca": "Thörben",
+      "modelo": "THOR 1500 (WiFi)",
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 49000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "GEN-004-1.jpg",
+        "GEN-004-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Estufa/calefactor infrarrojo Thörben THOR de 1500W, con WiFi (control por app), pantalla digital, control remoto y timer: calienta rápido y rinde en ambientes de buen tamaño. Funciona bien (se ve encendida en la foto) y está en muy buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.mercadolibre.com.ar/estufa-infrarroja-2-en-1-thorben-green-1500-wifi/p/MLA19976913",
+            "precio": null,
+            "fecha": "2026-07-14",
+            "nota": "Thörben = marca chilena, poco presente en ML AR (el modelo figura NO DISPONIBLE -> INCERTIDUMBRE). Infrarrojos 1500W WiFi/digital nuevos AR ~$50-120k; usados ~$30-60k; Chile CLP ~$40-80k."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó; sin precio suyo). Estufa infrarroja Thörben THOR 1500 (1500W, WiFi, digital, remoto, timer), FUNCIONA (encendida en foto), muy buen estado. Comps: marca chilena poco presente en ML AR (INCERTIDUMBRE). Infrarrojos 1500W smart nuevos AR ~$50-120k; usados ~$30-60k. Fijado $49.000, agresivo para venta rápida. Etiquetas con nº de serie (IMG_4609/4610) NO publicadas (regla 14).",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
