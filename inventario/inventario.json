@@ -1312,6 +1312,74 @@
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "OFI-006",
+      "nombre": "Escritorio compacto de melamina símil madera 100×50 (patas metálicas blancas)",
+      "categoria": "mueble",
+      "ambiente": "oficina",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "100 × 50 cm (ancho × profundidad), alto 74 cm",
+      "estado": "bueno",
+      "defectos": [],
+      "precio_ars": 59000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-006-1.jpg",
+        "OFI-006-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Escritorio compacto de 100 × 50 cm en melamina símil madera de tono cálido, sobre patas metálicas blancas tipo puente: práctico para un rincón de trabajo, estudio o home office sin ocupar mucho lugar. En buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/escritorio-melamina-usado",
+            "precio": null,
+            "fecha": "2026-07-14",
+            "nota": "escritorios melamina usados desde ~$33k; compacto 100cm juega en franja baja. 2º de 3 escritorios (distinto de OFI-002 160×70 y OFI-007 120×60)."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña dio estado 'bueno' + medidas). 2º de 3 escritorios. Compacto 100×50, melamina símil madera tono cálido, patas metálicas, estado bueno. Comps: melamina usados desde ~$33k; compacto bueno -> $59.000, agresivo. Coherente: más chico y estado menor que OFI-002 (160×70 excelente $119k) y OFI-007 (120×60 muy bueno), por eso el más barato.",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "OFI-007",
+      "nombre": "Escritorio de melamina símil madera 120×60 + estante de pino (patas metálicas blancas)",
+      "categoria": "mueble",
+      "ambiente": "oficina",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "120,5 × 60,5 cm (ancho × profundidad), alto 72,5 cm",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 99000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-007-1.jpg",
+        "OFI-007-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Escritorio de 120,5 × 60,5 cm en melamina símil madera de tono cálido, sobre patas metálicas blancas tipo puente, e incluye un estante de pino de 3 divisiones para apoyar arriba: buena superficie para trabajar o estudiar más un organizador de guardado. En muy buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/escritorio-melamina-usado",
+            "precio": null,
+            "fecha": "2026-07-14",
+            "nota": "escritorios melamina usados desde ~$33k. 3º de 3 escritorios (medio: 120×60 muy bueno)."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña dio estado 'muy bueno' + medidas). 3º de 3 escritorios. 120,5×60,5, melamina símil madera tono cálido, patas metálicas, muy buen estado. INCLUYE estante de pino de 3 divisiones (confirmado por Feña 2026-07-14). Fijado $99.000: desk 120×60 muy bueno (~$89k) + estante de pino (~$10-15k) = $99k. Escalera coherente: OFI-006 $59k (100×50 bueno) < OFI-007 $99k (120×60 muy bueno + estante) < OFI-002 $119k (160×70 excelente). Resuelve el ítem 'estante de pino' del triage (ya no es aparte).",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
