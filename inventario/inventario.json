@@ -1390,8 +1390,10 @@
       "modelo": null,
       "antiguedad": "no especificada",
       "medidas": "Malla 38 m de largo × 95 cm de alto; caño de fijación 4,3 m (sobra). Incluye los parantes/caños metálicos.",
-      "estado": "muy bueno",
-      "defectos": [],
+      "estado": "bueno",
+      "defectos": [
+        "Los caños/parantes metálicos tienen algo de óxido (superficial). La malla está en buen estado."
+      ],
       "precio_ars": 499000,
       "precio_firme": true,
       "estado_venta": "disponible",
@@ -1399,7 +1401,7 @@
         "EXT-006-1.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Cerco de seguridad para pileta, removible: malla resistente de 38 metros de largo × 95 cm de alto, con sus parantes metálicos y el caño de fijación (4,3 m, sobra), para cercar el perímetro y evitar que los bebés y chicos caigan al agua. Se pone y se saca en minutos, y no se puede escalar ni abrir por un niño. Un cerco nuevo de esta longitud cuesta más de $1.000.000; se libera muy por debajo por mudanza a Chile. En muy buen estado.",
+      "descripcion": "Cerco de seguridad para pileta, removible: malla resistente de 38 metros de largo × 95 cm de alto, con sus parantes metálicos y el caño de fijación (4,3 m, sobra), para cercar el perímetro y evitar que los bebés y chicos caigan al agua. Se pone y se saca en minutos, y no se puede escalar ni abrir por un niño. Un cerco nuevo de esta longitud cuesta más de $1.000.000; se libera muy por debajo por mudanza a Chile. En buen estado; a tener en cuenta: los caños metálicos tienen algo de óxido superficial (la malla está bien).",
       "interno": {
         "comps": [
           {
