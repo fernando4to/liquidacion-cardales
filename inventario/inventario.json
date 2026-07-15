@@ -1246,6 +1246,39 @@
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "OFI-005",
+      "nombre": "Monitor ASUS ProArt PA278QV 27\" QHD (IPS, profesional, calibrado)",
+      "categoria": "electrodoméstico",
+      "ambiente": "oficina",
+      "marca": "ASUS",
+      "modelo": "ProArt PA278QV",
+      "antiguedad": "de 2023 (~2-3 años)",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 299000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-005-1.jpg",
+        "OFI-005-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Monitor ASUS ProArt PA278QV de 27 pulgadas, QHD (2560×1440), panel IPS: pensado para diseño, edición y fotografía, calibrado de fábrica para buena precisión de color. Stand ergonómico (altura, inclinación, giro y modo vertical). De 2023, funciona bien y en muy buen estado. Nuevo ronda los $500.000; se libera muy por debajo por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/monitor-asus-proart-pa278qv",
+            "precio": 500000,
+            "fecha": "2026-07-14",
+            "nota": "PA278QV nuevo AR ~$470-686k (Gaussonline $656k). Usado buen estado ~$280-400k. Monitor pro muy buscado."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó; sin precio suyo). Monitor ASUS ProArt PA278QV 27\" QHD IPS profesional, 2023, muy buen estado físico (pantalla sin marcas). Comps AR: nuevo ~$470-686k. Monitor pro deseado (diseñadores/edición), retiene valor. Fijado $299.000 (~50% de nuevo): agresivo por velocidad; se puede sostener en $329-349k si se prioriza valor (igual vende rápido). Pantalla estaba apagada en la foto (estado físico ok; funcionamiento según Feña). Etiqueta con nº de serie (IMG_4634) NO publicada (regla 14).",
+        "fecha_tasacion": "2026-07-14",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
