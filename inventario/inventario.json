@@ -1606,6 +1606,58 @@
         "rebajas_aplicadas": [],
         "pendiente": "Confirmar si la tapa es mármol REAL o símil-mármol (cambia el precio)."
       }
+    },
+    {
+      "id": "COM-006",
+      "nombre": "Fuentes de horno de cerámica blanca (molde de tarta + fuente ovalada)",
+      "categoria": "otro",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 15000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-006-1.jpg",
+        "COM-006-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Fuentes de horno de cerámica blanca: molde de tarta/quiche acanalado y fuente ovalada, para hornear y llevar directo a la mesa. Las que se ven en las fotos. En muy buen estado. Se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [],
+        "logica_tasacion": "Tasado por mí. Fuentes de horno de cerámica blanca (molde de tarta + fuente ovalada), muy buen estado. Bajo ticket. Fijado $15.000. Separado del set 'para picar' (COM-007) a pedido de Feña, con las fotos nuevas 4757/4758.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "COM-007",
+      "nombre": "Set para picar: bowls y botanera símil madera + piezas de servir + individuales",
+      "categoria": "otro",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 25000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-007-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Set para picar y servir: bowls tipo símil madera (cuadrados y redondos), botanera de 3 divisiones, una bandeja rectangular y bowls de cerámica blanca, más individuales con estampado de mapamundi. Todo lindo para una picada o una mesa de tragos, en muy buen estado. (Las fuentes de horno blancas que aparecen en la foto van en un aviso aparte.) Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [],
+        "logica_tasacion": "Tasado por mí. Set surtido para picar/servir: bowls y botanera símil madera + bandeja/bowls de cerámica blanca + individuales de mapamundi. Bajo ticket, lote decorativo/funcional. Fijado $25.000. Separado de las fuentes de horno (COM-006) a pedido de Feña. Foto CB71F6CA muestra también las fuentes de horno -> aclarado en el copy que van aparte.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": [],
+        "pendiente": "Ideal: foto SOLO de las piezas de picar (la actual incluye las fuentes de horno que van en COM-006)."
+      }
     }
   ],
   "config": {
