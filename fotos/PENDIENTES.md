@@ -7,7 +7,6 @@
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
 
 ## B) A confirmar / definir
-- **EXT-004** pouf de ratán negro — ¿es el **mismo** que ya va incluido en EXT-003 (la mesa/pouf del medio)? Si sí, se descarta
 - **Vitrina / vajillero blanco** provenzal — ¿se vende? + foto propia
 - **Sillón blanco** — ¿es distinto del LIV-008 ya publicado?
 
