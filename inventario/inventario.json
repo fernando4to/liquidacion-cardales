@@ -1453,6 +1453,32 @@
         "fecha_tasacion": "2026-07-15",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "COM-004",
+      "nombre": "Juego de 12 compoteras / ramekins de cerámica blanca (acanaladas, aptas horno)",
+      "categoria": "otro",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 22000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-004-1.jpg",
+        "COM-004-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Juego de 12 compoteras de cerámica blanca, con los costados acanalados: ideales para flan, crème brûlée, soufflé, mousse o postres individuales, y van al horno. En muy buen estado. Se liberan por mudanza a Chile.",
+      "interno": {
+        "comps": [],
+        "logica_tasacion": "Tasado por mí (Feña confirmó 12, no 8). Ramekins/compoteras de cerámica blanca, 12 unidades, muy buen estado. Bajo ticket; ramekins nuevos ~$2-5k c/u -> set nuevo $24-60k. Fijado $22.000 el juego de 12, agresivo/venta rápida.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
