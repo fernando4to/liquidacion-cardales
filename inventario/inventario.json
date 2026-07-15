@@ -1380,6 +1380,40 @@
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "EXT-006",
+      "nombre": "Cerco / malla de seguridad para pileta, removible (38 m × 95 cm, con caños)",
+      "categoria": "otro",
+      "ambiente": "exterior",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "Malla 38 m de largo × 95 cm de alto; caño de fijación 4,3 m (sobra). Incluye los parantes/caños metálicos.",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 499000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "EXT-006-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Cerco de seguridad para pileta, removible: malla resistente de 38 metros de largo × 95 cm de alto, con sus parantes metálicos y el caño de fijación (4,3 m, sobra), para cercar el perímetro y evitar que los bebés y chicos caigan al agua. Se pone y se saca en minutos, y no se puede escalar ni abrir por un niño. Un cerco nuevo de esta longitud cuesta más de $1.000.000; se libera muy por debajo por mudanza a Chile. En muy buen estado.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.piscineria.com/producto/cercos-removibles-para-piscina/",
+            "precio": 36100,
+            "fecha": "2026-07-15",
+            "nota": "cercos removibles pileta NUEVOS: Höllsen $36.100/m; ML textilene $62.900/m. 38m nuevo = ~$1,37M-2,39M. Mercado usado fino (INCERTIDUMBRE)."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó; dio medidas). Cerco/malla de seguridad para pileta removible, 38m × 95cm + parantes + caño 4,3m, completo, muy buen estado. Comps NUEVOS $36-63k/m -> 38m nuevo ~$1,37-2,39M. Ítem NICHO (comprador con pileta grande + niños chicos) y mercado usado fino (INCERTIDUMBRE). Fijado $499.000 (~20-35% de nuevo): agresivo/gran ahorro para mover un nicho en pocos días, sin regalar un ítem valioso. Si Feña sabe qué pagó, ayuda a afinar. Candidato a bajar si no hay interés.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": [],
+        "pendiente": "Confirmar precio de compra si Feña lo sabe (comps con rango amplio). Opcional: foto del cerco instalado alrededor de la pileta."
+      }
     }
   ],
   "config": {
