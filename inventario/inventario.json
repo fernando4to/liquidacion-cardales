@@ -1479,6 +1479,42 @@
         "fecha_tasacion": "2026-07-15",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "EXT-003",
+      "nombre": "Juego de 2 reposeras curvas de ratán + mesa/pouf de ratán (con 2 colchonetas de regalo)",
+      "categoria": "mueble",
+      "ambiente": "exterior",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "muy bueno",
+      "defectos": [
+        "Las 2 colchonetas (que van de regalo) tienen manchas de uso, para lavar/desmanchar. La estructura de ratán de las reposeras y la mesa/pouf están en muy buen estado."
+      ],
+      "precio_ars": 349000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "EXT-003-1.jpg",
+        "EXT-003-2.jpg",
+        "EXT-003-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Juego para pileta o jardín: 2 reposeras (chaise longue) de ratán sintético gris con forma ergonómica curva, más una mesa/pouf redonda de ratán negro para poner en el medio. Un conjunto de diseño, muy lindo al lado de la pileta. La estructura de ratán está en muy buen estado. Incluye de regalo 2 colchonetas (tienen manchas de uso, para lavar). Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/reposera-pileta-fibra",
+            "precio": null,
+            "fecha": "2026-07-15",
+            "nota": "reposeras/chaise longue ratán sintético: básicas $30-80k, de diseño ~$100-250k c/u. Sin comp exacto de las curvas (INCERTIDUMBRE). Set = 2 reposeras + mesa/pouf de ratán."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó). 2 reposeras curvas de ratán sintético (diseño) + mesa/pouf redonda de ratán negro + 2 colchonetas de regalo (con manchas). Estructura muy buena. Comps sin precio exacto (INCERTIDUMBRE); reposeras ratán de diseño ~$100-250k c/u. Set 2 + mesa fijado $349.000, agresivo por velocidad + exterior/nicho. Colchonetas van de yapa (manchadas) para no descontar el precio. Si Feña sabe qué pagó, afina.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
