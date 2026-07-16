@@ -1562,10 +1562,11 @@
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
-        "COM-005-1.jpg"
+        "COM-005-1.jpg",
+        "COM-005-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Juego de copas y vasos de vidrio para entretener: copas de vino (blanco y tinto), copas de champagne y vasos de cóctel/pisco sour. En muy buen estado. (Los 4 vasitos de plástico que aparecen a la izquierda de la foto NO se incluyen.) Se libera por mudanza a Chile.",
+      "descripcion": "Juego de copas y vasos de vidrio para entretener: copas de vino (blanco y tinto), copas de champagne y 5 vasos de cóctel/pisco sour (en la foto se ven 4). En muy buen estado. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [],
         "logica_tasacion": "Tasado por mí. Juego surtido de ~18 piezas de vidrio (copas de vino blanco/tinto, champagne y vasos de cóctel/pisco sour), muy buen estado. Bajo ticket; vidrio común (no cristal). Fijado $22.000 el lote, agresivo. Los 4 vasos de plástico NO se incluyen (decisión de Feña, para no bajar la calidad del set).",
@@ -1727,7 +1728,7 @@
     },
     {
       "id": "OFI-008",
-      "nombre": "Escritorio grande símil madera gris 150×80 + soporte de monitor de pino",
+      "nombre": "Escritorio grande símil madera marrón 150×80 + soporte de monitor de pino",
       "categoria": "mueble",
       "ambiente": "oficina",
       "marca": null,
@@ -1747,7 +1748,7 @@
         "OFI-008-3.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Escritorio grande de melamina símil madera gris (150,5 × 80,5 cm), sobre patas metálicas: mucha superficie para trabajar cómodo, ideal para home office o estudio. Incluye un soporte de monitor de pino (80 × 30 cm) para elevar la pantalla. A tener en cuenta: la tapa tiene marcas y rayones de uso. Se libera por mudanza a Chile.",
+      "descripcion": "Escritorio grande de melamina símil madera marrón (150,5 × 80,5 cm), sobre patas metálicas: mucha superficie para trabajar cómodo, ideal para home office o estudio. Incluye un soporte de monitor de pino (80 × 30 cm) para elevar la pantalla. A tener en cuenta: la tapa tiene marcas y rayones de uso. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1757,7 +1758,7 @@
             "nota": "escritorios de oficina grandes (150cm) símil madera + patas metálicas: nuevos ~$150-250k; usados $60-120k. Este 4º escritorio del lote (distinto de OFI-002/006/007)."
           }
         ],
-        "logica_tasacion": "Tasado por mí (Feña dio medidas). 4º escritorio del lote: grande 150,5×80,5×68, tapa símil madera gris + patas metálicas cantilever fijas (NO regulable en altura — confirmado por foto 4795), + soporte de monitor de pino (80×30×44). Tapa con marcas/rayones -> estado bueno. Comps: escritorios oficina grandes nuevos ~$150-250k, usados $60-120k. Fijado $89.000 (agresivo por el desgaste; grande + incluye soporte). Cumple convención (termina en 89). Podría sostener ~$109k si se prioriza valor por el tamaño.",
+        "logica_tasacion": "Tasado por mí (Feña dio medidas). 4º escritorio del lote: grande 150,5×80,5×68, tapa símil madera marrón + patas metálicas cantilever fijas (NO regulable en altura — confirmado por foto 4795), + soporte de monitor de pino (80×30×44). Tapa con marcas/rayones -> estado bueno. Comps: escritorios oficina grandes nuevos ~$150-250k, usados $60-120k. Fijado $89.000 (agresivo por el desgaste; grande + incluye soporte). Cumple convención (termina en 89). Podría sostener ~$109k si se prioriza valor por el tamaño.",
         "fecha_tasacion": "2026-07-16",
         "rebajas_aplicadas": []
       }
