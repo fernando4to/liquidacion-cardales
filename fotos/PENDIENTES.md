@@ -4,6 +4,7 @@
 - **EXT-001** comedor hierro — detalle del **óxido** de las sillas
 - **LIV-008** 2 sillones blancos + puffs — los **2 con sus puffs** juntos + detalle de manchas
 - **GEN-001** ventilador de pared Airolite — **cambiar la foto** por una mejor
+- **EXT-006** malla de pileta — foto de la **malla sin los caños** (más limpia que la actual)
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
 
 ## B) A confirmar / definir
