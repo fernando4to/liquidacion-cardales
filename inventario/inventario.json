@@ -1739,7 +1739,7 @@
       "defectos": [
         "La tapa tiene marcas y rayones de uso (estético)."
       ],
-      "precio_ars": 89000,
+      "precio_ars": 109000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -1748,7 +1748,7 @@
         "OFI-008-3.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Escritorio grande de melamina símil madera marrón (150,5 × 80,5 cm), sobre patas metálicas: mucha superficie para trabajar cómodo, ideal para home office o estudio. Incluye un soporte de monitor de pino (80 × 30 cm) para elevar la pantalla. A tener en cuenta: la tapa tiene marcas y rayones de uso. Se libera por mudanza a Chile.",
+      "descripcion": "Escritorio grande de melamina símil madera marrón (150,5 × 80,5 cm), sobre patas metálicas: mucha superficie para trabajar cómodo, ideal para home office o estudio. Incluye un soporte de monitor de pino (80 × 30 cm) para elevar la pantalla. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1758,7 +1758,7 @@
             "nota": "escritorios de oficina grandes (150cm) símil madera + patas metálicas: nuevos ~$150-250k; usados $60-120k. Este 4º escritorio del lote (distinto de OFI-002/006/007)."
           }
         ],
-        "logica_tasacion": "Tasado por mí (Feña dio medidas). 4º escritorio del lote: grande 150,5×80,5×68, tapa símil madera marrón + patas metálicas cantilever fijas (NO regulable en altura — confirmado por foto 4795), + soporte de monitor de pino (80×30×44). Tapa con marcas/rayones -> estado bueno. Comps: escritorios oficina grandes nuevos ~$150-250k, usados $60-120k. Fijado $89.000 (agresivo por el desgaste; grande + incluye soporte). Cumple convención (termina en 89). Podría sostener ~$109k si se prioriza valor por el tamaño.",
+        "logica_tasacion": "Tasado por mí (Feña dio medidas). 4º escritorio del lote: grande 150,5×80,5×68, tapa símil madera marrón + patas metálicas cantilever fijas (NO regulable en altura — confirmado por foto 4795), + soporte de monitor de pino (80×30×44). Tapa con marcas/rayones -> estado bueno. Comps: escritorios oficina grandes nuevos ~$150-250k, usados $60-120k. Fijado $109.000 por decisión de Feña (16/7): prioriza valor por el tamaño grande + soporte de monitor incluido. Comps usados $60-120k; queda dentro de rango. Cumple convención (termina en 9).",
         "fecha_tasacion": "2026-07-16",
         "rebajas_aplicadas": []
       }

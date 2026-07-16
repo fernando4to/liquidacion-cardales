@@ -145,7 +145,16 @@
       "Bash(sips -s format jpeg -Z 1400 fotos/originales/IMG_4780.HEIC --out docs/assets/fotos/COM-008-4.jpg)",
       "Bash(sips -s format jpeg -Z 1400 fotos/originales/IMG_4781.heic --out docs/assets/fotos/NIN-001-1.jpg)",
       "Bash(sips -s format jpeg -Z 1400 fotos/originales/IMG_4784.heic --out docs/assets/fotos/NIN-001-2.jpg)",
-      "Bash(awk -F_ '$2>4784')"
+      "Bash(awk -F_ '$2>4784')",
+      "Bash(timeout 20 git ls-remote origin -h refs/heads/main)",
+      "Bash(git ls-remote *)",
+      "Bash(git rev-list *)",
+      "Bash(git cat-file *)",
+      "Bash(sort -k2 -n)",
+      "Bash(grep -v '^$')",
+      "Bash(grep -iE '\\\\.mov$')",
+      "Bash(git ls-tree *)",
+      "Bash(grep -iE '\\\\.\\(mov|mp4\\)$')"
     ]
   }
 }
