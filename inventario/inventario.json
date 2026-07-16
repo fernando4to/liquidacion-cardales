@@ -1736,9 +1736,7 @@
       "antiguedad": "no especificada",
       "medidas": "Escritorio 150,5 × 80,5 cm (ancho × profundidad), alto 68 cm; soporte de monitor de pino 80 × 30 × 44 cm",
       "estado": "bueno",
-      "defectos": [
-        "La tapa tiene marcas y rayones de uso (estético)."
-      ],
+      "defectos": [],
       "precio_ars": 109000,
       "precio_firme": true,
       "estado_venta": "disponible",
@@ -1759,6 +1757,44 @@
           }
         ],
         "logica_tasacion": "Tasado por mí (Feña dio medidas). 4º escritorio del lote: grande 150,5×80,5×68, tapa símil madera marrón + patas metálicas cantilever fijas (NO regulable en altura — confirmado por foto 4795), + soporte de monitor de pino (80×30×44). Tapa con marcas/rayones -> estado bueno. Comps: escritorios oficina grandes nuevos ~$150-250k, usados $60-120k. Fijado $109.000 por decisión de Feña (16/7): prioriza valor por el tamaño grande + soporte de monitor incluido. Comps usados $60-120k; queda dentro de rango. Cumple convención (termina en 9).",
+        "fecha_tasacion": "2026-07-16",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "LIV-011",
+      "nombre": "Sofá 2 cuerpos Rosen de cuero blanco, reclinable eléctrico",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": "Rosen",
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "Ancho 162 cm · alto 99 cm · profundidad 154 cm",
+      "estado": "funcional con detalles",
+      "defectos": [
+        "Tiene 2 cables eléctricos cortados: hay que repararlos para que reclinen los asientos (arreglo eléctrico menor).",
+        "El cuero tiene marcas de uso y algún manchado leve."
+      ],
+      "precio_ars": 249000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-011-1.jpg",
+        "LIV-011-2.jpg",
+        "LIV-011-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Sofá de 2 cuerpos de cuero, marca Rosen (línea premium), con reclinado eléctrico independiente en cada asiento: te acomodás apretando un botón, ideal para ver películas o el partido de principio a fin. Asientos amplios y mullidos, buena presencia en cuero blanco. A reparar: tiene 2 cables eléctricos cortados; con ese arreglo (eléctrico menor) los reclinables vuelven a funcionar perfecto. El cuero tiene marcas de uso y algún manchado leve. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/sillon-reclinable-2-cuerpos",
+            "precio": null,
+            "fecha": "2026-07-16",
+            "nota": "reclinables 2 cuerpos cuero usados ML AR: rango ~$150k-$350k+; eléctricos/premium en el techo del rango"
+          }
+        ],
+        "logica_tasacion": "Rosen (marca premium) cuero genuino, 2 cuerpos, reclinado eléctrico independiente x2. Funcionando, un usado equivalente ~$350-600k. Descuento fuerte por: 2 cables cortados (reparación eléctrica menor ~$30-80k) + cuero con marcas/manchas. Fijado $249.000 (agresivo, liquidación): ~P30 del rango de un equivalente funcional, neto del arreglo. Cumple convención (termina en 9). Resuelve el pendiente 'sillón blanco'.",
         "fecha_tasacion": "2026-07-16",
         "rebajas_aplicadas": []
       }
