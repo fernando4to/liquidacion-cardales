@@ -7,7 +7,7 @@
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
 
 ## C) Por fotografiar (aún sin foto)
-_Niños:_ camas de los niños · casa de muñecas · casa de LOLs · coche doble · jugueteros (madera + melamina) · cajas del closet
+_Niños:_ camas de los niños · casa de muñecas · casa de LOLs · coche doble · juguetero de melamina (falta; el de pino IKEA Trofast ya está = NIN-002) · cajas del closet
 _Exterior:_ parrilla
 _Cocina / electro:_ batidora · microondas
 _Otros:_ tablet (de dibujo)

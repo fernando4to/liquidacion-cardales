@@ -1798,6 +1798,44 @@
         "fecha_tasacion": "2026-07-16",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "NIN-002",
+      "nombre": "Organizador de juguetes IKEA Trofast (pino) con 6 cajones",
+      "categoria": "mueble",
+      "ambiente": "niños",
+      "marca": "IKEA",
+      "modelo": "Trofast",
+      "antiguedad": "no especificada",
+      "medidas": "Ancho 93 cm · alto 52,5 cm · profundidad 44 cm",
+      "estado": "bueno",
+      "defectos": [
+        "Los cajones plásticos tienen marcas de uso y algún resto de cinta/etiqueta (estético); el mueble es totalmente funcional.",
+        "La tapa de pino tiene algunas rayas superficiales."
+      ],
+      "precio_ars": 79000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "NIN-002-1.jpg",
+        "NIN-002-2.jpg",
+        "NIN-002-3.jpg"
+      ],
+      "link_specs": "https://www.ikea.com/es/es/cat/sistema-trofast-700556/",
+      "descripcion": "Organizador de juguetes IKEA Trofast: estructura de pino macizo con 6 cajones plásticos extraíbles (3 chicos arriba, 3 grandes abajo) para que los chicos ordenen solos. Marca IKEA, muy buscada y difícil de conseguir usada en el país. Sólido y a buena altura para nenes. Los cajones tienen marcas de uso y la tapa alguna raya superficial; el mueble funciona perfecto. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/mueble-ikea-cajonera-juguetes-trofast",
+            "precio": null,
+            "fecha": "2026-07-16",
+            "nota": "TROFAST en ML AR: nuevos ~$100-150k+ (20 pubs >$150k), usados escasos. IKEA sin tienda local => premium de reventa."
+          }
+        ],
+        "logica_tasacion": "IKEA Trofast grande de pino + 6 cajones. IKEA no se vende en AR -> premium de escasez en usado. Comps nuevos $100-150k+. Este usado con desgaste cosmético en cajones (marcas, resto de cinta) + rayas en tapa. Fijado $79.000 (~P30-40, agresivo por liquidación): ~55-65% del nuevo low-end. Cumple convención (termina en 9).",
+        "fecha_tasacion": "2026-07-16",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
