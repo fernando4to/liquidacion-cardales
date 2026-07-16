@@ -1694,6 +1694,36 @@
         "rebajas_aplicadas": [],
         "pendiente": "COMPLETO: medidas (121,5×50,5×135), foto de frente cerrado (4776) principal, y detalle de la pata averiada (4780, §8.5)."
       }
+    },
+    {
+      "id": "NIN-001",
+      "nombre": "Mesa de juego para niños redonda de madera (100,5 cm) + 3 sillas + sillita plegable",
+      "categoria": "mueble",
+      "ambiente": "niños",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "Mesa Ø 100,5 cm, alto 46 cm",
+      "estado": "bueno",
+      "defectos": [
+        "La tapa de madera de la mesa tiene marcas de uso (rayones/manchitas). Las sillas son plásticas y con uso."
+      ],
+      "precio_ars": 49000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "NIN-001-1.jpg",
+        "NIN-001-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Mesa de juego para niños, redonda, de madera (100,5 cm de diámetro × 46 cm de alto, a la altura de los chicos): viene con 3 sillas plásticas (2 azules y 1 roja) y una sillita plegable con estampado de animalitos. Ideal para dibujar, jugar y merendar. A tener en cuenta: la tapa de la mesa tiene marcas de uso y las sillas son plásticas usadas. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [],
+        "logica_tasacion": "Tasado por mí (Feña dio medidas de la mesa). Set de juego para niños: mesa redonda de madera Ø100,5×46 + 3 sillas plásticas + 1 sillita plegable (hongo, estampado animalitos). Mesa con marcas de uso. Comps: mesas de madera para niños nuevas ~$60-120k; usadas ~$40-70k + sillas. Fijado $49.000 el set, agresivo. NUEVA sección 'niños' para agrupar lo de los chicos (proponer a Feña; ajustable a general/dormitorio).",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": [],
+        "pendiente": "Confirmar con Feña que el set incluye las 3 sillas + la sillita plegable (fotografiadas juntas)."
+      }
     }
   ],
   "config": {
