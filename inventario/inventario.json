@@ -1655,6 +1655,42 @@
         "fecha_tasacion": "2026-07-15",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "COM-008",
+      "nombre": "Vitrina / vajillero blanco con 2 puertas de vidrio, 6 estantes y 2 cajones",
+      "categoria": "mueble",
+      "ambiente": "comedor",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "estado": "bueno",
+      "defectos": [
+        "La pata trasera izquierda (de 5) tiene una avería, pero el mueble mantiene el balance, la estabilidad y el soporte."
+      ],
+      "precio_ars": 169000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COM-008-1.jpg",
+        "COM-008-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Vitrina / vajillero blanco con 2 puertas de vidrio, 6 estantes internos (más una repisa de vidrio) y 2 cajones abajo, sobre patitas: elegante para lucir la vajilla o la cristalería en el comedor o el living, protegida del polvo. Estilo moderno. A tener en cuenta: la pata trasera izquierda tiene una avería, pero el mueble mantiene el balance y la estabilidad. Se libera muy por debajo de uno nuevo por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://hogar.mercadolibre.com.ar/muebles-guardado/vitrina-vajillero",
+            "precio": 300000,
+            "fecha": "2026-07-15",
+            "nota": "vitrinas/vajilleros 2 puertas + cajones AR: hasta $300k a +$650k (nuevos/usados). Usados ~$150-350k."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña delegó). Vitrina/vajillero blanco 2 puertas de vidrio + 6 estantes + repisa de vidrio + 2 cajones + patitas, estilo moderno-provenzal, buena. DEFECTO: pata trasera izquierda (de 5) con avería, mantiene estabilidad (según Feña). Comps AR: vitrinas 2 puertas+cajones $300-650k+ nuevas; usadas ~$150-350k. Con el defecto de pata + liquidación -> $169.000, agresivo. Faltan medidas.",
+        "fecha_tasacion": "2026-07-15",
+        "rebajas_aplicadas": [],
+        "pendiente": "Medidas (ancho×alto×prof). Ideal: foto con puertas cerradas (frente) + detalle de la pata averiada (§8.5)."
+      }
     }
   ],
   "config": {
