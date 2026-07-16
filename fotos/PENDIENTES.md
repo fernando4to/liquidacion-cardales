@@ -5,7 +5,7 @@
 - **LIV-008** 2 sillones blancos + puffs — los **2 con sus puffs** juntos + detalle de manchas
 - **GEN-001** ventilador de pared Airolite — **cambiar la foto** por una mejor
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
-- **COM-008** vitrina/vajillero — **medidas** (ancho×alto×prof) + foto con **puertas cerradas** + detalle de la **pata averiada** (§8.5)
+- **COM-008** vitrina/vajillero — (opcional) detalle de la **pata averiada** (§8.5). Medidas y foto de frente ya cargadas.
 
 ## B) A confirmar / definir
 - **Sillón blanco** — ¿es distinto del LIV-008 ya publicado?
