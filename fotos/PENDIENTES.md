@@ -7,7 +7,7 @@
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
 
 ## C) Por fotografiar (aún sin foto)
-_Niños:_ camas de los niños · casa de muñecas · casa de LOLs · coche doble · juguetero de melamina (falta; el de pino IKEA Trofast ya está = NIN-002) · cajas del closet
+_Niños:_ camas de los niños · casa de muñecas · casa de LOLs · coche doble · cajas del closet
 _Exterior:_ parrilla
 _Cocina / electro:_ batidora · microondas
 _Otros:_ tablet (de dibujo)
@@ -15,6 +15,6 @@ _Otros:_ tablet (de dibujo)
 ---
 
 ## ✅ Ya hechos (para no repetir)
-malla de piscina (EXT-006) · reposeras + mesa/pouf (EXT-003) · juego de platos completo Sarah Miller (COM-003) · compoteras/ramekins (COM-004) · juego de copas (COM-005) · plancha Oster nueva (LAV-005) · fuentes de horno (COM-006) · set para picar (COM-007) · mesa consola de mármol (LIV-010) · 3 escritorios (OFI-002/006/007) · monitor ASUS (OFI-005) · Ergohuman (OFI-003) · ventilador de pie (GEN-003) · estufa Thörben (GEN-004) · mesa de juego para niños (NIN-001) · juego dormitorio de campo (DOR-003) · cama Rosen (DOR-004) · baúl (DOR-005) · sofá 2 cuerpos Rosen cuero blanco reclinable (LIV-011, "sillón blanco" resuelto)
+malla de piscina (EXT-006) · reposeras + mesa/pouf (EXT-003) · juego de platos completo Sarah Miller (COM-003) · compoteras/ramekins (COM-004) · juego de copas (COM-005) · plancha Oster nueva (LAV-005) · fuentes de horno (COM-006) · set para picar (COM-007) · mesa consola de mármol (LIV-010) · 3 escritorios (OFI-002/006/007) · monitor ASUS (OFI-005) · Ergohuman (OFI-003) · ventilador de pie (GEN-003) · estufa Thörben (GEN-004) · mesa de juego para niños (NIN-001) · juego dormitorio de campo (DOR-003) · cama Rosen (DOR-004) · baúl (DOR-005) · sofá 2 cuerpos Rosen cuero blanco reclinable (LIV-011, "sillón blanco" resuelto) · organizador IKEA Trofast pino (NIN-002) · organizador IKEA Trofast escalonado blanco (NIN-003)
 
 > Nota: las copas de café con animalitos NO se publican (decisión de Feña).
