@@ -1724,6 +1724,43 @@
         "rebajas_aplicadas": [],
         "pendiente": "Confirmar con Feña que el set incluye las 3 sillas + la sillita plegable (fotografiadas juntas)."
       }
+    },
+    {
+      "id": "OFI-008",
+      "nombre": "Escritorio grande símil madera gris 150×80 + soporte de monitor de pino",
+      "categoria": "mueble",
+      "ambiente": "oficina",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "Escritorio 150,5 × 80,5 cm (ancho × profundidad), alto 68 cm; soporte de monitor de pino 80 × 30 × 44 cm",
+      "estado": "bueno",
+      "defectos": [
+        "La tapa tiene marcas y rayones de uso (estético)."
+      ],
+      "precio_ars": 89000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-008-1.jpg",
+        "OFI-008-2.jpg",
+        "OFI-008-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Escritorio grande de melamina símil madera gris (150,5 × 80,5 cm), sobre patas metálicas: mucha superficie para trabajar cómodo, ideal para home office o estudio. Incluye un soporte de monitor de pino (80 × 30 cm) para elevar la pantalla. A tener en cuenta: la tapa tiene marcas y rayones de uso. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/escritorio-melamina-patas-hierro",
+            "precio": null,
+            "fecha": "2026-07-16",
+            "nota": "escritorios de oficina grandes (150cm) símil madera + patas metálicas: nuevos ~$150-250k; usados $60-120k. Este 4º escritorio del lote (distinto de OFI-002/006/007)."
+          }
+        ],
+        "logica_tasacion": "Tasado por mí (Feña dio medidas). 4º escritorio del lote: grande 150,5×80,5×68, tapa símil madera gris + patas metálicas cantilever fijas (NO regulable en altura — confirmado por foto 4795), + soporte de monitor de pino (80×30×44). Tapa con marcas/rayones -> estado bueno. Comps: escritorios oficina grandes nuevos ~$150-250k, usados $60-120k. Fijado $89.000 (agresivo por el desgaste; grande + incluye soporte). Cumple convención (termina en 89). Podría sostener ~$109k si se prioriza valor por el tamaño.",
+        "fecha_tasacion": "2026-07-16",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
