@@ -1011,7 +1011,7 @@
       ],
       "precio_ars": 89000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "EXT-005-1.jpg"
       ],
@@ -1046,7 +1046,7 @@
       ],
       "precio_ars": 89000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "DOR-001-1.jpg",
         "DOR-001-2.jpg"
@@ -1466,7 +1466,7 @@
       "defectos": [],
       "precio_ars": 22000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COM-004-1.jpg",
         "COM-004-2.jpg"
@@ -1619,7 +1619,7 @@
       "defectos": [],
       "precio_ars": 24000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COM-006-1.jpg"
       ],
@@ -1644,7 +1644,7 @@
       "defectos": [],
       "precio_ars": 24000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COM-007-1.jpg"
       ],
@@ -1711,7 +1711,7 @@
       ],
       "precio_ars": 49000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "NIN-001-1.jpg",
         "NIN-001-2.jpg"
