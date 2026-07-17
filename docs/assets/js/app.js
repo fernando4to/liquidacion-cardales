@@ -6,7 +6,7 @@
   var CFG = DATA.config || {};
   var ITEMS = DATA.items || [];
 
-  var AMB_ORDEN = ["cocina", "living", "comedor", "dormitorio", "baño", "lavadero", "oficina", "exterior", "general"];
+  var AMB_ORDEN = ["cocina", "living", "comedor", "dormitorio", "baño", "lavadero", "oficina", "niños", "exterior", "general"];
   var CAT_LABEL = { "electrodoméstico": "Electro", "mueble": "Muebles", "otro": "Otros" };
 
   var filtro = { categoria: "todas", disp: "todas" };
@@ -59,7 +59,13 @@
         '<span class="stamp-id stencil">' + esc(it.id) + "</span>";
     }
     if (vendido) media.appendChild(el("span", "stamp-vendido", "Vendido"));
+    media.setAttribute("role", "button");
+    media.setAttribute("tabindex", "0");
+    media.setAttribute("aria-label", "Ver detalle de " + it.nombre);
     media.addEventListener("click", function () { openModal(it); });
+    media.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openModal(it); }
+    });
     c.appendChild(media);
 
     var body = el("div", "card-body");
@@ -156,16 +162,9 @@
     var byAmb = {};
     visibles.forEach(function (it) { (byAmb[it.ambiente] = byAmb[it.ambiente] || []).push(it); });
 
-    // monto disponible por ambiente (excluye vendidos; cuenta cantidades)
-    var ambTotal = {};
-    Object.keys(byAmb).forEach(function (amb) {
-      ambTotal[amb] = byAmb[amb].reduce(function (s, it) {
-        return s + (it.estado_venta === "vendido" ? 0 : it.precio_ars * (it.cantidad || 1));
-      }, 0);
-    });
+    // orden de ambientes FIJO (legible para el comprador), no por monto a vender
     var ambientes = Object.keys(byAmb).sort(function (a, b) {
-      if (ambTotal[b] !== ambTotal[a]) return ambTotal[b] - ambTotal[a]; // mayor monto a vender primero
-      var ia = AMB_ORDEN.indexOf(a), ib = AMB_ORDEN.indexOf(b);        // desempate: orden por defecto
+      var ia = AMB_ORDEN.indexOf(a), ib = AMB_ORDEN.indexOf(b);
       return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
     });
 
