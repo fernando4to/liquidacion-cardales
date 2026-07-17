@@ -117,7 +117,9 @@
     var cCat = document.getElementById("f-categoria");
     var cDisp = document.getElementById("f-disp");
     cCat.appendChild(chip("categoria", "todas", "Todas"));
-    Object.keys(cats).forEach(function (k) { cCat.appendChild(chip("categoria", k, CAT_LABEL[k] || k)); });
+    ["electrodoméstico", "mueble", "otro"].forEach(function (k) {   // orden fijo: Electro · Muebles · Otros
+      if (cats[k]) cCat.appendChild(chip("categoria", k, CAT_LABEL[k] || k));
+    });
     cDisp.appendChild(dispToggle());
     syncChips();
   }
