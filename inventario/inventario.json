@@ -2018,6 +2018,42 @@
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "COC-004",
+      "nombre": "Tostadora Thomas 4 ranuras negra 1500W",
+      "categoria": "electrodoméstico",
+      "ambiente": "cocina",
+      "marca": "Thomas",
+      "modelo": "TH-126",
+      "antiguedad": "unos 3 años",
+      "medidas": "4 ranuras (2 secciones independientes)",
+      "estado": "bueno",
+      "defectos": [
+        "Marcas de uso en las ranuras (normal por uso); funciona bien."
+      ],
+      "precio_ars": 19000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COC-004-1.jpg",
+        "COC-004-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Tostadora eléctrica Thomas de 4 ranuras (dos secciones independientes, cada una con su control), negra, 1500W. Nivel de tostado regulable (1 a 7) y funciones de recalentar, cancelar y descongelar. Práctica para familias: hace 4 tostadas a la vez. Funciona bien, con marcas de uso normales. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/tostadora-4-ranuras",
+            "precio": null,
+            "fecha": "2026-07-17",
+            "nota": "Tostadoras 4 rebanadas NUEVAS $39-92k en ML AR; usadas más baratas. Thomas (Robert Thomas, hecha en PRC) poco conocida en AR."
+          }
+        ],
+        "logica_tasacion": "Tostadora Thomas TH-126 4 ranuras 1500W, funciona, buen estado con marcas de uso. Marca poco conocida en AR. Comps nuevas desde $39k. Fijado $19.000 (~mitad de la nueva más barata; agresivo, electrodoméstico chico usado). Termina en 9. Sin link_specs confiable del modelo. Serie NO publicada (foto 4867 descartada).",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
