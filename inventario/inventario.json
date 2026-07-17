@@ -2091,6 +2091,41 @@
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "EXT-007",
+      "nombre": "Arco de fútbol de jardín PVC con red 179×125 cm",
+      "categoria": "otro",
+      "ambiente": "exterior",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "179 × 125 cm (ancho × alto)",
+      "estado": "bueno",
+      "defectos": [
+        "La red está algo floja y el caño tiene marcas de intemperie por uso al aire libre (estético)."
+      ],
+      "precio_ars": 34000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "EXT-007-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Arco de fútbol para el jardín, de caño PVC blanco con red, de buen tamaño (179 × 125 cm): un arco de verdad para que los chicos jueguen en el pasto, no un mini. Liviano y fácil de mover. Usado, con la red algo floja y el caño con marcas de intemperie; completo y listo para patear. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/arco-de-futbol-pvc",
+            "precio": null,
+            "fecha": "2026-07-17",
+            "nota": "Arcos PVC ML AR: hasta $50k / $50-90k / +$90k. 1.80m es tamaño real (no mini). Nuevos con red este tamaño ~$50-90k."
+          }
+        ],
+        "logica_tasacion": "Arco fútbol PVC 179x125 con red, tamaño juvenil/backyard real. Usado: red floja + caño con intemperie (cosmético). Comps nuevos $50-90k este tamaño. Fijado $34.000 (~40-60% del nuevo; agresivo, liquidación). Termina en 4.",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
