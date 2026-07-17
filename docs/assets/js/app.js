@@ -257,18 +257,13 @@
     wag.href = waURL("Hola, vi el catálogo de la liquidación de Los Cardales y quería consultar.");
     var foot = document.getElementById("wa-footer");
     foot.href = wag.href;
-    if (CFG.fecha_limite) {
-      var d = new Date(CFG.fecha_limite + "T00:00:00");
-      var fmt = d.toLocaleDateString("es-AR", { day: "numeric", month: "long" });
-      document.getElementById("deadline-val").textContent = fmt;
-    }
   }
 
   /* ---------- mapa ---------- */
   function initMapa() {
     if (typeof L === "undefined") return;
     // ENTRADA del Los Cardales Country Club (portón de acceso, NO la casa).
-    // Coordenada del portón confirmada por Feña (2026-07-13).
+    // Coordenada del portón confirmada por Feña.
     var lat = -34.3156049, lng = -58.9641648;
     var map = L.map("mapa", { scrollWheelZoom: false, attributionControl: true }).setView([lat, lng], 12);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {

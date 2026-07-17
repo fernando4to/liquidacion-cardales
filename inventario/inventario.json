@@ -1878,29 +1878,24 @@
   ],
   "config": {
     "whatsapp": "5491158983134",
-    "fecha_limite": "2026-07-20",
-    "fecha_salida_casa": "2026-07-21",
     "url_sitio": "https://fernando4to.github.io/liquidacion-cardales/",
     "titulo_sitio": "Liquidación Los Cardales",
     "linea_contexto": "Muebles y electrodomésticos de toda la casa, a precio de mudanza.",
     "calendario_rebajas": [
       {
-        "corte": "1ra rebaja (sábado)",
-        "fecha": "2026-07-18",
+        "corte": "1ra rebaja",
         "ajuste_pct": -15,
-        "condicion": "ANTES del sábado NO se baja (indicación de Feña 2026-07-13). Sábado: primera baja sobre ítems sin consulta seria.",
+        "condicion": "ítems sin consulta seria tras la difusión inicial",
         "aplicado": false
       },
       {
-        "corte": "2da rebaja (domingo)",
-        "fecha": "2026-07-19",
+        "corte": "2da rebaja",
         "ajuste_pct": -30,
         "condicion": "ítems que sigan sin moverse (acumulado)",
         "aplicado": false
       },
       {
-        "corte": "remate final (último día)",
-        "fecha": "2026-07-20",
+        "corte": "remate final",
         "ajuste_pct": null,
         "condicion": "caso por caso sobre lo que quede",
         "aplicado": false
