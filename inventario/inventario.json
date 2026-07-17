@@ -397,7 +397,7 @@
       "defectos": [],
       "precio_ars": 129000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "OFI-001-1.jpg",
         "OFI-001-2.jpg"
@@ -653,7 +653,7 @@
       ],
       "precio_ars": 109000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "cantidad": 2,
       "fotos": [
         "LIV-004-1.jpg"
@@ -687,7 +687,7 @@
       "defectos": [],
       "precio_ars": 329000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LIV-005-1.jpg",
         "LIV-005-2.jpg"
@@ -1872,6 +1872,112 @@
         ],
         "logica_tasacion": "IKEA Trofast escalonado blanco + 6 cajones (99x94x44). Equivalente en valor al de pino NIN-002. Comps nuevos $100-150k+; usado con desgaste cosmético (marcas/saltados en cantos + cajones). Fijado $79.000 (~P30-40, agresivo, igual que NIN-002). Cumple convención (termina en 9).",
         "fecha_tasacion": "2026-07-16",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "DOR-006",
+      "nombre": "Cama individual (1 plaza) de pino macizo + colchón Rosen Ergo T",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": "Rosen",
+      "modelo": "Ergo T",
+      "antiguedad": "no especificada",
+      "medidas": "Cama individual (1 plaza)",
+      "estado": "bueno",
+      "defectos": [],
+      "precio_ars": 199000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-006-1.jpg",
+        "DOR-006-2.jpg",
+        "DOR-006-3.jpg"
+      ],
+      "link_specs": "https://www.rosen.com.ar/product/000011280030190080/Colch%C3%B3n%20Ergo%20T%20080X190",
+      "descripcion": "Cama individual (1 plaza) con estructura de pino macizo y respaldo, más colchón Rosen Ergo T (resortes). Base de madera sólida y prolija, lista para el cuarto de un chico o de huéspedes. El mismo colchón Ergo T nuevo ronda los $420.000. Colchón en buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.rosen.com.ar/product/000011280030190080/",
+            "precio": 420000,
+            "fecha": "2026-07-17",
+            "nota": "Rosen Ergo T 1 plaza 080x190 NUEVO ~$420.000 (precio oficial). Usados colchón Rosen 1pl $70-800k; sets sommier+colchón 1pl $90-430k."
+          }
+        ],
+        "logica_tasacion": "Cama 1 plaza: marco de pino macizo (con respaldo y slats) + colchón Rosen Ergo T (nuevo ~$420k). Frame sólido + colchón limpio. La más completa de las tres. Fijado $199.000 (~47% de solo el colchón nuevo; agresivo por liquidación). Cumple convención (termina en 9).",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "DOR-007",
+      "nombre": "Cama individual (1 plaza) sommier + colchón Rosen Ergo T",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": "Rosen",
+      "modelo": "Ergo T",
+      "antiguedad": "no especificada",
+      "medidas": "Cama individual (1 plaza)",
+      "estado": "bueno",
+      "defectos": [],
+      "precio_ars": 169000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-007-1.jpg",
+        "DOR-007-2.jpg"
+      ],
+      "link_specs": "https://www.rosen.com.ar/product/000011280030190080/Colch%C3%B3n%20Ergo%20T%20080X190",
+      "descripcion": "Cama individual (1 plaza) completa: sommier tapizado + colchón Rosen Ergo T (resortes) con cubrecolchón. Lista para usar, mullida y en buen estado. El mismo colchón Ergo T nuevo ronda los $420.000. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.rosen.com.ar/product/000011280030190080/",
+            "precio": 420000,
+            "fecha": "2026-07-17",
+            "nota": "Rosen Ergo T 1 plaza 080x190 NUEVO ~$420.000 (precio oficial). Usados colchón Rosen 1pl $70-800k; sets sommier+colchón 1pl $90-430k."
+          }
+        ],
+        "logica_tasacion": "Cama 1 plaza: sommier + colchón Rosen Ergo T + cubre, limpia. Comp sets sommier+colchón 1pl usados $90-430k; colchón Rosen nuevo ~$420k. Fijado $169.000 (agresivo). Cumple convención (termina en 9).",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
+    },
+    {
+      "id": "DOR-008",
+      "nombre": "Cama individual (1 plaza) sommier + colchón Rosen Ergo T (con mancha)",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": "Rosen",
+      "modelo": "Ergo T",
+      "antiguedad": "no especificada",
+      "medidas": "Cama individual (1 plaza)",
+      "estado": "bueno",
+      "defectos": [
+        "El colchón tiene una mancha (cosmética). Se incluye un cubrecolchón que la tapa."
+      ],
+      "precio_ars": 119000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-008-1.jpg",
+        "DOR-008-2.jpg",
+        "DOR-008-3.jpg"
+      ],
+      "link_specs": "https://www.rosen.com.ar/product/000011280030190080/Colch%C3%B3n%20Ergo%20T%20080X190",
+      "descripcion": "Cama individual (1 plaza) completa: sommier tapizado + colchón Rosen Ergo T (resortes) con cubrecolchón. El colchón tiene una mancha, por eso va más barata que la otra igual; el cubrecolchón que se incluye la deja tapada al usarla. Funcional y cómoda. El mismo colchón Ergo T nuevo ronda los $420.000. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.rosen.com.ar/product/000011280030190080/",
+            "precio": 420000,
+            "fecha": "2026-07-17",
+            "nota": "Rosen Ergo T 1 plaza 080x190 NUEVO ~$420.000 (precio oficial). Usados colchón Rosen 1pl $70-800k; sets sommier+colchón 1pl $90-430k."
+          }
+        ],
+        "logica_tasacion": "Cama 1 plaza igual a DOR-007 pero con MANCHA en el colchón -> descuento. Fijado $119.000 (~-30% vs DOR-007 por la mancha declarada; el cubre la tapa). Agresivo. Cumple convención (termina en 9).",
+        "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
     }
