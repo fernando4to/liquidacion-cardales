@@ -21,6 +21,10 @@
   function waItem(it) {
     return waURL("Hola, me interesa " + it.id + " " + it.nombre + " — " + money(it.precio_ars) + ". ¿Sigue disponible?");
   }
+  // inventario.json guarda los nombres de archivo originales (fuente de verdad); el sitio sirve solo WebP en 2 variantes (-thumb / -full).
+  function fotoSrc(name, kind) {
+    return "assets/fotos/" + String(name).replace(/\.jpe?g$/i, "-" + kind + ".webp");
+  }
   function el(tag, cls, html) {
     var e = document.createElement(tag);
     if (cls) e.className = cls;
@@ -43,7 +47,7 @@
     var media = el("div", "card-media");
     if (it.fotos && it.fotos[0]) {
       media.innerHTML =
-        '<img loading="lazy" src="assets/fotos/' + esc(it.fotos[0]) + '" alt="' + esc(it.nombre) + '">' +
+        '<img loading="lazy" src="' + esc(fotoSrc(it.fotos[0], "thumb")) + '" alt="' + esc(it.nombre) + '">' +
         '<span class="stamp-id stencil">' + esc(it.id) + "</span>" +
         (it.fotos.length > 1
           ? '<span class="badge-fotos">▦ ' + it.fotos.length + " fotos</span>"
@@ -194,7 +198,7 @@
   var modal = document.getElementById("modal");
   function openModal(it) {
     var vendido = it.estado_venta === "vendido";
-    var fotos = (it.fotos || []).map(function (f) { return "assets/fotos/" + f; });
+    var fnames = it.fotos || [];
     var specs = [];
     if (it.marca) specs.push(["Marca", it.marca]);
     if (it.modelo) specs.push(["Modelo", it.modelo]);
@@ -207,9 +211,9 @@
       '<button class="modal-close" aria-label="Cerrar">×</button>' +
       '<div class="modal-body">' +
         '<div class="modal-gallery">' +
-          '<div class="main">' + (fotos.length ? '<img src="' + esc(fotos[0]) + '" alt="' + esc(it.nombre) + '">' : '<div class="foto-pendiente"><span class="fp-ico">▦</span><span>' + esc(it.foto_pendiente || "Foto próximamente") + "</span></div>") + "</div>" +
-          (fotos.length > 1 ? '<div class="modal-thumbs">' + fotos.map(function (f, i) {
-            return '<img data-src="' + esc(f) + '" class="' + (i === 0 ? "sel" : "") + '" src="' + esc(f) + '" alt="">';
+          '<div class="main">' + (fnames.length ? '<img src="' + esc(fotoSrc(fnames[0], "full")) + '" alt="' + esc(it.nombre) + '">' : '<div class="foto-pendiente"><span class="fp-ico">▦</span><span>' + esc(it.foto_pendiente || "Foto próximamente") + "</span></div>") + "</div>" +
+          (fnames.length > 1 ? '<div class="modal-thumbs">' + fnames.map(function (f, i) {
+            return '<img data-src="' + esc(fotoSrc(f, "full")) + '" class="' + (i === 0 ? "sel" : "") + '" src="' + esc(fotoSrc(f, "thumb")) + '" alt="">';
           }).join("") + "</div>" : "") +
         "</div>" +
         '<div class="modal-info">' +
