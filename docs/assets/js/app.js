@@ -228,9 +228,9 @@
             return "<dt>" + esc(s[0]) + "</dt><dd>" + esc(s[1]) + "</dd>";
           }).join("") + "</dl>" +
           (it.link_specs ? '<p class="link-specs"><a href="' + esc(it.link_specs) + '" target="_blank" rel="noopener">Ficha técnica del fabricante ↗</a></p>' : "") +
-          (vendido ? "" : '<a class="wa block" style="margin-top:16px" href="' + waItem(it) + '" target="_blank" rel="noopener">' + waSVG() + "Consultar por WhatsApp</a>") +
         "</div>" +
-      "</div>";
+      "</div>" +
+      (vendido ? "" : '<div class="modal-cta"><a class="wa block" href="' + waItem(it) + '" target="_blank" rel="noopener">' + waSVG() + "Consultar por WhatsApp</a></div>");
 
     var mc = modal.querySelector(".modal-card");
     mc.innerHTML = html;
