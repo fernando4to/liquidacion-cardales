@@ -80,21 +80,22 @@ button{font-family:inherit}
 /* ==========================================================================
    Barra de filtros
    ========================================================================== */
-.controls{position:sticky;top:0;z-index:20;background:var(--tiza);border-bottom:1px solid var(--linea);padding:12px 0}
-.controls-inner{display:flex;flex-wrap:wrap;gap:16px 26px;align-items:center}
-.fgroup{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.fgroup > .flabel{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--tinta-45);font-weight:700;margin-right:2px}
+.controls{position:sticky;top:0;z-index:20;background:var(--tiza);border-bottom:1px solid var(--linea)}
+.controls-inner{display:flex;flex-wrap:nowrap;align-items:center;gap:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding:9px 20px;scrollbar-width:none}
+.controls-inner::-webkit-scrollbar{display:none}
+.chips{display:inline-flex;align-items:center;gap:8px;flex:none}
+.ctrl-sep{width:1px;height:22px;background:var(--linea);flex:none}
 .chip{
   border:1.4px solid var(--linea);background:transparent;color:var(--tinta-70);
-  padding:6px 13px;border-radius:100px;font-size:13.5px;font-weight:600;cursor:pointer;
+  min-height:44px;display:inline-flex;align-items:center;white-space:nowrap;flex:none;
+  padding:6px 15px;border-radius:100px;font-size:13.5px;font-weight:600;cursor:pointer;
   transition:all .14s ease
 }
 .chip:hover{border-color:var(--tinta-45);color:var(--tinta)}
 .chip[aria-pressed="true"]{background:var(--tinta);border-color:var(--tinta);color:var(--tiza)}
-.tally{margin-left:auto;font-size:13px;color:var(--tinta-70);white-space:nowrap}
+.tally{margin-left:auto;padding-left:6px;font-size:13px;color:var(--tinta-70);white-space:nowrap;flex:none}
 .tally .t-disp{color:var(--azul)}
 .tally .t-vend{color:var(--rojo)}
-.count{font-size:13px;color:var(--tinta-45)}
 
 /* ==========================================================================
    Secciones por ambiente

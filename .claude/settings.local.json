@@ -157,7 +157,8 @@
       "Bash(grep -iE '\\\\.\\(mov|mp4\\)$')",
       "Bash(sips -s format jpeg -Z 1100 fotos/originales/IMG_4883.heic --out __TRACKED_VAR__/bici.jpg)",
       "Bash(sips -s format jpeg -Z 1400 \"fotos/originales/IMG_4883.heic\" --out \"docs/assets/fotos/NIN-004-1.jpg\")",
-      "Bash(node -e 'function fotoSrc\\(n,k\\){return \"assets/fotos/\"+String\\(n\\).replace\\(/\\\\.jpe?g$/i,\"-\"+k+\".webp\"\\)} console.log\\(fotoSrc\\(\"COC-001-1.jpg\",\"thumb\"\\)\\); console.log\\(fotoSrc\\(\"DOR-004-2.jpg\",\"full\"\\)\\);')"
+      "Bash(node -e 'function fotoSrc\\(n,k\\){return \"assets/fotos/\"+String\\(n\\).replace\\(/\\\\.jpe?g$/i,\"-\"+k+\".webp\"\\)} console.log\\(fotoSrc\\(\"COC-001-1.jpg\",\"thumb\"\\)\\); console.log\\(fotoSrc\\(\"DOR-004-2.jpg\",\"full\"\\)\\);')",
+      "Bash(node -c docs/assets/js/app.js)"
     ]
   }
 }

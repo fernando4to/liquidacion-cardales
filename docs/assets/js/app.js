@@ -9,7 +9,7 @@
   var AMB_ORDEN = ["cocina", "living", "comedor", "dormitorio", "baño", "lavadero", "oficina", "exterior", "general"];
   var CAT_LABEL = { "electrodoméstico": "Electro", "mueble": "Muebles", "otro": "Otros" };
 
-  var filtro = { categoria: "todas", estado: "todos", disp: "todas" };
+  var filtro = { categoria: "todas", disp: "todas" };
 
   /* ---------- helpers ---------- */
   function money(n) {
@@ -105,20 +105,14 @@
 
   /* ---------- filtros ---------- */
   function buildFiltros() {
-    var cats = {}, ests = {};
-    ITEMS.forEach(function (it) { cats[it.categoria] = 1; ests[it.estado] = 1; });
+    var cats = {};
+    ITEMS.forEach(function (it) { cats[it.categoria] = 1; });
 
     var cCat = document.getElementById("f-categoria");
-    var cEst = document.getElementById("f-estado");
     var cDisp = document.getElementById("f-disp");
     cCat.appendChild(chip("categoria", "todas", "Todas"));
     Object.keys(cats).forEach(function (k) { cCat.appendChild(chip("categoria", k, CAT_LABEL[k] || k)); });
-    cEst.appendChild(chip("estado", "todos", "Todos"));
-    ["excelente", "muy bueno", "bueno", "funcional con detalles"].forEach(function (k) {
-      if (ests[k]) cEst.appendChild(chip("estado", k, k.charAt(0).toUpperCase() + k.slice(1)));
-    });
-    cDisp.appendChild(chip("disp", "todas", "Todas"));
-    cDisp.appendChild(chip("disp", "disponibles", "Ocultar vendidos"));
+    cDisp.appendChild(dispToggle());
     syncChips();
   }
   function chip(dim, val, label) {
@@ -128,8 +122,18 @@
     b.addEventListener("click", function () { filtro[dim] = val; syncChips(); render(); });
     return b;
   }
+  function dispToggle() {                          // un solo chip on/off: ocultar vendidos
+    var b = el("button", "chip", "Ocultar vendidos");
+    b.setAttribute("data-dim", "disp"); b.setAttribute("aria-pressed", "false");
+    b.addEventListener("click", function () {
+      filtro.disp = (filtro.disp === "disponibles") ? "todas" : "disponibles";
+      b.setAttribute("aria-pressed", filtro.disp === "disponibles" ? "true" : "false");
+      render();
+    });
+    return b;
+  }
   function syncChips() {
-    document.querySelectorAll(".chip").forEach(function (b) {
+    document.querySelectorAll(".chip[data-val]").forEach(function (b) {
       b.setAttribute("aria-pressed", filtro[b.getAttribute("data-dim")] === b.getAttribute("data-val") ? "true" : "false");
     });
   }
@@ -140,12 +144,8 @@
     cont.innerHTML = "";
     var visibles = ITEMS.filter(function (it) {
       return (filtro.categoria === "todas" || it.categoria === filtro.categoria) &&
-             (filtro.estado === "todos" || it.estado === filtro.estado) &&
              (filtro.disp === "todas" || it.estado_venta !== "vendido");
     });
-
-    document.getElementById("count").textContent =
-      visibles.length + (visibles.length === 1 ? " ítem" : " ítems");
 
     var totalVend = ITEMS.filter(function (i) { return i.estado_venta === "vendido"; }).length;
     var totalDisp = ITEMS.length - totalVend;
