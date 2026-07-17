@@ -234,7 +234,7 @@
 
     var mc = modal.querySelector(".modal-card");
     mc.innerHTML = html;
-    mc.querySelector(".modal-close").addEventListener("click", closeModal);
+    mc.querySelector(".modal-close").addEventListener("click", requestClose);
     var main = mc.querySelector(".main img");
     mc.querySelectorAll(".modal-thumbs img").forEach(function (t) {
       t.addEventListener("click", function () {
@@ -245,13 +245,19 @@
     });
     modal.classList.add("open");
     document.body.style.overflow = "hidden";
+    history.pushState({ modal: it.id }, "");   // 'atrás' de Android cierra el detalle, no la sesión
   }
-  function closeModal() {
+  function closeModal() {                        // cierre del DOM únicamente
     modal.classList.remove("open");
     document.body.style.overflow = "";
   }
-  modal.addEventListener("click", function (e) { if (e.target === modal) closeModal(); });
-  document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeModal(); });
+  function requestClose() {                      // si el estado activo es del modal, retrocede (dispara popstate)
+    if (history.state && history.state.modal) history.back();
+    else closeModal();
+  }
+  window.addEventListener("popstate", function () { if (modal.classList.contains("open")) closeModal(); });
+  modal.addEventListener("click", function (e) { if (e.target === modal) requestClose(); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && modal.classList.contains("open")) requestClose(); });
 
   /* ---------- header dinámico ---------- */
   function fillHeader() {
