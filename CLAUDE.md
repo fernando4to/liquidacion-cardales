@@ -99,7 +99,7 @@ El trabajo se procesa en **tandas de 10–15 ítems**, nunca ítem por ítem, sa
 2. **Tasación:** para ítems sin precio, buscar comps y fijar según sección 9. Para ítems con precio ya fijado por Feña: respetarlo, pero si está >30% fuera del rango de mercado (en cualquier dirección), señalarlo con evidencia y proponer corrección. La decisión final es de Feña.
 3. **Copy:** redactar descripción según sección 10.
 4. **Link de specs:** buscar página del fabricante o review confiable del modelo exacto (o de la versión del año). Si no existe para el modelo exacto, `link_specs: null` — nunca linkear un modelo parecido como si fuera el mismo.
-5. **Actualizar** `inventario.json`, optimizar fotos aprobadas a `/docs/assets/fotos/` (lado mayor ≤1400px, comprimidas; en macOS usar `sips`), regenerar el sitio.
+5. **Actualizar** `inventario.json`, generar las fotos aprobadas a `/docs/assets/fotos/` **en WebP 2 variantes** (`-thumb` 480px ≤60 KB y `-full` 1280px ≤250 KB, auto-orient EXIF; ver §12 estándar (a); en macOS con Pillow), regenerar el sitio. **No** dejar `.jpg` en `docs/assets/fotos/`.
 6. **Verificar** el sitio localmente (servidor local o abrir el HTML) antes de publicar.
 7. **Cierre de sesión** (sección 13).
 
@@ -164,6 +164,17 @@ Si Feña no declaró defectos y ninguno es visible, la descripción no especula:
 - Tipografía: display con carácter para títulos (p. ej. Bricolage Grotesque o Archivo Expanded), cuerpo sobrio y legible (Inter o Public Sans), y una stencil (p. ej. Saira Stencil One) **solo** para los IDs estampados. Nunca la stencil en texto corrido.
 - Evitar los clichés de sitio generado por IA: crema + serif + terracota; fondo negro + acento ácido; hairlines estilo periódico. La estética nunca compite con la claridad de precio y botón de contacto.
 - Piso de calidad: responsive hasta 360px, foco de teclado visible, `prefers-reduced-motion` respetado, contraste AA.
+
+**Estándares móviles/UX (auditoría 17/7, VINCULANTES — ninguna regeneración futura los revierte):**
+- **(a) Fotos solo en WebP, 2 variantes.** Cada foto aprobada se sirve como `NOMBRE-thumb.webp` (lado mayor 480px, q≈75, **≤60 KB**) y `NOMBRE-full.webp` (1280px, q≈78, **≤250 KB**), con auto-orientación EXIF. Las tarjetas y los thumbnails del modal usan `-thumb`; la imagen principal del modal usa `-full`. **Nunca** se sirven `.jpg` en el sitio. `inventario.json` sigue guardando los nombres originales (fuente de verdad); el mapeo nombre→variante lo hace `app.js` (`fotoSrc()`). Los originales viven en `fotos/aprobadas/`; en `docs/assets/fotos/` solo hay `.webp`. La suma de todos los `-thumb.webp` se mantiene **≤4 MB**.
+- **(b) `og:image` absoluta obligatoria.** El `<head>` lleva `og:image` con URL absoluta (`https://fernando4to.github.io/liquidacion-cardales/assets/og.jpg`), más `og:image:width/height`, `og:url` y `twitter:card=summary_large_image`. `og.jpg` (1200×630, ≤300 KB) es el único `.jpg` permitido del sitio (asset social, vive en `docs/assets/`, no en `/fotos`). Regenerarlo cuando cambie sensiblemente el inventario destacado.
+- **(c) Barra de filtros ≤64px, sin filtro "Estado".** Una sola fila sticky con scroll horizontal: chips de categoría `[Todas · Electro · Muebles · Otros]` + toggle `Ocultar vendidos` + un único contador. Sin filtro por estado (fragmenta y habilita resultados vacíos). Un solo contador (nada de duplicar "N ítems" + tally).
+- **(d) El botón "atrás" cierra el modal**, no la sesión (History API: `pushState` al abrir, `popstate` cierra; ×/backdrop/ESC via `history.back()`).
+- **(e) Texto informativo mínimo `tinta-70` (AA ≈6,1:1).** `tinta-45` y `kraft` **solo** para elementos decorativos no textuales (barritas, puntos de estado, bordes, fondos). Meta/defectos de tarjeta ≥13px.
+- **(f) Targets táctiles ≥44px** (chips, "Consultar", "Detalle", cerrar modal). `.card-media` operable por teclado (`role=button`, `tabindex=0`, Enter/Espacio).
+- **(g) CTA "Consultar por WhatsApp" sticky al pie del modal**, siempre visible en 390×844.
+- Orden de secciones por ambiente: **fijo** (`AMB_ORDEN` en `app.js`), no por monto a vender.
+- Verificación: `scripts/check-mobile.sh` debe pasar antes de cerrar cualquier sesión que toque el sitio.
 
 ## 13. Cierre de sesión (obligatorio, sin excepciones)
 
