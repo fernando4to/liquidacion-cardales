@@ -2054,6 +2054,43 @@
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "COC-005",
+      "nombre": "Pava eléctrica Thomas de vidrio 1.8 L con control de temperatura",
+      "categoria": "electrodoméstico",
+      "ambiente": "cocina",
+      "marca": "Thomas",
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "1,8 litros de capacidad",
+      "estado": "bueno",
+      "defectos": [
+        "El vidrio tiene marcas de agua/sarro por uso (cosmético, se limpia)."
+      ],
+      "precio_ars": 24000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COC-005-1.jpg",
+        "COC-005-2.jpg",
+        "COC-005-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Pava eléctrica Thomas de vidrio, 1.8 litros, con selección de temperatura (40, 60, 80, 90 y 100 °C): ideal para té, mate, café de filtro o mamaderas, cada bebida a su punto. Base de acero, apagado automático y visor de vidrio con marcas de nivel. Funciona bien; el vidrio tiene marcas de agua/sarro por uso (se limpia). Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/pava-electrica-con-selector-de-temperatura",
+            "precio": null,
+            "fecha": "2026-07-17",
+            "nota": "Pavas con selector de temperatura ML AR: hasta $50k / $50-75k / +$75k (casi todo nuevo); usadas escasas. Thomas poco conocida en AR."
+          }
+        ],
+        "logica_tasacion": "Pava Thomas vidrio 1.8L con control de temperatura (feature premium vs pava básica). Funciona, sarro cosmético en vidrio. Marca poco conocida en AR. Comps nuevas variable-temp $50-75k. Fijado $24.000 (~un tercio de una nueva; agresivo). Termina en 4. Serie/QR SEC NO publicada (foto 4871 descartada).",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
