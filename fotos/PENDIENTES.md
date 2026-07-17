@@ -10,7 +10,7 @@
 ## C) Por fotografiar (aún sin foto)
 _Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet
 _Exterior:_ parrilla
-_Cocina / electro:_ batidora · microondas
+_Cocina / electro:_ batidora
 _Otros:_ tablet (de dibujo)
 
 ---

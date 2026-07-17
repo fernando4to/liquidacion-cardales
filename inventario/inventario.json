@@ -1981,6 +1981,43 @@
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "COC-003",
+      "nombre": "Microondas Wurden 25 L digital plateado",
+      "categoria": "electrodoméstico",
+      "ambiente": "cocina",
+      "marca": "Wurden",
+      "modelo": "WMWO-25DSILVER",
+      "antiguedad": "no especificada",
+      "medidas": "25 litros de capacidad",
+      "estado": "bueno",
+      "defectos": [
+        "Interior con marcas de uso normales (estético)."
+      ],
+      "precio_ars": 49000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "COC-003-1.jpg",
+        "COC-003-2.jpg",
+        "COC-003-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Microondas Wurden de 25 litros, digital, con frente plateado espejado y plato giratorio. Tamaño amplio (25 L) para platos grandes, con controles digitales (menús y descongelado) y eficiencia energética A. Funciona bien; exterior prolijo e interior con marcas de uso normales. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/microondas-25-litros",
+            "precio": null,
+            "fecha": "2026-07-17",
+            "nota": "Microondas usados AR mayormente <$95k; 25L digital de marcas conocidas (BGH/Atma/Samsung) $70-120k. Wurden es marca CHILENA sin reconocimiento ni service en AR -> castigo de valor."
+          }
+        ],
+        "logica_tasacion": "Microondas Wurden 25L digital, funciona, buen estado (interior marcas de uso). Marca chilena desconocida en AR (sin service/garantía) => por debajo de un BGH/Atma equivalente. Comps usados <$95k. Fijado $49.000 (agresivo, liquidación; termina en 9). Sin link_specs: no hay página confiable del modelo exacto.",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
