@@ -2126,6 +2126,42 @@
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "NIN-004",
+      "nombre": "Bicicleta infantil rodado 16 Superman con rueditas",
+      "categoria": "otro",
+      "ambiente": "niños",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "Rodado 16 (aprox.), con rueditas de aprendizaje",
+      "estado": "bueno",
+      "defectos": [
+        "Cuadro con suciedad y marcas de uso.",
+        "El asiento tiene un raspón/desgaste."
+      ],
+      "precio_ars": 34000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "NIN-004-1.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Bicicleta infantil rodado 16 (aprox.), temática Superman, con rueditas de aprendizaje y freno de mano delantero: pensada para chicos de ~4 a 6 años que están aprendiendo. Cuadro blanco, liviana y completa. Usada: el cuadro tiene suciedad y marcas y el asiento un raspón; anda y frena bien. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/bicicleta-rodado-16-usada",
+            "precio": null,
+            "fecha": "2026-07-17",
+            "nota": "Bici R16 niños usada AR ~$30-70k segun estado/marca; nuevas $70-150k. Esta: licenciada (Superman, gama baja), gastada. Rodado 16 = chicos 4-6 años."
+          }
+        ],
+        "logica_tasacion": "Bici infantil R16 con rueditas + freno de mano, funcional. Licenciada Superman (gama baja) + desgaste (suciedad, raspón asiento). Comps usadas $30-70k. Fijado $34.000 (agresivo por el desgaste; anda bien y viene completa con rueditas). Termina en 4. Rodado 16 estimado por foto -> confirmar con Feña.",
+        "fecha_tasacion": "2026-07-17",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
