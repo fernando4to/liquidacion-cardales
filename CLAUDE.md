@@ -173,7 +173,7 @@ Si Feña no declaró defectos y ninguno es visible, la descripción no especula:
 - **(e) Texto informativo mínimo `tinta-70` (AA ≈6,1:1).** `tinta-45` y `kraft` **solo** para elementos decorativos no textuales (barritas, puntos de estado, bordes, fondos). Meta/defectos de tarjeta ≥13px.
 - **(f) Targets táctiles ≥44px** (chips, "Consultar", "Detalle", cerrar modal). `.card-media` operable por teclado (`role=button`, `tabindex=0`, Enter/Espacio).
 - **(g) CTA "Consultar por WhatsApp" sticky al pie del modal**, siempre visible en 390×844.
-- Orden de secciones por ambiente: **fijo** (`AMB_ORDEN` en `app.js`), no por monto a vender.
+- Orden de secciones por ambiente: **fijo y congelado** (`AMB_ORDEN` en `app.js`), secuenciado por fuerza de sección (valor + atractivo, lidera con living/comedor/dormitorio), **no en vivo por monto** (evita reordenar a medida que se vende). Revisar a mano si el mix cambia mucho.
 - Verificación: `scripts/check-mobile.sh` debe pasar antes de cerrar cualquier sesión que toque el sitio.
 
 ## 13. Cierre de sesión (obligatorio, sin excepciones)

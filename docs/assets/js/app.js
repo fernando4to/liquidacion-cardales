@@ -6,7 +6,9 @@
   var CFG = DATA.config || {};
   var ITEMS = DATA.items || [];
 
-  var AMB_ORDEN = ["cocina", "living", "comedor", "dormitorio", "baño", "lavadero", "oficina", "niños", "exterior", "general"];
+  // Orden FIJO y CONGELADO, secuenciado por fuerza de sección (valor + atractivo), no en vivo.
+  // Lidera con las habitaciones core de amplio atractivo; al fondo lo chico/agotado. Revisar a mano si cambia el mix.
+  var AMB_ORDEN = ["living", "comedor", "dormitorio", "oficina", "exterior", "general", "niños", "cocina", "lavadero", "baño"];
   var CAT_LABEL = { "electrodoméstico": "Electro", "mueble": "Muebles", "otro": "Otros" };
 
   var filtro = { categoria: "todas", disp: "todas" };
