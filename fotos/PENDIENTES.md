@@ -9,7 +9,8 @@
 - **EXT-002** juego de jardín de ratán — **medidas** (sofá / sillones / mesa ratona)
 
 ## C) Por fotografiar (aún sin foto)
-_Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet · cuna · espejo de las nenas
+_Dormitorio:_ ropa de cama
+_Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet · cuna · espejo de las nenas · pizarra
 _Exterior:_ parrilla
 _Cocina / electro:_ batidora
 _Taller / herramientas:_ sierra (y otras herramientas que aparezcan)
