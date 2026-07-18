@@ -2216,7 +2216,7 @@
       "defectos": [],
       "precio_ars": 49000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LIV-013-1.jpg",
         "LIV-013-2.jpg"
