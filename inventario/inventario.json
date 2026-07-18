@@ -1530,7 +1530,7 @@
       "defectos": [],
       "precio_ars": 34000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LAV-005-1.jpg"
       ],
