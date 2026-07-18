@@ -2167,6 +2167,41 @@
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "LIV-012",
+      "nombre": "Consola escultórica de autor — madera maciza + hierro forjado (pieza única, motivo de ola y pez)",
+      "categoria": "mueble",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "123 × 43 cm (ancho × profundidad), alto 110 cm",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 489000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-012-1.jpg",
+        "LIV-012-2.jpg",
+        "LIV-012-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Consola de entrada de autor, una pieza única de arte funcional: tapa de madera maciza de borde natural (live-edge) con una cinta de metal embutida, sostenida por una base escultórica tallada a mano con forma de ola de mar en madera y hierro forjado, y rematada por un pez de metal. Obra del artista chileno Francisco Bustamante. Pensada para lucir en una entrada o hall y ser el centro de atención. Mide 123 cm de ancho × 43 de profundidad × 110 de alto. La madera tiene la pátina y las marcas propias de una pieza trabajada a mano. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": null,
+            "precio": null,
+            "fecha": "2026-07-18",
+            "nota": "Pieza única de arte funcional, sin comparables de mercado. Atribuida por Feña al artista chileno Francisco Bustamante (madera+hierro). OJO: el F. Bustamante de la base MNBA/AVCh es un PINTOR distinto -> no se linkea esa ficha. Sin firma/certificado verificado."
+          }
+        ],
+        "logica_tasacion": "Sin comps citables (obra única). Feña sin piso. Valuada como arte funcional premium (madera maciza live-edge + hierro forjado, hecha a mano, statement de entrada). Feña eligió $489.000 (tope del catálogo; no hay techo de mercado que la ancle). Termina en 9.",
+        "fecha_tasacion": "2026-07-18",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
