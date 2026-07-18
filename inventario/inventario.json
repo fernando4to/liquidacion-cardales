@@ -574,7 +574,7 @@
       ],
       "precio_ars": 319000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LIV-003-1.jpg",
         "LIV-003-2.jpg"
@@ -1927,7 +1927,7 @@
       "defectos": [],
       "precio_ars": 169000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "DOR-007-1.jpg",
         "DOR-007-2.jpg",
@@ -1964,7 +1964,7 @@
       ],
       "precio_ars": 119000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "DOR-008-1.jpg",
         "DOR-008-2.jpg",
