@@ -617,7 +617,7 @@
       ],
       "precio_ars": 329000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "EXT-001-1.jpg",
         "EXT-001-2.jpg"
