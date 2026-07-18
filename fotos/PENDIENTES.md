@@ -8,6 +8,7 @@
 - **DOR-008** cama con mancha — **foto clara de la mancha** del colchón (ideal, para respaldar el defecto declarado)
 
 ## C) Por fotografiar (aún sin foto)
+_Dormitorio:_ cama y colchón del cuarto de visita
 _Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet
 _Exterior:_ parrilla
 _Cocina / electro:_ batidora
