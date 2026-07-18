@@ -1,10 +1,12 @@
-# Pendientes — al 16/07/2026
+# Pendientes — al 18/07/2026
 
 ## A) Ítems ya publicados — falta mejor foto (no bloquean venta)
 - **LIV-008** 2 sillones blancos + puffs — los **2 con sus puffs** juntos + detalle de manchas
-- **GEN-001** ventilador de pared Airolite — **cambiar la foto** por una mejor
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
-- **DOR-008** cama con mancha — **foto clara de la mancha** del colchón (ideal, para respaldar el defecto declarado)
+
+## B) Datos que me debés (fichas ya publicadas)
+- **LAV-004** tabla de planchar — **medidas** (largo × ancho de la tabla + rango de altura)
+- **EXT-002** juego de jardín de ratán — **medidas** (sofá / sillones / mesa ratona)
 
 ## C) Por fotografiar (aún sin foto)
 _Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet · cuna
