@@ -2202,6 +2202,40 @@
         "fecha_tasacion": "2026-07-18",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "LIV-013",
+      "nombre": "Planta artificial grande tipo bananero 1,77 m con maceta negra",
+      "categoria": "otro",
+      "ambiente": "living",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": "1,77 m de altura (con maceta)",
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 49000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "LIV-013-1.jpg",
+        "LIV-013-2.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Planta artificial grande tipo bananero/platanera de 1,77 m de alto, con maceta negra incluida: hojas amplias y realistas sobre troncos de aspecto natural, arma un rincón verde sin mantenimiento —no necesita riego ni luz—. Ideal para una entrada, un living o una galería cubierta. En muy buen estado. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/planta-artificial-banano",
+            "precio": null,
+            "fecha": "2026-07-18",
+            "nota": "Bananeros artificiales ~1,8m NUEVOS en ML AR ~$60-130k. Este usado, buen estado, con maceta negra buena."
+          }
+        ],
+        "logica_tasacion": "Planta artificial bananero 1,77m + maceta negra, muy buen estado. Nuevos $60-130k. Fijado $49.000 (agresivo, usado con maceta). Termina en 9. Foto 4900 recortada para sacar camioneta/patente (regla 14).",
+        "fecha_tasacion": "2026-07-18",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
