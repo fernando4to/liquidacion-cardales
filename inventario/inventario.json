@@ -1431,7 +1431,7 @@
       "defectos": [
         "Una taza tiene la oreja (asa) rota. El resto del juego está impecable."
       ],
-      "precio_ars": 139000,
+      "precio_ars": 119000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -1459,6 +1459,12 @@
             "de": 179000,
             "a": 139000,
             "motivo": "más agresivo (set formal de nicho, sin movimiento)"
+          },
+          {
+            "fecha": "2026-07-18",
+            "de": 139000,
+            "a": 119000,
+            "motivo": "más agresivo (2do tramo)"
           }
         ]
       }
