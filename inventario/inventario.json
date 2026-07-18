@@ -533,7 +533,7 @@
       ],
       "precio_ars": 279000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COM-002-1.jpg"
       ],
