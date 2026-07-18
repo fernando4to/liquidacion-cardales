@@ -2236,6 +2236,40 @@
         "fecha_tasacion": "2026-07-18",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "DOR-009",
+      "nombre": "Cama individual (1 plaza) sommier + colchón Rosen Ergo T",
+      "categoria": "mueble",
+      "ambiente": "dormitorio",
+      "marca": "Rosen",
+      "modelo": "Ergo T",
+      "antiguedad": "no especificada",
+      "medidas": "Cama individual (1 plaza)",
+      "estado": "bueno",
+      "defectos": [],
+      "precio_ars": 169000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "DOR-009-1.jpg",
+        "DOR-009-2.jpg"
+      ],
+      "link_specs": "https://www.rosen.com.ar/product/000011280030190080/Colch%C3%B3n%20Ergo%20T%20080X190",
+      "descripcion": "Cama individual (1 plaza) completa: sommier tapizado + colchón Rosen Ergo T (resortes) con cubrecolchón. Lista para usar, mullida y en buen estado — es la cama del cuarto de visita. El mismo colchón Ergo T nuevo ronda los $420.000. Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://www.rosen.com.ar/product/000011280030190080/",
+            "precio": 420000,
+            "fecha": "2026-07-18",
+            "nota": "Rosen Ergo T 1 plaza nuevo ~$420k. Equivalente a DOR-007 (sommier+colchón+cubre) que se vendió a $169.000."
+          }
+        ],
+        "logica_tasacion": "Cama 1 plaza sommier + colchón Rosen Ergo T + cubre, limpia (cuarto de visita). Precio $169.000 validado por la venta de DOR-007 (idéntica). Termina en 9.",
+        "fecha_tasacion": "2026-07-18",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
