@@ -1431,7 +1431,7 @@
       "defectos": [
         "Una taza tiene la oreja (asa) rota. El resto del juego está impecable."
       ],
-      "precio_ars": 179000,
+      "precio_ars": 139000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -1453,7 +1453,14 @@
         ],
         "logica_tasacion": "Tasado por mí (Feña dio marca, para 8, 53 piezas, 1 taza con oreja rota). Juego Sarah Miller (diseño) blanco filo dorado, 53pc COMPLETO para 8 (32 platos = 8×4 tamaños + 8 tazas + cafetera/azucarera/lechera + fuentes/bowls), casi impecable. Comps ML AR loza $55-150k+; sets nuevos 55pc filo oro referencia $200k+. Marca de diseño + completo + casi mint sostiene valor; PERO vajilla formal usada = mercado lento + frágil de enviar + prioridad velocidad. Fijado $149.000 (agresivo para mover); puede sostener $179-199k si se prioriza valor. 1 taza rota declarada.",
         "fecha_tasacion": "2026-07-15",
-        "rebajas_aplicadas": []
+        "rebajas_aplicadas": [
+          {
+            "fecha": "2026-07-18",
+            "de": 179000,
+            "a": 139000,
+            "motivo": "más agresivo (set formal de nicho, sin movimiento)"
+          }
+        ]
       }
     },
     {
