@@ -1,7 +1,6 @@
 # Pendientes — al 16/07/2026
 
 ## A) Ítems ya publicados — falta mejor foto (no bloquean venta)
-- **EXT-001** comedor hierro — detalle del **óxido** de las sillas
 - **LIV-008** 2 sillones blancos + puffs — los **2 con sus puffs** juntos + detalle de manchas
 - **GEN-001** ventilador de pared Airolite — **cambiar la foto** por una mejor
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
