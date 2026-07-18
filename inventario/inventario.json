@@ -1830,7 +1830,7 @@
       ],
       "precio_ars": 79000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "NIN-002-1.jpg",
         "NIN-002-2.jpg",
@@ -1868,7 +1868,7 @@
       ],
       "precio_ars": 79000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "NIN-003-1.jpg",
         "NIN-003-2.jpg",
