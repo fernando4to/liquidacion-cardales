@@ -1562,7 +1562,7 @@
       "defectos": [],
       "precio_ars": 22000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COM-005-1.jpg",
         "COM-005-2.jpg"
