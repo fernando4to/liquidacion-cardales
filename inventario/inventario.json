@@ -2039,7 +2039,7 @@
       ],
       "precio_ars": 9000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "COC-004-1.jpg",
         "COC-004-2.jpg"
