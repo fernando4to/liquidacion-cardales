@@ -173,7 +173,7 @@ Si Feña no declaró defectos y ninguno es visible, la descripción no especula:
 - **(e) Texto informativo mínimo `tinta-70` (AA ≈6,1:1).** `tinta-45` y `kraft` **solo** para elementos decorativos no textuales (barritas, puntos de estado, bordes, fondos). Meta/defectos de tarjeta ≥13px.
 - **(f) Targets táctiles ≥44px** (chips, "Consultar", "Detalle", cerrar modal). `.card-media` operable por teclado (`role=button`, `tabindex=0`, Enter/Espacio).
 - **(g) CTA "Consultar por WhatsApp" sticky al pie del modal**, siempre visible en 390×844.
-- Orden de secciones por ambiente: **fijo y congelado** (`AMB_ORDEN` en `app.js`), secuenciado por fuerza de sección (valor disponible + atractivo amplio primero; secciones finas o agotadas al fondo), **no en vivo por monto** (evita reordenar a medida que se vende). **Re-chequear a mano cuando el mix cambie mucho** (p. ej. cada ~10-15 ventas): recalcular valor/ítems disponibles por ambiente y resecuenciar.
+- Orden de secciones por ambiente: **fijo y congelado** (`AMB_ORDEN` en `app.js`), secuenciado por fuerza de sección (valor disponible + atractivo amplio primero), **no en vivo por monto** (evita reordenar a medida que se vende). **Re-chequear a mano cuando el mix cambie mucho** (p. ej. cada ~10-15 ventas): recalcular valor/ítems disponibles por ambiente y resecuenciar. **Regla dura en `render()`:** toda sección con al menos un ítem **disponible** va siempre arriba de las secciones **totalmente vendidas** (dentro de cada grupo manda `AMB_ORDEN`); así una sección con stock nunca queda debajo de una ya liquidada.
 - Verificación: `scripts/check-mobile.sh` debe pasar antes de cerrar cualquier sesión que toque el sitio.
 
 ## 13. Cierre de sesión (obligatorio, sin excepciones)

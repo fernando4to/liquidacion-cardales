@@ -166,8 +166,12 @@
     var byAmb = {};
     visibles.forEach(function (it) { (byAmb[it.ambiente] = byAmb[it.ambiente] || []).push(it); });
 
-    // orden de ambientes FIJO (legible para el comprador), no por monto a vender
+    // orden de ambientes: (1) las secciones con algo DISPONIBLE van siempre arriba de las
+    // totalmente vendidas; (2) dentro de cada grupo, orden FIJO por AMB_ORDEN (no por monto).
+    function ambConDisp(amb) { return byAmb[amb].some(function (it) { return it.estado_venta !== "vendido"; }); }
     var ambientes = Object.keys(byAmb).sort(function (a, b) {
+      var da = ambConDisp(a) ? 0 : 1, db = ambConDisp(b) ? 0 : 1;
+      if (da !== db) return da - db;
       var ia = AMB_ORDEN.indexOf(a), ib = AMB_ORDEN.indexOf(b);
       return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
     });
