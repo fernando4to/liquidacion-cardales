@@ -445,7 +445,7 @@
       ],
       "precio_ars": 249000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "LIV-002-1.jpg",
         "LIV-002-2.jpg"
