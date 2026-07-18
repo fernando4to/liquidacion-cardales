@@ -1879,16 +1879,18 @@
     },
     {
       "id": "DOR-006",
-      "nombre": "Cama individual (1 plaza) de pino macizo + colchón Rosen Ergo T",
+      "nombre": "Colchón Rosen Ergo T 1 plaza (+ cama de pino artesanal, opcional)",
       "categoria": "mueble",
       "ambiente": "dormitorio",
       "marca": "Rosen",
       "modelo": "Ergo T",
       "antiguedad": "no especificada",
-      "medidas": "Cama individual (1 plaza)",
+      "medidas": "1 plaza (individual)",
       "estado": "bueno",
-      "defectos": [],
-      "precio_ars": 199000,
+      "defectos": [
+        "La cama de pino es opcional y de hechura artesanal, hoy en estado regular. El colchón Rosen —lo que se vende— está en buen estado."
+      ],
+      "precio_ars": 139000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -1897,7 +1899,7 @@
         "DOR-006-3.jpg"
       ],
       "link_specs": "https://www.rosen.com.ar/product/000011280030190080/Colch%C3%B3n%20Ergo%20T%20080X190",
-      "descripcion": "Cama individual (1 plaza) con estructura de pino macizo y respaldo, más colchón Rosen Ergo T (resortes). Base de madera sólida y prolija, lista para el cuarto de un chico o de huéspedes. El mismo colchón Ergo T nuevo ronda los $420.000. Colchón en buen estado. Se libera por mudanza a Chile.",
+      "descripcion": "Colchón individual (1 plaza) Rosen Ergo T, de resortes: firme, ergonómico y en buen estado, listo para dormir. Rosen es marca premium y el mismo colchón nuevo ronda los $420.000, así que a este precio es una gran oportunidad. Se vende el colchón; de forma opcional sumás la cama: una estructura de pino macizo de hechura artesanal (hecha a mano, no de fábrica), noble en madera aunque hoy en estado regular. Te llevás solo el colchón, o el conjunto colchón + cama de pino por $39.000 más. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1907,7 +1909,7 @@
             "nota": "Rosen Ergo T 1 plaza 080x190 NUEVO ~$420.000 (precio oficial). Usados colchón Rosen 1pl $70-800k; sets sommier+colchón 1pl $90-430k."
           }
         ],
-        "logica_tasacion": "Cama 1 plaza: marco de pino macizo (con respaldo y slats) + colchón Rosen Ergo T (nuevo ~$420k). Frame sólido + colchón limpio. La más completa de las tres. Fijado $199.000 (~47% de solo el colchón nuevo; agresivo por liquidación). Cumple convención (termina en 9).",
+        "logica_tasacion": "Reencuadre (17/7): se vende el COLCHÓN Rosen Ergo T 1 plaza (limpio, bueno) como principal a $139.000 (< DOR-007 $169k que suma sommier; nuevo ~$420k). La cama de pino es artesanal (hecha a mano) pero en estado regular -> opcional +$39.000 (conjunto $178k). Antes era combo $199.000. Termina en 9.",
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
