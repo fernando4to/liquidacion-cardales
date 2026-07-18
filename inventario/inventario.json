@@ -1322,9 +1322,11 @@
       "modelo": null,
       "antiguedad": "no especificada",
       "medidas": "100 × 50 cm (ancho × profundidad), alto 74 cm",
-      "estado": "bueno",
-      "defectos": [],
-      "precio_ars": 59000,
+      "estado": "funcional con detalles",
+      "defectos": [
+        "Le falta un tornillo y por eso queda inestable; reponerlo y ajustarlo lo deja firme (arreglo mínimo y económico)."
+      ],
+      "precio_ars": 44000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -1332,7 +1334,7 @@
         "OFI-006-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Escritorio compacto de 100 × 50 cm en melamina símil madera de tono cálido, sobre patas metálicas blancas tipo puente: práctico para un rincón de trabajo, estudio o home office sin ocupar mucho lugar. En buen estado. Se libera por mudanza a Chile.",
+      "descripcion": "Escritorio compacto de 100 × 50 cm en melamina símil madera de tono cálido, sobre patas metálicas blancas tipo puente: práctico para armar un rincón de trabajo, estudio o home office sin ocupar lugar, y combina con cualquier ambiente. A tener en cuenta: le falta un tornillo, por lo que hoy queda algo inestable; reponerlo y ajustarlo lo deja firme (arreglo mínimo y económico). Va más barato justamente por ese detalle. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -1342,7 +1344,7 @@
             "nota": "escritorios melamina usados desde ~$33k; compacto 100cm juega en franja baja. 2º de 3 escritorios (distinto de OFI-002 160×70 y OFI-007 120×60)."
           }
         ],
-        "logica_tasacion": "Tasado por mí (Feña dio estado 'bueno' + medidas). 2º de 3 escritorios. Compacto 100×50, melamina símil madera tono cálido, patas metálicas, estado bueno. Comps: melamina usados desde ~$33k; compacto bueno -> $59.000, agresivo. Coherente: más chico y estado menor que OFI-002 (160×70 excelente $119k) y OFI-007 (120×60 muy bueno), por eso el más barato.",
+        "logica_tasacion": "Tasado por mí (Feña dio estado 'bueno' + medidas). 2º de 3 escritorios. Compacto 100×50, melamina símil madera tono cálido, patas metálicas, estado bueno. Comps: melamina usados desde ~$33k; compacto bueno -> $59.000, agresivo. Coherente: más chico y estado menor que OFI-002 (160×70 excelente $119k) y OFI-007 (120×60 muy bueno), por eso el más barato. REBAJA (17/7): $59.000 -> $44.000 por tornillo faltante/inestabilidad (arreglo mínimo). Termina en 4.",
         "fecha_tasacion": "2026-07-14",
         "rebajas_aplicadas": []
       }
