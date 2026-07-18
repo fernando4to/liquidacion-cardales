@@ -311,7 +311,7 @@
       "defectos": [],
       "precio_ars": 29000,
       "precio_firme": true,
-      "estado_venta": "disponible",
+      "estado_venta": "vendido",
       "fotos": [
         "GEN-001-1.jpg",
         "GEN-001-2.jpg"
