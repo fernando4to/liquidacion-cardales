@@ -9,7 +9,7 @@
 
 ## C) Por fotografiar (aún sin foto)
 _Dormitorio:_ cama y colchón del cuarto de visita
-_Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet
+_Niños:_ casa de muñecas · casa de LOLs · coche doble · cajas del closet · cuna
 _Exterior:_ parrilla
 _Cocina / electro:_ batidora
 _Otros:_ tablet (de dibujo)
