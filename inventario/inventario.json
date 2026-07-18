@@ -2031,12 +2031,13 @@
       "marca": "Thomas",
       "modelo": "TH-126",
       "antiguedad": "unos 3 años",
-      "medidas": "4 ranuras (2 secciones independientes)",
-      "estado": "bueno",
+      "medidas": "4 ranuras (funcionan 2)",
+      "estado": "funcional con detalles",
       "defectos": [
-        "Marcas de uso en las ranuras (normal por uso); funciona bien."
+        "Solo funcionan 2 de las 4 ranuras (las otras 2 no calientan): sirve como tostadora de 2 panes.",
+        "Marcas de uso en las ranuras."
       ],
-      "precio_ars": 19000,
+      "precio_ars": 9000,
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
@@ -2044,7 +2045,7 @@
         "COC-004-2.jpg"
       ],
       "link_specs": null,
-      "descripcion": "Tostadora eléctrica Thomas de 4 ranuras (dos secciones independientes, cada una con su control), negra, 1500W. Nivel de tostado regulable (1 a 7) y funciones de recalentar, cancelar y descongelar. Práctica para familias: hace 4 tostadas a la vez. Funciona bien, con marcas de uso normales. Se libera por mudanza a Chile.",
+      "descripcion": "Tostadora eléctrica Thomas negra, con dos secciones independientes, control de tostado (1 a 7) y funciones de recalentar, cancelar y descongelar. A tener en cuenta: hoy funcionan 2 de las 4 ranuras (una de las dos secciones), así que sirve como tostadora de 2 panes; por eso va a precio de liquidación. Se libera por mudanza a Chile.",
       "interno": {
         "comps": [
           {
@@ -2054,7 +2055,7 @@
             "nota": "Tostadoras 4 rebanadas NUEVAS $39-92k en ML AR; usadas más baratas. Thomas (Robert Thomas, hecha en PRC) poco conocida en AR."
           }
         ],
-        "logica_tasacion": "Tostadora Thomas TH-126 4 ranuras 1500W, funciona, buen estado con marcas de uso. Marca poco conocida en AR. Comps nuevas desde $39k. Fijado $19.000 (~mitad de la nueva más barata; agresivo, electrodoméstico chico usado). Termina en 9. Sin link_specs confiable del modelo. Serie NO publicada (foto 4867 descartada).",
+        "logica_tasacion": "REBAJA (17/7): funcionan solo 2 de 4 ranuras -> tostadora de 2 panes efectiva. $19.000 -> $9.000 (mitad de capacidad muerta; una 2-panes usada off-brand vale ~$8-14k). Termina en 9.",
         "fecha_tasacion": "2026-07-17",
         "rebajas_aplicadas": []
       }
