@@ -5,7 +5,6 @@
 - **LIV-006/007** bibliotecas — (opcional) foto **vacía** de los estantes
 
 ## B) Datos que me debés (fichas ya publicadas)
-- **LAV-004** tabla de planchar — **medidas** (largo × ancho de la tabla + rango de altura)
 - **EXT-002** juego de jardín de ratán — **medidas** (sofá / sillones / mesa ratona)
 
 ## C) Por fotografiar (aún sin foto)
