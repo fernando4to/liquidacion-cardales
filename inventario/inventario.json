@@ -2281,6 +2281,41 @@
         "fecha_tasacion": "2026-07-18",
         "rebajas_aplicadas": []
       }
+    },
+    {
+      "id": "OFI-009",
+      "nombre": "Lámpara de escritorio (velador) metálica con cuello flexible",
+      "categoria": "otro",
+      "ambiente": "oficina",
+      "marca": null,
+      "modelo": null,
+      "antiguedad": "no especificada",
+      "medidas": null,
+      "estado": "muy bueno",
+      "defectos": [],
+      "precio_ars": 14000,
+      "precio_firme": true,
+      "estado_venta": "disponible",
+      "fotos": [
+        "OFI-009-1.jpg",
+        "OFI-009-2.jpg",
+        "OFI-009-3.jpg"
+      ],
+      "link_specs": null,
+      "descripcion": "Lámpara de escritorio (velador) de metal, con cuello de ganso flexible cromado y base redonda negra: orientás la luz a donde la necesites, ideal para leer, estudiar o el escritorio. Portalámparas E27 estándar (apta LED o bajo consumo, hasta 40W) e incluye el foco LED. Funciona bien (probada encendida). Se libera por mudanza a Chile.",
+      "interno": {
+        "comps": [
+          {
+            "url": "https://listado.mercadolibre.com.ar/lampara-escritorio-flexible-veladores",
+            "precio": null,
+            "fecha": "2026-07-21",
+            "nota": "Veladores flexibles nuevos ~$25k. Este es metálico (mejor que plástico), funciona, incluye foco LED, E27/40W."
+          }
+        ],
+        "logica_tasacion": "Velador de escritorio metálico cuello flexible, funciona (probado encendido), incluye foco. Nuevo similar ~$25k. Fijado $14.000 (~56% del nuevo, agresivo). Termina en 4.",
+        "fecha_tasacion": "2026-07-21",
+        "rebajas_aplicadas": []
+      }
     }
   ],
   "config": {
