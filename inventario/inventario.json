@@ -2297,8 +2297,8 @@
       "precio_firme": true,
       "estado_venta": "disponible",
       "fotos": [
-        "OFI-009-1.jpg",
         "OFI-009-2.jpg",
+        "OFI-009-1.jpg",
         "OFI-009-3.jpg"
       ],
       "link_specs": null,
